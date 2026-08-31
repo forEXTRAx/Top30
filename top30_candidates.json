@@ -4365,7 +4365,7 @@
       },
       "discovery_source": "boosted",
       "is_boosted": true,
-      "boost_amount": 100.0,
+      "boost_amount": null,
       "boost_total_amount": 100.0,
       "boost_events": [
         {
@@ -4411,6 +4411,16 @@
         {
           "ts_ms": 1788214404473,
           "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788215118636,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788215118636,
+          "amount": null,
           "total_amount": 100.0
         }
       ]
@@ -5434,6 +5444,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1788215123739,
+          "age_min": 35.84588333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "DVXhwQRDJSNxz5ys7impNmngymDKNmT58q5pQE2sUcUY",
+          "pair_created_at_ms": null,
+          "price_usd": 1.569e-05,
+          "price_native": 1.519e-07,
+          "market_cap_usd": 15692.35,
+          "fdv_usd": 15692.35,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 87.85,
+          "volume_h1_usd": 1106.94,
+          "volume_h6_usd": 2558.7,
+          "volume_h24_usd": 6709.63,
+          "buys_m5": 0.0,
+          "sells_m5": 2.0,
+          "buys_h1": 29.0,
+          "sells_h1": 8.0,
+          "buys_h6": 35.0,
+          "sells_h6": 16.0,
+          "buys_h24": 84.0,
+          "sells_h24": 57.0,
+          "price_change_5m_pct": -2.5,
+          "price_change_1h_pct": 25.4,
+          "price_change_6h_pct": 11.69,
+          "price_change_24h_pct": 17.3,
+          "url": "https://dexscreener.com/solana/dvxhwqrdjsnxz5ys7impnmngymdknmt58q5pqe2sucuy",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/D6yf2VhugeObyu71?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Z-8LkYchrfYRpYrL?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GDxQgpkVkC6BYSv1wBkopcr2KpTH3f1w9J2bGxmNo3T3?timestamp=1788215100000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/ShalomSolana_",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GDxQgpkVkC6BYSv1wBkopcr2KpTH3f1w9J2bGxmNo3T3",
+            "name": "shalom",
+            "symbol": "shalom"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 3.625,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": 21.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -5453,6 +5522,11 @@
         },
         {
           "ts_ms": 1788214404473,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788215118636,
           "amount": 10.0,
           "total_amount": 10.0
         }
