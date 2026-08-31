@@ -3438,6 +3438,11 @@
           "ts_ms": 1788209409222,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788210139612,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -3860,6 +3865,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1788210144274,
+          "age_min": 32.82123333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "YpELs598DkkF6qoiXbPhWdavymRxzoT1G9wTpePRZ7Q",
+          "pair_created_at_ms": 1788208175000,
+          "price_usd": 4.264e-05,
+          "price_native": 4.108e-07,
+          "market_cap_usd": 42649.36,
+          "fdv_usd": 42649.36,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 2339.34,
+          "volume_h1_usd": 16505.92,
+          "volume_h6_usd": 16505.92,
+          "volume_h24_usd": 16505.92,
+          "buys_m5": 24.0,
+          "sells_m5": 12.0,
+          "buys_h1": 135.0,
+          "sells_h1": 95.0,
+          "buys_h6": 135.0,
+          "sells_h6": 95.0,
+          "buys_h24": 135.0,
+          "sells_h24": 95.0,
+          "price_change_5m_pct": 29.55,
+          "price_change_1h_pct": 77.14,
+          "price_change_6h_pct": 77.14,
+          "price_change_24h_pct": 77.14,
+          "url": "https://dexscreener.com/solana/ypels598dkkf6qoixbphwdavymrxzot1g9wtpeprz7q",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/zz1TDVw1tL34s-9c?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/cTmNeS_m_3mkg6O0?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BbumEPpAicFLiughNXpDkPMg3byJfZFM1SPpfpCqpump?timestamp=1788210000000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://t.me/awifsgroup",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "BbumEPpAicFLiughNXpDkPMg3byJfZFM1SPpfpCqpump",
+            "name": "Ape Wif",
+            "symbol": "AWIF"
+          },
+          "buy_sell_ratio_m5": 2.0,
+          "buy_sell_ratio_h1": 1.4210526315789473,
+          "net_buys_m5": 12.0,
+          "net_buys_h1": 40.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -3869,6 +3933,11 @@
       "boost_events": [
         {
           "ts_ms": 1788209409222,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788210139612,
           "amount": 100.0,
           "total_amount": 100.0
         }
