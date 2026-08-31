@@ -1090,6 +1090,11 @@
           "ts_ms": 1788135622626,
           "amount": 30.0,
           "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788136332040,
+          "amount": 30.0,
+          "total_amount": 30.0
         }
       ]
     },
@@ -1747,6 +1752,78 @@
           "volume_liquidity_ratio_m5": 0.035509580796438824,
           "capital_inflow_index": 0.1065,
           "capital_inflow_index_h1": 1.1917
+        },
+        "60": {
+          "timestamp_ms": 1788136335628,
+          "age_min": 67.51046666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "5fScVBfymEkRd17ddoLfuwatkWRHd9mG98Guyo1BKQUx",
+          "pair_created_at_ms": 1788132285000,
+          "price_usd": 8.307e-05,
+          "price_native": 8.133e-07,
+          "market_cap_usd": 80486.0,
+          "fdv_usd": 80486.0,
+          "liquidity_usd": 22681.72,
+          "liquidity_base": 147440243.0,
+          "liquidity_quote": 102.1506,
+          "volume_m5_usd": 1674.3,
+          "volume_h1_usd": 20404.42,
+          "volume_h6_usd": 23234.86,
+          "volume_h24_usd": 23234.86,
+          "buys_m5": 21.0,
+          "sells_m5": 16.0,
+          "buys_h1": 204.0,
+          "sells_h1": 175.0,
+          "buys_h6": 321.0,
+          "sells_h6": 219.0,
+          "buys_h24": 321.0,
+          "sells_h24": 219.0,
+          "price_change_5m_pct": -20.84,
+          "price_change_1h_pct": 13.93,
+          "price_change_6h_pct": 95.59,
+          "price_change_24h_pct": 95.59,
+          "url": "https://dexscreener.com/solana/5fscvbfymekrd17ddolfuwatkwrhd9mg98guyo1bkqux",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/zZ54_S28ifUXZvqd?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/LSY9ZCobc-OmRxqB?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9?timestamp=1788136200000",
+            "websites": [
+              {
+                "url": "https://pandacoin.tech",
+                "label": "Website"
+              },
+              {
+                "url": "https://bitcointalk.org/index.php?topic=5592793",
+                "label": "Docs"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/PandaCoinPND",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/pandacoin",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9",
+            "name": "Pandacoin",
+            "symbol": "pandacoin"
+          },
+          "buy_sell_ratio_m5": 1.3125,
+          "buy_sell_ratio_h1": 1.1657142857142857,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 29.0,
+          "volume_liquidity_ratio_h1": 0.8995975613842335,
+          "volume_liquidity_ratio_m5": 0.07381715319649479,
+          "capital_inflow_index": 0.0955,
+          "capital_inflow_index_h1": 1.0478
         }
       },
       "discovery_source": "boosted",
@@ -1761,6 +1838,11 @@
         },
         {
           "ts_ms": 1788135622626,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788136332040,
           "amount": 100.0,
           "total_amount": 100.0
         }
