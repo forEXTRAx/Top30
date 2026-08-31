@@ -3443,6 +3443,11 @@
           "ts_ms": 1788210139612,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788210851005,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -3940,6 +3945,482 @@
           "ts_ms": 1788210139612,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788210851005,
+          "amount": 100.0,
+          "total_amount": 100.0
+        }
+      ]
+    },
+    "solana:9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump": {
+      "id": "solana:9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump",
+      "chain": "solana",
+      "address": "9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump",
+      "pair_address": "8hBvFm5ake3GuJQVYZj1MQxzogZTWzFizKLoWp8qNYrk",
+      "launch_time_ms": 1788210650000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788210851626,
+          "age_min": 3.3604333333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "8hBvFm5ake3GuJQVYZj1MQxzogZTWzFizKLoWp8qNYrk",
+          "pair_created_at_ms": 1788210650000,
+          "price_usd": 1.205e-05,
+          "price_native": 1.165e-07,
+          "market_cap_usd": 12056.77,
+          "fdv_usd": 12056.77,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 8940.58,
+          "volume_h1_usd": 8940.58,
+          "volume_h6_usd": 8940.58,
+          "volume_h24_usd": 8940.58,
+          "buys_m5": 155.0,
+          "sells_m5": 65.0,
+          "buys_h1": 155.0,
+          "sells_h1": 65.0,
+          "buys_h6": 155.0,
+          "sells_h6": 65.0,
+          "buys_h24": 155.0,
+          "sells_h24": 65.0,
+          "price_change_5m_pct": 278.0,
+          "price_change_1h_pct": 278.0,
+          "price_change_6h_pct": 278.0,
+          "price_change_24h_pct": 278.0,
+          "url": "https://dexscreener.com/solana/8hbvfm5ake3gujqvyzj1mqxzogztwzfizklowp8qnyrk",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/PbZas0NGU3uVpFB_?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/XXIqkmmINLOqW0Ug?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump?timestamp=1788210900000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/rice_pump",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump",
+            "name": "rice",
+            "symbol": "RICE"
+          },
+          "buy_sell_ratio_m5": 2.3846153846153846,
+          "buy_sell_ratio_h1": 2.3846153846153846,
+          "net_buys_m5": 90.0,
+          "net_buys_h1": 90.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "2": {
+          "timestamp_ms": 1788210851626,
+          "age_min": 3.3604333333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "8hBvFm5ake3GuJQVYZj1MQxzogZTWzFizKLoWp8qNYrk",
+          "pair_created_at_ms": 1788210650000,
+          "price_usd": 1.205e-05,
+          "price_native": 1.165e-07,
+          "market_cap_usd": 12056.77,
+          "fdv_usd": 12056.77,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 8940.58,
+          "volume_h1_usd": 8940.58,
+          "volume_h6_usd": 8940.58,
+          "volume_h24_usd": 8940.58,
+          "buys_m5": 155.0,
+          "sells_m5": 65.0,
+          "buys_h1": 155.0,
+          "sells_h1": 65.0,
+          "buys_h6": 155.0,
+          "sells_h6": 65.0,
+          "buys_h24": 155.0,
+          "sells_h24": 65.0,
+          "price_change_5m_pct": 278.0,
+          "price_change_1h_pct": 278.0,
+          "price_change_6h_pct": 278.0,
+          "price_change_24h_pct": 278.0,
+          "url": "https://dexscreener.com/solana/8hbvfm5ake3gujqvyzj1mqxzogztwzfizklowp8qnyrk",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/PbZas0NGU3uVpFB_?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/XXIqkmmINLOqW0Ug?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump?timestamp=1788210900000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/rice_pump",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump",
+            "name": "rice",
+            "symbol": "RICE"
+          },
+          "buy_sell_ratio_m5": 2.3846153846153846,
+          "buy_sell_ratio_h1": 2.3846153846153846,
+          "net_buys_m5": 90.0,
+          "net_buys_h1": 90.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "3": {
+          "timestamp_ms": 1788210851626,
+          "age_min": 3.3604333333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "8hBvFm5ake3GuJQVYZj1MQxzogZTWzFizKLoWp8qNYrk",
+          "pair_created_at_ms": 1788210650000,
+          "price_usd": 1.205e-05,
+          "price_native": 1.165e-07,
+          "market_cap_usd": 12056.77,
+          "fdv_usd": 12056.77,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 8940.58,
+          "volume_h1_usd": 8940.58,
+          "volume_h6_usd": 8940.58,
+          "volume_h24_usd": 8940.58,
+          "buys_m5": 155.0,
+          "sells_m5": 65.0,
+          "buys_h1": 155.0,
+          "sells_h1": 65.0,
+          "buys_h6": 155.0,
+          "sells_h6": 65.0,
+          "buys_h24": 155.0,
+          "sells_h24": 65.0,
+          "price_change_5m_pct": 278.0,
+          "price_change_1h_pct": 278.0,
+          "price_change_6h_pct": 278.0,
+          "price_change_24h_pct": 278.0,
+          "url": "https://dexscreener.com/solana/8hbvfm5ake3gujqvyzj1mqxzogztwzfizklowp8qnyrk",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/PbZas0NGU3uVpFB_?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/XXIqkmmINLOqW0Ug?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump?timestamp=1788210900000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/rice_pump",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9zgcyrfSEZMdwqLvbZxtC5T1XGbpvJbkotZgeatMpump",
+            "name": "rice",
+            "symbol": "RICE"
+          },
+          "buy_sell_ratio_m5": 2.3846153846153846,
+          "buy_sell_ratio_h1": 2.3846153846153846,
+          "net_buys_m5": 90.0,
+          "net_buys_h1": 90.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        }
+      },
+      "discovery_source": "organic"
+    },
+    "solana:GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump": {
+      "id": "solana:GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+      "chain": "solana",
+      "address": "GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+      "pair_address": "FoMxBPKLXcJ4HhqYVHhuSFe5utiADo2KGhM4wkCuop9W",
+      "launch_time_ms": 1788210393000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788210854871,
+          "age_min": 7.69785,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FoMxBPKLXcJ4HhqYVHhuSFe5utiADo2KGhM4wkCuop9W",
+          "pair_created_at_ms": 1788210393000,
+          "price_usd": 2.87e-05,
+          "price_native": 0.2888,
+          "market_cap_usd": 28704.0,
+          "fdv_usd": 28704.0,
+          "liquidity_usd": 10.12,
+          "liquidity_base": 177383.0,
+          "liquidity_quote": 50610.0,
+          "volume_m5_usd": 2.25,
+          "volume_h1_usd": 3.69,
+          "volume_h6_usd": 3.69,
+          "volume_h24_usd": 3.69,
+          "buys_m5": 10.0,
+          "sells_m5": 12.0,
+          "buys_h1": 15.0,
+          "sells_h1": 19.0,
+          "buys_h6": 15.0,
+          "sells_h6": 19.0,
+          "buys_h24": 15.0,
+          "sells_h24": 19.0,
+          "price_change_5m_pct": 11.21,
+          "price_change_1h_pct": 7.2,
+          "price_change_6h_pct": 7.2,
+          "price_change_24h_pct": 7.2,
+          "url": "https://dexscreener.com/solana/fomxbpklxcj4hhqyvhhusfe5utiado2kghm4wkcuop9w",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kCGJXGsspESij5AG?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ycLDCWyuRi9SmdnG?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump?timestamp=1788210900000",
+            "websites": [
+              {
+                "url": "https://mangosetf.fun/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/idrawsol/status/2094529671388086661",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+            "name": "MANGOS Plus Index ETF",
+            "symbol": "FRUT"
+          },
+          "buy_sell_ratio_m5": 0.8333333333333334,
+          "buy_sell_ratio_h1": 0.7894736842105263,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": -4.0,
+          "volume_liquidity_ratio_h1": 0.36462450592885376,
+          "volume_liquidity_ratio_m5": 0.2223320158102767,
+          "capital_inflow_index": 0.1881,
+          "capital_inflow_index_h1": 0.2917
+        },
+        "2": {
+          "timestamp_ms": 1788210854871,
+          "age_min": 7.69785,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FoMxBPKLXcJ4HhqYVHhuSFe5utiADo2KGhM4wkCuop9W",
+          "pair_created_at_ms": 1788210393000,
+          "price_usd": 2.87e-05,
+          "price_native": 0.2888,
+          "market_cap_usd": 28704.0,
+          "fdv_usd": 28704.0,
+          "liquidity_usd": 10.12,
+          "liquidity_base": 177383.0,
+          "liquidity_quote": 50610.0,
+          "volume_m5_usd": 2.25,
+          "volume_h1_usd": 3.69,
+          "volume_h6_usd": 3.69,
+          "volume_h24_usd": 3.69,
+          "buys_m5": 10.0,
+          "sells_m5": 12.0,
+          "buys_h1": 15.0,
+          "sells_h1": 19.0,
+          "buys_h6": 15.0,
+          "sells_h6": 19.0,
+          "buys_h24": 15.0,
+          "sells_h24": 19.0,
+          "price_change_5m_pct": 11.21,
+          "price_change_1h_pct": 7.2,
+          "price_change_6h_pct": 7.2,
+          "price_change_24h_pct": 7.2,
+          "url": "https://dexscreener.com/solana/fomxbpklxcj4hhqyvhhusfe5utiado2kghm4wkcuop9w",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kCGJXGsspESij5AG?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ycLDCWyuRi9SmdnG?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump?timestamp=1788210900000",
+            "websites": [
+              {
+                "url": "https://mangosetf.fun/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/idrawsol/status/2094529671388086661",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+            "name": "MANGOS Plus Index ETF",
+            "symbol": "FRUT"
+          },
+          "buy_sell_ratio_m5": 0.8333333333333334,
+          "buy_sell_ratio_h1": 0.7894736842105263,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": -4.0,
+          "volume_liquidity_ratio_h1": 0.36462450592885376,
+          "volume_liquidity_ratio_m5": 0.2223320158102767,
+          "capital_inflow_index": 0.1881,
+          "capital_inflow_index_h1": 0.2917
+        },
+        "3": {
+          "timestamp_ms": 1788210854871,
+          "age_min": 7.69785,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FoMxBPKLXcJ4HhqYVHhuSFe5utiADo2KGhM4wkCuop9W",
+          "pair_created_at_ms": 1788210393000,
+          "price_usd": 2.87e-05,
+          "price_native": 0.2888,
+          "market_cap_usd": 28704.0,
+          "fdv_usd": 28704.0,
+          "liquidity_usd": 10.12,
+          "liquidity_base": 177383.0,
+          "liquidity_quote": 50610.0,
+          "volume_m5_usd": 2.25,
+          "volume_h1_usd": 3.69,
+          "volume_h6_usd": 3.69,
+          "volume_h24_usd": 3.69,
+          "buys_m5": 10.0,
+          "sells_m5": 12.0,
+          "buys_h1": 15.0,
+          "sells_h1": 19.0,
+          "buys_h6": 15.0,
+          "sells_h6": 19.0,
+          "buys_h24": 15.0,
+          "sells_h24": 19.0,
+          "price_change_5m_pct": 11.21,
+          "price_change_1h_pct": 7.2,
+          "price_change_6h_pct": 7.2,
+          "price_change_24h_pct": 7.2,
+          "url": "https://dexscreener.com/solana/fomxbpklxcj4hhqyvhhusfe5utiado2kghm4wkcuop9w",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kCGJXGsspESij5AG?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ycLDCWyuRi9SmdnG?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump?timestamp=1788210900000",
+            "websites": [
+              {
+                "url": "https://mangosetf.fun/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/idrawsol/status/2094529671388086661",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+            "name": "MANGOS Plus Index ETF",
+            "symbol": "FRUT"
+          },
+          "buy_sell_ratio_m5": 0.8333333333333334,
+          "buy_sell_ratio_h1": 0.7894736842105263,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": -4.0,
+          "volume_liquidity_ratio_h1": 0.36462450592885376,
+          "volume_liquidity_ratio_m5": 0.2223320158102767,
+          "capital_inflow_index": 0.1881,
+          "capital_inflow_index_h1": 0.2917
+        },
+        "5": {
+          "timestamp_ms": 1788210854871,
+          "age_min": 7.69785,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FoMxBPKLXcJ4HhqYVHhuSFe5utiADo2KGhM4wkCuop9W",
+          "pair_created_at_ms": 1788210393000,
+          "price_usd": 2.87e-05,
+          "price_native": 0.2888,
+          "market_cap_usd": 28704.0,
+          "fdv_usd": 28704.0,
+          "liquidity_usd": 10.12,
+          "liquidity_base": 177383.0,
+          "liquidity_quote": 50610.0,
+          "volume_m5_usd": 2.25,
+          "volume_h1_usd": 3.69,
+          "volume_h6_usd": 3.69,
+          "volume_h24_usd": 3.69,
+          "buys_m5": 10.0,
+          "sells_m5": 12.0,
+          "buys_h1": 15.0,
+          "sells_h1": 19.0,
+          "buys_h6": 15.0,
+          "sells_h6": 19.0,
+          "buys_h24": 15.0,
+          "sells_h24": 19.0,
+          "price_change_5m_pct": 11.21,
+          "price_change_1h_pct": 7.2,
+          "price_change_6h_pct": 7.2,
+          "price_change_24h_pct": 7.2,
+          "url": "https://dexscreener.com/solana/fomxbpklxcj4hhqyvhhusfe5utiado2kghm4wkcuop9w",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kCGJXGsspESij5AG?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ycLDCWyuRi9SmdnG?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump?timestamp=1788210900000",
+            "websites": [
+              {
+                "url": "https://mangosetf.fun/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/idrawsol/status/2094529671388086661",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GtVfZNx5MSBHreD75bqiUFXYbpF9JEvfAUt8JWoopump",
+            "name": "MANGOS Plus Index ETF",
+            "symbol": "FRUT"
+          },
+          "buy_sell_ratio_m5": 0.8333333333333334,
+          "buy_sell_ratio_h1": 0.7894736842105263,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": -4.0,
+          "volume_liquidity_ratio_h1": 0.36462450592885376,
+          "volume_liquidity_ratio_m5": 0.2223320158102767,
+          "capital_inflow_index": 0.1881,
+          "capital_inflow_index_h1": 0.2917
+        }
+      },
+      "discovery_source": "boosted",
+      "is_boosted": true,
+      "boost_amount": 30.0,
+      "boost_total_amount": 30.0,
+      "boost_events": [
+        {
+          "ts_ms": 1788210851005,
+          "amount": 30.0,
+          "total_amount": 30.0
         }
       ]
     }
