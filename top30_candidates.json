@@ -3326,6 +3326,67 @@
           "volume_liquidity_ratio_m5": 0.01844880174291939,
           "capital_inflow_index": 0.0031,
           "capital_inflow_index_h1": 0.1564
+        },
+        "120": {
+          "timestamp_ms": 1788208697109,
+          "age_min": 120.63515,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "2d3Lhs4t1NmUoEsmrfWYXyW6KZZkdduGTVRj7W92LAsL",
+          "pair_created_at_ms": 1788201459000,
+          "price_usd": 7.832e-06,
+          "price_native": 2.91e-08,
+          "market_cap_usd": 7833.0,
+          "fdv_usd": 7833.0,
+          "liquidity_usd": 7327.04,
+          "liquidity_base": 781170993.0,
+          "liquidity_quote": 4.4885,
+          "volume_m5_usd": 166.18,
+          "volume_h1_usd": 1100.06,
+          "volume_h6_usd": 17191.32,
+          "volume_h24_usd": 17191.32,
+          "buys_m5": 0.0,
+          "sells_m5": 2.0,
+          "buys_h1": 6.0,
+          "sells_h1": 33.0,
+          "buys_h6": 199.0,
+          "sells_h6": 142.0,
+          "buys_h24": 199.0,
+          "sells_h24": 142.0,
+          "price_change_5m_pct": -5.25,
+          "price_change_1h_pct": -19.07,
+          "price_change_6h_pct": 47.91,
+          "price_change_24h_pct": 47.91,
+          "url": "https://dexscreener.com/solana/2d3lhs4t1nmuoesmrfwyxyw6kzzkddugtvrj7w92lasl",
+          "labels": [
+            "CLMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/nVRr7cZj-usQOYW9?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/_u62c5SSDVi4Aywa?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7opgFCUbbSgxrwJXLvfssvif5UPaYKFQ95vmi2Ljgpzg?timestamp=1788208800000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/mcdonalds/status/1486115285983805444?s=46",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "7opgFCUbbSgxrwJXLvfssvif5UPaYKFQ95vmi2Ljgpzg",
+            "name": "grimacecoin",
+            "symbol": "GRIMACE"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 0.18181818181818182,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": -27.0,
+          "volume_liquidity_ratio_h1": 0.1501370266847185,
+          "volume_liquidity_ratio_m5": 0.0226803729746255,
+          "capital_inflow_index": 0.0076,
+          "capital_inflow_index_h1": 0.0309
         }
       },
       "discovery_source": "boosted",
@@ -3365,6 +3426,11 @@
         },
         {
           "ts_ms": 1788207972205,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788208691623,
           "amount": 10.0,
           "total_amount": 10.0
         }
