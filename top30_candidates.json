@@ -631,6 +631,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "240": {
+          "timestamp_ms": 1788198718274,
+          "age_min": 246.67123333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "FVSUT4ZrGs6vijTJgbGXkGZDkcK2XyjiHEU5bGd9gN5i",
+          "pair_created_at_ms": 1788183918000,
+          "price_usd": 3.535e-06,
+          "price_native": 3.436e-08,
+          "market_cap_usd": 3535.21,
+          "fdv_usd": 3535.21,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 112.3,
+          "volume_h6_usd": 2653.75,
+          "volume_h24_usd": 2653.75,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 13.0,
+          "sells_h1": 3.0,
+          "buys_h6": 39.0,
+          "sells_h6": 22.0,
+          "buys_h24": 39.0,
+          "sells_h24": 22.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -2.07,
+          "price_change_6h_pct": 15.44,
+          "price_change_24h_pct": 15.44,
+          "url": "https://dexscreener.com/solana/fvsut4zrgs6vijtjgbgxkgzdkck2xyjiheu5bgd9gn5i",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "299Wo9kFuTMhbx1RHuTHva3m5y5W2bnp9EvkkWSwpump",
+            "name": "TSE",
+            "symbol": "TSE "
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 4.333333333333333,
+          "net_buys_m5": 0,
+          "net_buys_h1": 10.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -665,6 +713,11 @@
         },
         {
           "ts_ms": 1788198020064,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788198714869,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -1266,6 +1319,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "90": {
+          "timestamp_ms": 1788198718444,
+          "age_min": 97.17406666666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "HgmXQqar2TZyjvs1YtkqDoo1n3tVxZWvKw1WMwLZkTSK",
+          "pair_created_at_ms": 1788192888000,
+          "price_usd": 3.821e-06,
+          "price_native": 3.687e-08,
+          "market_cap_usd": 3821.01,
+          "fdv_usd": 3821.01,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 56.93,
+          "volume_h1_usd": 4260.51,
+          "volume_h6_usd": 44726.17,
+          "volume_h24_usd": 44726.17,
+          "buys_m5": 0.0,
+          "sells_m5": 3.0,
+          "buys_h1": 53.0,
+          "sells_h1": 86.0,
+          "buys_h6": 881.0,
+          "sells_h6": 620.0,
+          "buys_h24": 881.0,
+          "sells_h24": 620.0,
+          "price_change_5m_pct": -2.82,
+          "price_change_1h_pct": -59.65,
+          "price_change_6h_pct": 15.07,
+          "price_change_24h_pct": 15.07,
+          "url": "https://dexscreener.com/solana/hgmxqqar2tzyjvs1ytkqdoo1n3tvxzwvkw1wmwlzktsk",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OtDcyoG9Cvrf5Sss?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/zhQiKzhjbsoz-7Fc?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BNnn6cfLSNwRTGzm4JmgiBwDCG7Yj7JKdCWLRrupump?timestamp=1788198600000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/trencherdeploy/status/2094458816750297319?s=46",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "BNnn6cfLSNwRTGzm4JmgiBwDCG7Yj7JKdCWLRrupump",
+            "name": "Baby Artificial Inu",
+            "symbol": "BabyAI"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 0.6162790697674418,
+          "net_buys_m5": -3.0,
+          "net_buys_h1": -33.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -1300,6 +1412,11 @@
         },
         {
           "ts_ms": 1788198020064,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788198714869,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -1752,6 +1869,69 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1788198718608,
+          "age_min": 34.80915,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.216e-05,
+          "price_native": 1.174e-07,
+          "market_cap_usd": 12169.87,
+          "fdv_usd": 12169.87,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 201.59,
+          "volume_h1_usd": 3934.7,
+          "volume_h6_usd": 14360.9,
+          "volume_h24_usd": 14360.9,
+          "buys_m5": 2.0,
+          "sells_m5": 5.0,
+          "buys_h1": 82.0,
+          "sells_h1": 42.0,
+          "buys_h6": 268.0,
+          "sells_h6": 122.0,
+          "buys_h24": 268.0,
+          "sells_h24": 122.0,
+          "price_change_5m_pct": -4.95,
+          "price_change_1h_pct": 31.91,
+          "price_change_6h_pct": 274.0,
+          "price_change_24h_pct": 274.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788198600000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 0.4,
+          "buy_sell_ratio_h1": 1.9523809523809523,
+          "net_buys_m5": -3.0,
+          "net_buys_h1": 40.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -1771,6 +1951,507 @@
         },
         {
           "ts_ms": 1788198020064,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788198714869,
+          "amount": 30.0,
+          "total_amount": 30.0
+        }
+      ]
+    },
+    "solana:HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump": {
+      "id": "solana:HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+      "chain": "solana",
+      "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+      "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+      "launch_time_ms": 1788197129000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "2": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "3": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "5": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "10": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "15": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        },
+        "20": {
+          "timestamp_ms": 1788198716981,
+          "age_min": 26.46635,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "FCCpr1Det1is7jf1aYvsGGc8E2WL3M1RKU6KoMrvEHoo",
+          "pair_created_at_ms": 1788197129000,
+          "price_usd": 5.664e-05,
+          "price_native": 5.465e-07,
+          "market_cap_usd": 56642.0,
+          "fdv_usd": 56642.0,
+          "liquidity_usd": 18510.11,
+          "liquidity_base": 178681352.0,
+          "liquidity_quote": 80.953,
+          "volume_m5_usd": 738.48,
+          "volume_h1_usd": 6404.13,
+          "volume_h6_usd": 6404.13,
+          "volume_h24_usd": 6404.13,
+          "buys_m5": 12.0,
+          "sells_m5": 7.0,
+          "buys_h1": 120.0,
+          "sells_h1": 89.0,
+          "buys_h6": 120.0,
+          "sells_h6": 89.0,
+          "buys_h24": 120.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 1.26,
+          "price_change_1h_pct": 35.78,
+          "price_change_6h_pct": 35.78,
+          "price_change_24h_pct": 35.78,
+          "url": "https://dexscreener.com/solana/fccpr1det1is7jf1ayvsggc8e2wl3m1rku6komrvehoo",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/qb1CkzBViyECPdvy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/1Xy8jl9ffDga2Iyb?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump?timestamp=1788198600000",
+            "websites": [
+              {
+                "url": "https://ussbxr.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/USSBoxerOnSOL",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/USSBXR",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "HyNys3cFWQBALE48KqUYo8dLeDy2M3MNcfoefmPXpump",
+            "name": "USS BOXER ",
+            "symbol": "USSBXR "
+          },
+          "buy_sell_ratio_m5": 1.7142857142857142,
+          "buy_sell_ratio_h1": 1.348314606741573,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 31.0,
+          "volume_liquidity_ratio_h1": 0.34598011573134896,
+          "volume_liquidity_ratio_m5": 0.03989603519374007,
+          "capital_inflow_index": 0.0648,
+          "capital_inflow_index_h1": 0.4652
+        }
+      },
+      "discovery_source": "boosted",
+      "is_boosted": true,
+      "boost_amount": 30.0,
+      "boost_total_amount": 30.0,
+      "boost_events": [
+        {
+          "ts_ms": 1788198714869,
           "amount": 30.0,
           "total_amount": 30.0
         }
