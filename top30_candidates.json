@@ -1371,6 +1371,11 @@
           "ts_ms": 1788196630059,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788197323289,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -1996,6 +2001,11 @@
           "ts_ms": 1788196630059,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788197323289,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -2005,7 +2015,323 @@
       "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
       "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
       "launch_time_ms": 1788196630059,
-      "checkpoints": {},
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788197329845,
+          "age_min": 11.6631,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.498e-05,
+          "price_native": 1.456e-07,
+          "market_cap_usd": 14981.54,
+          "fdv_usd": 14981.54,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 295.1,
+          "volume_h1_usd": 4967.26,
+          "volume_h6_usd": 13513.79,
+          "volume_h24_usd": 13513.79,
+          "buys_m5": 23.0,
+          "sells_m5": 1.0,
+          "buys_h1": 97.0,
+          "sells_h1": 38.0,
+          "buys_h6": 259.0,
+          "sells_h6": 102.0,
+          "buys_h24": 259.0,
+          "sells_h24": 102.0,
+          "price_change_5m_pct": 8.84,
+          "price_change_1h_pct": 57.33,
+          "price_change_6h_pct": 360.0,
+          "price_change_24h_pct": 360.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788197400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 23.0,
+          "buy_sell_ratio_h1": 2.5526315789473686,
+          "net_buys_m5": 22.0,
+          "net_buys_h1": 59.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "2": {
+          "timestamp_ms": 1788197329845,
+          "age_min": 11.6631,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.498e-05,
+          "price_native": 1.456e-07,
+          "market_cap_usd": 14981.54,
+          "fdv_usd": 14981.54,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 295.1,
+          "volume_h1_usd": 4967.26,
+          "volume_h6_usd": 13513.79,
+          "volume_h24_usd": 13513.79,
+          "buys_m5": 23.0,
+          "sells_m5": 1.0,
+          "buys_h1": 97.0,
+          "sells_h1": 38.0,
+          "buys_h6": 259.0,
+          "sells_h6": 102.0,
+          "buys_h24": 259.0,
+          "sells_h24": 102.0,
+          "price_change_5m_pct": 8.84,
+          "price_change_1h_pct": 57.33,
+          "price_change_6h_pct": 360.0,
+          "price_change_24h_pct": 360.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788197400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 23.0,
+          "buy_sell_ratio_h1": 2.5526315789473686,
+          "net_buys_m5": 22.0,
+          "net_buys_h1": 59.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "3": {
+          "timestamp_ms": 1788197329845,
+          "age_min": 11.6631,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.498e-05,
+          "price_native": 1.456e-07,
+          "market_cap_usd": 14981.54,
+          "fdv_usd": 14981.54,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 295.1,
+          "volume_h1_usd": 4967.26,
+          "volume_h6_usd": 13513.79,
+          "volume_h24_usd": 13513.79,
+          "buys_m5": 23.0,
+          "sells_m5": 1.0,
+          "buys_h1": 97.0,
+          "sells_h1": 38.0,
+          "buys_h6": 259.0,
+          "sells_h6": 102.0,
+          "buys_h24": 259.0,
+          "sells_h24": 102.0,
+          "price_change_5m_pct": 8.84,
+          "price_change_1h_pct": 57.33,
+          "price_change_6h_pct": 360.0,
+          "price_change_24h_pct": 360.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788197400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 23.0,
+          "buy_sell_ratio_h1": 2.5526315789473686,
+          "net_buys_m5": 22.0,
+          "net_buys_h1": 59.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "5": {
+          "timestamp_ms": 1788197329845,
+          "age_min": 11.6631,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.498e-05,
+          "price_native": 1.456e-07,
+          "market_cap_usd": 14981.54,
+          "fdv_usd": 14981.54,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 295.1,
+          "volume_h1_usd": 4967.26,
+          "volume_h6_usd": 13513.79,
+          "volume_h24_usd": 13513.79,
+          "buys_m5": 23.0,
+          "sells_m5": 1.0,
+          "buys_h1": 97.0,
+          "sells_h1": 38.0,
+          "buys_h6": 259.0,
+          "sells_h6": 102.0,
+          "buys_h24": 259.0,
+          "sells_h24": 102.0,
+          "price_change_5m_pct": 8.84,
+          "price_change_1h_pct": 57.33,
+          "price_change_6h_pct": 360.0,
+          "price_change_24h_pct": 360.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788197400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 23.0,
+          "buy_sell_ratio_h1": 2.5526315789473686,
+          "net_buys_m5": 22.0,
+          "net_buys_h1": 59.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "10": {
+          "timestamp_ms": 1788197329845,
+          "age_min": 11.6631,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GoSdYPcWSus3BcZgKUg6udF3XyxRu8KFmuz5vvtw1Ji2",
+          "pair_created_at_ms": null,
+          "price_usd": 1.498e-05,
+          "price_native": 1.456e-07,
+          "market_cap_usd": 14981.54,
+          "fdv_usd": 14981.54,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 295.1,
+          "volume_h1_usd": 4967.26,
+          "volume_h6_usd": 13513.79,
+          "volume_h24_usd": 13513.79,
+          "buys_m5": 23.0,
+          "sells_m5": 1.0,
+          "buys_h1": 97.0,
+          "sells_h1": 38.0,
+          "buys_h6": 259.0,
+          "sells_h6": 102.0,
+          "buys_h24": 259.0,
+          "sells_h24": 102.0,
+          "price_change_5m_pct": 8.84,
+          "price_change_1h_pct": 57.33,
+          "price_change_6h_pct": 360.0,
+          "price_change_24h_pct": 360.0,
+          "url": "https://dexscreener.com/solana/gosdypcwsus3bczgkug6udf3xyxru8kfmuz5vvtw1ji2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OaenNR_aPCiTdahe?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Oo0dw2OnTXUo8Ifh?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q?timestamp=1788197400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://twitter.com/i/communities/2028930812574601608",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/ogmessipf",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "8Gv2HSBP72C2HHDe8iWeurWkraGqyy56kEFT2NA9Eq3q",
+            "name": "MESSI",
+            "symbol": "MESSI"
+          },
+          "buy_sell_ratio_m5": 23.0,
+          "buy_sell_ratio_h1": 2.5526315789473686,
+          "net_buys_m5": 22.0,
+          "net_buys_h1": 59.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        }
+      },
       "discovery_source": "boosted",
       "is_boosted": true,
       "boost_amount": 30.0,
@@ -2013,6 +2339,11 @@
       "boost_events": [
         {
           "ts_ms": 1788196630059,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788197323289,
           "amount": 30.0,
           "total_amount": 30.0
         }
