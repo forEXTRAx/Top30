@@ -436,6 +436,11 @@
           "ts_ms": 1788174285111,
           "amount": null,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": null,
+          "total_amount": 100.0
         }
       ],
       "top30_entry_time_ms": 1788114459914,
@@ -3676,6 +3681,11 @@
           "ts_ms": 1788174285111,
           "amount": null,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": null,
+          "total_amount": 100.0
         }
       ],
       "top30_entry_time_ms": 1788114459914,
@@ -5400,6 +5410,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -8912,6 +8927,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -13415,6 +13435,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -20669,6 +20694,11 @@
           "ts_ms": 1788174285111,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ],
       "top30_entry_time_ms": 1788114459914,
@@ -26520,6 +26550,74 @@
             "volume_liquidity_ratio_m5": 0.009331036945427949,
             "capital_inflow_index": 0.004,
             "capital_inflow_index_h1": 0.1745
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 15,
+          "snapshot": {
+            "timestamp_ms": 1788175014080,
+            "age_min": 4847.868,
+            "top30_rank": 15,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "77JQoGiwz2APJQ6qfqCwwsFwHA1LSMGCfsPLMPidgfd6",
+            "pair_created_at_ms": 1787884142000,
+            "price_usd": 0.0005963,
+            "price_native": 5.745e-06,
+            "market_cap_usd": 583840.0,
+            "fdv_usd": 583840.0,
+            "liquidity_usd": 72904.91,
+            "liquidity_base": 62356184.0,
+            "liquidity_quote": 344.2053,
+            "volume_m5_usd": 610.11,
+            "volume_h1_usd": 25284.55,
+            "volume_h6_usd": 88052.27,
+            "volume_h24_usd": 374791.27,
+            "buys_m5": 6.0,
+            "sells_m5": 11.0,
+            "buys_h1": 146.0,
+            "sells_h1": 165.0,
+            "buys_h6": 487.0,
+            "sells_h6": 570.0,
+            "buys_h24": 1892.0,
+            "sells_h24": 2102.0,
+            "price_change_5m_pct": 0.9,
+            "price_change_1h_pct": -5.08,
+            "price_change_6h_pct": 24.44,
+            "price_change_24h_pct": 81.39,
+            "url": "https://dexscreener.com/solana/77jqogiwz2apjq6qfqcwwsfwha1lsmgcfsplmpidgfd6",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/lPPB5rS-ZOaLBZOV?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/T374N4XLcvT-PKUV?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5CwpF2UsgWvNKeDQaKZPjQCd6jM4K32yNVRVCuh1pump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://KuroTheCat.com",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2017407575646446047",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "5CwpF2UsgWvNKeDQaKZPjQCd6jM4K32yNVRVCuh1pump",
+              "name": "Kuro",
+              "symbol": "KURO"
+            },
+            "buy_sell_ratio_m5": 0.5454545454545454,
+            "buy_sell_ratio_h1": 0.8848484848484849,
+            "net_buys_m5": -5.0,
+            "net_buys_h1": -19.0,
+            "volume_liquidity_ratio_h1": 0.34681546140033637,
+            "volume_liquidity_ratio_m5": 0.008368572157897184,
+            "capital_inflow_index": 0.0049,
+            "capital_inflow_index_h1": 0.3071
           }
         }
       ],
@@ -49986,6 +50084,74 @@
             "capital_inflow_index": 0.0201,
             "capital_inflow_index_h1": 0.1973
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 8,
+          "snapshot": {
+            "timestamp_ms": 1788175014241,
+            "age_min": 991.8206833333334,
+            "top30_rank": 8,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "EVzd8nkEKUxaw8UqTTwRLgT77YUnDo5vskkNXAd1EKp8",
+            "pair_created_at_ms": 1788115505000,
+            "price_usd": 0.0002908,
+            "price_native": 2.798e-06,
+            "market_cap_usd": 285786.0,
+            "fdv_usd": 285786.0,
+            "liquidity_usd": 52290.6,
+            "liquidity_base": 92539165.0,
+            "liquidity_quote": 244.17,
+            "volume_m5_usd": 1982.78,
+            "volume_h1_usd": 20350.86,
+            "volume_h6_usd": 152611.49,
+            "volume_h24_usd": 4336479.67,
+            "buys_m5": 14.0,
+            "sells_m5": 21.0,
+            "buys_h1": 187.0,
+            "sells_h1": 228.0,
+            "buys_h6": 5399.0,
+            "sells_h6": 2558.0,
+            "buys_h24": 54020.0,
+            "sells_h24": 37393.0,
+            "price_change_5m_pct": -8.76,
+            "price_change_1h_pct": 21.82,
+            "price_change_6h_pct": 99.4,
+            "price_change_24h_pct": 562.0,
+            "url": "https://dexscreener.com/solana/evzd8nkekuxaw8uqttwrlgt77yundo5vskknxad1ekp8",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/WJOyhfH3EB3zB-rU?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/Qw9tYQsmG20ucC4c?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/aTUfRuPj3tp7FEpzAXLjs4VnQgAFbExD5JHGTyvpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.safemoon2.com/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2036329513378816352",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "aTUfRuPj3tp7FEpzAXLjs4VnQgAFbExD5JHGTyvpump",
+              "name": "SAFEMOON",
+              "symbol": "SFM"
+            },
+            "buy_sell_ratio_m5": 0.6666666666666666,
+            "buy_sell_ratio_h1": 0.8201754385964912,
+            "net_buys_m5": -7.0,
+            "net_buys_h1": -41.0,
+            "volume_liquidity_ratio_h1": 0.3891877316381912,
+            "volume_liquidity_ratio_m5": 0.03791847865581959,
+            "capital_inflow_index": 0.0259,
+            "capital_inflow_index_h1": 0.3195
+          }
         }
       ],
       "peak_metrics": {
@@ -59079,6 +59245,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -69973,6 +70144,73 @@
             "volume_liquidity_ratio_m5": 0.01638176791767659,
             "capital_inflow_index": 0.0137,
             "capital_inflow_index_h1": 0.4891
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 20,
+          "snapshot": {
+            "timestamp_ms": 1788175014401,
+            "age_min": 971.17335,
+            "top30_rank": 20,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "HLs6kHXaYPF3dSQUpJZzcftXpKR3trGXT3qTUXxTDhqk",
+            "pair_created_at_ms": 1788116744000,
+            "price_usd": 5.161e-05,
+            "price_native": 4.973e-07,
+            "market_cap_usd": 47211.0,
+            "fdv_usd": 47211.0,
+            "liquidity_usd": 18292.28,
+            "liquidity_base": 193895095.0,
+            "liquidity_quote": 79.8301,
+            "volume_m5_usd": 190.86,
+            "volume_h1_usd": 6697.74,
+            "volume_h6_usd": 39346.83,
+            "volume_h24_usd": 577443.0,
+            "buys_m5": 3.0,
+            "sells_m5": 9.0,
+            "buys_h1": 82.0,
+            "sells_h1": 81.0,
+            "buys_h6": 398.0,
+            "sells_h6": 468.0,
+            "buys_h24": 6567.0,
+            "sells_h24": 6307.0,
+            "price_change_5m_pct": -3.25,
+            "price_change_1h_pct": 9.08,
+            "price_change_6h_pct": -9.43,
+            "price_change_24h_pct": 20.76,
+            "url": "https://dexscreener.com/solana/hls6khxaypf3dsqupjzzcftxpkr3trgxt3qtuxxtdhqk",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/gM3nXF4VKfRGKBwh?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/-QeyFwcphynrNzTw?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GrT9hTTAfBWGRWDxHoFNvLmLhdMN33WdWar6WWwEpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2036130167089725549",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://www.tiktok.com/@funnymonkey2027",
+                  "type": "tiktok"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "GrT9hTTAfBWGRWDxHoFNvLmLhdMN33WdWar6WWwEpump",
+              "name": "Wukong The Monkey",
+              "symbol": "Wukong"
+            },
+            "buy_sell_ratio_m5": 0.3333333333333333,
+            "buy_sell_ratio_h1": 1.0123456790123457,
+            "net_buys_m5": -6.0,
+            "net_buys_h1": 1.0,
+            "volume_liquidity_ratio_h1": 0.3661511850901036,
+            "volume_liquidity_ratio_m5": 0.010433909824253731,
+            "capital_inflow_index": 0.0042,
+            "capital_inflow_index_h1": 0.3706
           }
         }
       ],
@@ -96184,6 +96422,69 @@
             "capital_inflow_index": 0.0138,
             "capital_inflow_index_h1": 0.5942
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 13,
+          "snapshot": {
+            "timestamp_ms": 1788175014561,
+            "age_min": 825.5426833333333,
+            "top30_rank": 13,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "FjGgje3HWNgVNn5KPY8nydYtsL5ShffUG61RpQKVpWXP",
+            "pair_created_at_ms": 1788125482000,
+            "price_usd": 4.87e-05,
+            "price_native": 4.692e-07,
+            "market_cap_usd": 47801.0,
+            "fdv_usd": 47801.0,
+            "liquidity_usd": 21512.23,
+            "liquidity_base": 238192691.0,
+            "liquidity_quote": 95.5121,
+            "volume_m5_usd": 573.72,
+            "volume_h1_usd": 14538.3,
+            "volume_h6_usd": 105753.24,
+            "volume_h24_usd": 4821946.42,
+            "buys_m5": 3.0,
+            "sells_m5": 17.0,
+            "buys_h1": 200.0,
+            "sells_h1": 234.0,
+            "buys_h6": 1195.0,
+            "sells_h6": 1370.0,
+            "buys_h24": 39942.0,
+            "sells_h24": 34062.0,
+            "price_change_5m_pct": -2.2,
+            "price_change_1h_pct": -16.67,
+            "price_change_6h_pct": -36.62,
+            "price_change_24h_pct": 12.42,
+            "url": "https://dexscreener.com/solana/fjggje3hwngvnn5kpy8nydytsl5shffug61rpqkvpwxp",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/-kQgGNSa8JWb18Sw?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/v0PP0S-xbQAFM5Zz?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7fSbFGMXDeF5n6yL2AReiQiedaeZJgs9u4B3eA9Xpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/a1lon9/status/1939703909347410373?s=20",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "7fSbFGMXDeF5n6yL2AReiQiedaeZJgs9u4B3eA9Xpump",
+              "name": "slightly shat chair",
+              "symbol": "chair"
+            },
+            "buy_sell_ratio_m5": 0.17647058823529413,
+            "buy_sell_ratio_h1": 0.8547008547008547,
+            "net_buys_m5": -14.0,
+            "net_buys_h1": -34.0,
+            "volume_liquidity_ratio_h1": 0.6758155709566139,
+            "volume_liquidity_ratio_m5": 0.02666948056988978,
+            "capital_inflow_index": 0.0059,
+            "capital_inflow_index_h1": 0.578
+          }
         }
       ],
       "peak_metrics": {
@@ -100619,6 +100920,69 @@
             "capital_inflow_index": 0.0026,
             "capital_inflow_index_h1": 0.0677
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 26,
+          "snapshot": {
+            "timestamp_ms": 1788175014725,
+            "age_min": 1792.7454166666666,
+            "top30_rank": 26,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "CMUafg4wPfWAEU5n2SYgvWFW9zfYdwnQMTepp1bfd39q",
+            "pair_created_at_ms": 1788067450000,
+            "price_usd": 2.205e-05,
+            "price_native": 2.125e-07,
+            "market_cap_usd": 21641.0,
+            "fdv_usd": 21641.0,
+            "liquidity_usd": 13026.97,
+            "liquidity_base": 336561527.0,
+            "liquidity_quote": 53.9877,
+            "volume_m5_usd": 6.22,
+            "volume_h1_usd": 957.85,
+            "volume_h6_usd": 12010.24,
+            "volume_h24_usd": 213168.51,
+            "buys_m5": 1.0,
+            "sells_m5": 1.0,
+            "buys_h1": 11.0,
+            "sells_h1": 17.0,
+            "buys_h6": 128.0,
+            "sells_h6": 209.0,
+            "buys_h24": 2837.0,
+            "sells_h24": 3063.0,
+            "price_change_5m_pct": 1.23,
+            "price_change_1h_pct": -3.68,
+            "price_change_6h_pct": -18.08,
+            "price_change_24h_pct": -70.02,
+            "url": "https://dexscreener.com/solana/cmuafg4wpfwaeu5n2sygvwfw9zfydwnqmtepp1bfd39q",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/EPrIJ7ROt5I4C0Ji?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/hGdXhP3y8fjg3RPV?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BDSsk665JA6Bu9hRqWbdiEYTg7mXHJbWERTEwYTXpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/onchaingringo/status/2093939915578904874",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "BDSsk665JA6Bu9hRqWbdiEYTg7mXHJbWERTEwYTXpump",
+              "name": "popdog",
+              "symbol": "popdog"
+            },
+            "buy_sell_ratio_m5": 1.0,
+            "buy_sell_ratio_h1": 0.6470588235294118,
+            "net_buys_m5": 0.0,
+            "net_buys_h1": -6.0,
+            "volume_liquidity_ratio_h1": 0.07352822644099127,
+            "volume_liquidity_ratio_m5": 0.00047747096984179744,
+            "capital_inflow_index": 0.0005,
+            "capital_inflow_index_h1": 0.049
+          }
         }
       ],
       "peak_metrics": {
@@ -101016,6 +101380,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -105510,6 +105879,74 @@
             "capital_inflow_index": 0.0007,
             "capital_inflow_index_h1": 0.4012
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 24,
+          "snapshot": {
+            "timestamp_ms": 1788175014881,
+            "age_min": 796.38135,
+            "top30_rank": 24,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "GekJ9s28Zpv1kgXctKYwbCEuQpeWFngcxCaKZvyCvFs9",
+            "pair_created_at_ms": 1788127232000,
+            "price_usd": 0.0001994,
+            "price_native": 1.922e-06,
+            "market_cap_usd": 198203.0,
+            "fdv_usd": 198203.0,
+            "liquidity_usd": 36811.44,
+            "liquidity_base": 96329292.0,
+            "liquidity_quote": 169.5349,
+            "volume_m5_usd": 89.04,
+            "volume_h1_usd": 3417.93,
+            "volume_h6_usd": 15899.85,
+            "volume_h24_usd": 295259.41,
+            "buys_m5": 0.0,
+            "sells_m5": 3.0,
+            "buys_h1": 53.0,
+            "sells_h1": 42.0,
+            "buys_h6": 199.0,
+            "sells_h6": 113.0,
+            "buys_h24": 2025.0,
+            "sells_h24": 1486.0,
+            "price_change_5m_pct": -1.81,
+            "price_change_1h_pct": 5.02,
+            "price_change_6h_pct": -34.48,
+            "price_change_24h_pct": 340.0,
+            "url": "https://dexscreener.com/solana/gekj9s28zpv1kgxctkywbceuqpewfngcxcakzvycvfs9",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/MwZDM3fOrp3k6kAG?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/cU136vv-8Qd3XDSv?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6nrCD4L8GEqgXMa4fMHQjBnv9XWfyPwsHPuyRY8npump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.lqxhub.com/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/lqxonsol?s=11&t=NkKwQzsrVTC7hz3TfAH-Vw",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "6nrCD4L8GEqgXMa4fMHQjBnv9XWfyPwsHPuyRY8npump",
+              "name": "LiquidX",
+              "symbol": "LQX"
+            },
+            "buy_sell_ratio_m5": 0.0,
+            "buy_sell_ratio_h1": 1.2619047619047619,
+            "net_buys_m5": -3.0,
+            "net_buys_h1": 11.0,
+            "volume_liquidity_ratio_h1": 0.09284966847262698,
+            "volume_liquidity_ratio_m5": 0.002418813281958,
+            "capital_inflow_index": 0.0006,
+            "capital_inflow_index_h1": 0.1166
+          }
         }
       ],
       "peak_metrics": {
@@ -109129,6 +109566,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -113742,6 +114184,78 @@
             "volume_liquidity_ratio_m5": 0.041568934953141144,
             "capital_inflow_index": 0.1455,
             "capital_inflow_index_h1": 1.7366
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 12,
+          "snapshot": {
+            "timestamp_ms": 1788175015038,
+            "age_min": 763.7673,
+            "top30_rank": 12,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "BD2381TaQhPFjzn1t6NDqb6KJYY9nmosFXFCdE4XbbEW",
+            "pair_created_at_ms": 1788129189000,
+            "price_usd": 7.434e-05,
+            "price_native": 7.153e-07,
+            "market_cap_usd": 72715.0,
+            "fdv_usd": 72715.0,
+            "liquidity_usd": 21971.05,
+            "liquidity_base": 160005393.0,
+            "liquidity_quote": 96.9462,
+            "volume_m5_usd": 951.22,
+            "volume_h1_usd": 15081.46,
+            "volume_h6_usd": 82468.93,
+            "volume_h24_usd": 265735.62,
+            "buys_m5": 18.0,
+            "sells_m5": 6.0,
+            "buys_h1": 257.0,
+            "sells_h1": 98.0,
+            "buys_h6": 5724.0,
+            "sells_h6": 677.0,
+            "buys_h24": 12865.0,
+            "sells_h24": 2284.0,
+            "price_change_5m_pct": -0.03,
+            "price_change_1h_pct": 2.93,
+            "price_change_6h_pct": -23.7,
+            "price_change_24h_pct": 20.61,
+            "url": "https://dexscreener.com/solana/bd2381taqhpfjzn1t6ndqb6kjyy9nmosfxfcde4xbbew",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/WydfEEr2k1reD7YB?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/x0gxRiYgVRf7KiDo?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DnQu6xQd9zzW5dWpKppjNTRcTYFS6JDpK5xLXEZypump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://cat-fish.fun",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/CatfishSOL__",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/catfishcoinportal",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "DnQu6xQd9zzW5dWpKppjNTRcTYFS6JDpK5xLXEZypump",
+              "name": "Catfish",
+              "symbol": "catfish"
+            },
+            "buy_sell_ratio_m5": 3.0,
+            "buy_sell_ratio_h1": 2.622448979591837,
+            "net_buys_m5": 12.0,
+            "net_buys_h1": 159.0,
+            "volume_liquidity_ratio_h1": 0.6864241809107894,
+            "volume_liquidity_ratio_m5": 0.04329424401655815,
+            "capital_inflow_index": 0.1175,
+            "capital_inflow_index_h1": 1.7889
           }
         }
       ],
@@ -123626,6 +124140,78 @@
             "capital_inflow_index": 0.0,
             "capital_inflow_index_h1": 0.094
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 29,
+          "snapshot": {
+            "timestamp_ms": 1788175015198,
+            "age_min": 724.6199666666666,
+            "top30_rank": 29,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "7kjC66EpSt32FFde3tgoPd5i63P7zJ4gcaGwKqTCyCSj",
+            "pair_created_at_ms": 1788131538000,
+            "price_usd": 1.082e-05,
+            "price_native": 1.043e-07,
+            "market_cap_usd": 10434.0,
+            "fdv_usd": 10434.0,
+            "liquidity_usd": 7485.48,
+            "liquidity_base": 427236857.0,
+            "liquidity_quote": 27.5517,
+            "volume_m5_usd": 41.29,
+            "volume_h1_usd": 430.15,
+            "volume_h6_usd": 8849.07,
+            "volume_h24_usd": 639171.51,
+            "buys_m5": 0.0,
+            "sells_m5": 5.0,
+            "buys_h1": 9.0,
+            "sells_h1": 31.0,
+            "buys_h6": 177.0,
+            "sells_h6": 210.0,
+            "buys_h24": 10410.0,
+            "sells_h24": 7917.0,
+            "price_change_5m_pct": -1.53,
+            "price_change_1h_pct": 0.42,
+            "price_change_6h_pct": -20.99,
+            "price_change_24h_pct": -74.61,
+            "url": "https://dexscreener.com/solana/7kjc66epst32ffde3tgopd5i63p7zj4gcagwkqtcycsj",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Ds9VoZuPRh00uSDt?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/5_vFdoJQXQqbCMZ4?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6s66PhuZmLuPPWeBd6EsHFWU6VdfeBxDHEEZ6jMgpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://babyfone.fun/#top",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2010179639587807443",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/BABYFONEOnPump",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "6s66PhuZmLuPPWeBd6EsHFWU6VdfeBxDHEEZ6jMgpump",
+              "name": "BabyApeOnFone",
+              "symbol": "BABYFONE"
+            },
+            "buy_sell_ratio_m5": 0.0,
+            "buy_sell_ratio_h1": 0.2903225806451613,
+            "net_buys_m5": -5.0,
+            "net_buys_h1": -22.0,
+            "volume_liquidity_ratio_h1": 0.057464584769446984,
+            "volume_liquidity_ratio_m5": 0.005516012333210429,
+            "capital_inflow_index": 0.0009,
+            "capital_inflow_index_h1": 0.018
+          }
         }
       ],
       "peak_metrics": {
@@ -131482,6 +132068,73 @@
             "capital_inflow_index": null,
             "capital_inflow_index_h1": null
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 25,
+          "snapshot": {
+            "timestamp_ms": 1788175015384,
+            "age_min": 712.8564,
+            "top30_rank": 25,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "Cwd8zWtoh885b971eKHy6C58GXzEQmXytCooxY6598oQ",
+            "pair_created_at_ms": 1788132244000,
+            "price_usd": 3.002e-05,
+            "price_native": 2.892e-07,
+            "market_cap_usd": 30020.67,
+            "fdv_usd": 30020.67,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 8.4,
+            "volume_h1_usd": 2742.06,
+            "volume_h6_usd": 13344.1,
+            "volume_h24_usd": 60216.12,
+            "buys_m5": 2.0,
+            "sells_m5": 1.0,
+            "buys_h1": 45.0,
+            "sells_h1": 30.0,
+            "buys_h6": 193.0,
+            "sells_h6": 134.0,
+            "buys_h24": 737.0,
+            "sells_h24": 522.0,
+            "price_change_5m_pct": 0.35,
+            "price_change_1h_pct": 3.82,
+            "price_change_6h_pct": 11.19,
+            "price_change_24h_pct": 932.0,
+            "url": "https://dexscreener.com/solana/cwd8zwtoh885b971ekhy6c58gxzeqmxytcooxy6598oq",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Ffd7zHsrgCWErtxn?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/HTfcfBpttRZ9z5SH?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GxVNpeLLF567vmokpKm83UW8MeiJddPfWmZr6o6Ppump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/nvidia_mascot",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/shelly_nvidia_mascot",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "GxVNpeLLF567vmokpKm83UW8MeiJddPfWmZr6o6Ppump",
+              "name": "The Nvidia Mascot",
+              "symbol": "SHELLY"
+            },
+            "buy_sell_ratio_m5": 2.0,
+            "buy_sell_ratio_h1": 1.5,
+            "net_buys_m5": 1.0,
+            "net_buys_h1": 15.0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
         }
       ],
       "peak_metrics": {
@@ -135040,6 +135693,66 @@
             "capital_inflow_index": 0.0,
             "capital_inflow_index_h1": 0.4366
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 7,
+          "snapshot": {
+            "timestamp_ms": 1788175015547,
+            "age_min": 707.0091166666666,
+            "top30_rank": 7,
+            "chain": "solana",
+            "dex": "raydium",
+            "pair_address": "BTccxxTFi7a9xJTE1exKn38Jgie35s6gNeRxd8DM61Rc",
+            "pair_created_at_ms": 1788132595000,
+            "price_usd": 0.0004084,
+            "price_native": 4.869e-07,
+            "market_cap_usd": 408404.0,
+            "fdv_usd": 408404.0,
+            "liquidity_usd": 82213.92,
+            "liquidity_base": 105250290.0,
+            "liquidity_quote": 46.7704,
+            "volume_m5_usd": 3059.36,
+            "volume_h1_usd": 15164.72,
+            "volume_h6_usd": 235836.56,
+            "volume_h24_usd": 1441072.4,
+            "buys_m5": 6.0,
+            "sells_m5": 5.0,
+            "buys_h1": 77.0,
+            "sells_h1": 34.0,
+            "buys_h6": 1012.0,
+            "sells_h6": 644.0,
+            "buys_h24": 7544.0,
+            "sells_h24": 4262.0,
+            "price_change_5m_pct": 0.88,
+            "price_change_1h_pct": 21.15,
+            "price_change_6h_pct": 147.0,
+            "price_change_24h_pct": 7647.0,
+            "url": "https://dexscreener.com/solana/btccxxtfi7a9xjte1exkn38jgie35s6gnerxd8dm61rc",
+            "labels": [
+              "CLMM"
+            ],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/-DNNIYh0wlMsd_v4?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/Lq2m4QyY0_LgDFS0?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR?timestamp=1788174900000",
+              "websites": [],
+              "socials": []
+            },
+            "base_token": {
+              "address": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+              "name": "Anonymous Cat",
+              "symbol": "ZCAT"
+            },
+            "buy_sell_ratio_m5": 1.2,
+            "buy_sell_ratio_h1": 2.264705882352941,
+            "net_buys_m5": 1.0,
+            "net_buys_h1": 43.0,
+            "volume_liquidity_ratio_h1": 0.18445440869380755,
+            "volume_liquidity_ratio_m5": 0.03721218985787322,
+            "capital_inflow_index": 0.0434,
+            "capital_inflow_index_h1": 0.4111
+          }
         }
       ],
       "peak_metrics": {
@@ -135362,6 +136075,16 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 150.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": 100.0,
+          "total_amount": 150.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 150.0
         }
@@ -139358,6 +140081,76 @@
             "capital_inflow_index": 0.0033,
             "capital_inflow_index_h1": 0.3236
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 10,
+          "snapshot": {
+            "timestamp_ms": 1788175015702,
+            "age_min": 676.9450333333333,
+            "top30_rank": 10,
+            "chain": "solana",
+            "dex": "meteora",
+            "pair_address": "6d2ttxfc4iwK2WmD7MdnY3a2eaPowdYrWhGnmU1Hs2XB",
+            "pair_created_at_ms": 1788134399000,
+            "price_usd": 0.0004946,
+            "price_native": 4.755e-06,
+            "market_cap_usd": 494601.0,
+            "fdv_usd": 494601.0,
+            "liquidity_usd": 59173.19,
+            "liquidity_base": 59934270.0,
+            "liquidity_quote": 283.8733,
+            "volume_m5_usd": 531.46,
+            "volume_h1_usd": 12977.29,
+            "volume_h6_usd": 157504.86,
+            "volume_h24_usd": 2989159.64,
+            "buys_m5": 3.0,
+            "sells_m5": 2.0,
+            "buys_h1": 80.0,
+            "sells_h1": 71.0,
+            "buys_h6": 710.0,
+            "sells_h6": 647.0,
+            "buys_h24": 14434.0,
+            "sells_h24": 11895.0,
+            "price_change_5m_pct": 0.53,
+            "price_change_1h_pct": 16.96,
+            "price_change_6h_pct": 252.0,
+            "price_change_24h_pct": 1042.0,
+            "url": "https://dexscreener.com/solana/6d2ttxfc4iwk2wmd7mdny3a2eapowdyrwhgnmu1hs2xb",
+            "labels": [
+              "DYN2"
+            ],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/HpH2pBJoFoCb55m1?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/GRtSD2-e3TlbfcEA?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7TBkWkqohDZEoCAh1ykErGKyZzgFUEjxTv75xQeAvTeP?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://apeclosed.ai",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/apeclosedai",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "7TBkWkqohDZEoCAh1ykErGKyZzgFUEjxTv75xQeAvTeP",
+              "name": "Ape & Closed AI",
+              "symbol": "APEC"
+            },
+            "buy_sell_ratio_m5": 1.5,
+            "buy_sell_ratio_h1": 1.1267605633802817,
+            "net_buys_m5": 1.0,
+            "net_buys_h1": 9.0,
+            "volume_liquidity_ratio_h1": 0.21931029914053984,
+            "volume_liquidity_ratio_m5": 0.008981432300675357,
+            "capital_inflow_index": 0.012,
+            "capital_inflow_index_h1": 0.2467
+          }
         }
       ],
       "peak_metrics": {
@@ -142887,6 +143680,69 @@
             "volume_liquidity_ratio_m5": 0.16118655403027105,
             "capital_inflow_index": 0.1555,
             "capital_inflow_index_h1": 0.6561
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 11,
+          "snapshot": {
+            "timestamp_ms": 1788175015858,
+            "age_min": 2363.430966666667,
+            "top30_rank": 11,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "DhgmeHTaEp4PShLfhoQHNW7cifGF1KuPeUkkoaWXzzS1",
+            "pair_created_at_ms": 1788033210000,
+            "price_usd": 0.0001016,
+            "price_native": 9.785e-07,
+            "market_cap_usd": 97805.0,
+            "fdv_usd": 97805.0,
+            "liquidity_usd": 26170.13,
+            "liquidity_base": 137784460.0,
+            "liquidity_quote": 116.9793,
+            "volume_m5_usd": 5207.24,
+            "volume_h1_usd": 33642.31,
+            "volume_h6_usd": 109294.74,
+            "volume_h24_usd": 198423.39,
+            "buys_m5": 71.0,
+            "sells_m5": 60.0,
+            "buys_h1": 423.0,
+            "sells_h1": 382.0,
+            "buys_h6": 1435.0,
+            "sells_h6": 1239.0,
+            "buys_h24": 2532.0,
+            "sells_h24": 2235.0,
+            "price_change_5m_pct": 3.22,
+            "price_change_1h_pct": 17.69,
+            "price_change_6h_pct": 13.03,
+            "price_change_24h_pct": 29.53,
+            "url": "https://dexscreener.com/solana/dhgmehtaep4pshlfhoqhnw7cifgf1kupeukkoawxzzs1",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/6Xhcy5EOze7CuwD0?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/bJC-8OCCtaBGyVBH?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DLvpmv8R4oTbC1DixU5yHLbBcmnvfTckGF3XFzLTpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2037002793559495046",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "DLvpmv8R4oTbC1DixU5yHLbBcmnvfTckGF3XFzLTpump",
+              "name": "apewifdress",
+              "symbol": "APEWIF"
+            },
+            "buy_sell_ratio_m5": 1.1833333333333333,
+            "buy_sell_ratio_h1": 1.1073298429319371,
+            "net_buys_m5": 11.0,
+            "net_buys_h1": 41.0,
+            "volume_liquidity_ratio_h1": 1.2855232281994777,
+            "volume_liquidity_ratio_m5": 0.19897646668167104,
+            "capital_inflow_index": 0.2349,
+            "capital_inflow_index_h1": 1.4231
           }
         }
       ],
@@ -146977,6 +147833,82 @@
             "volume_liquidity_ratio_m5": 0.0128070987851174,
             "capital_inflow_index": 0.0256,
             "capital_inflow_index_h1": 0.0767
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 27,
+          "snapshot": {
+            "timestamp_ms": 1788175016042,
+            "age_min": 712.1840333333333,
+            "top30_rank": 27,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "5fScVBfymEkRd17ddoLfuwatkWRHd9mG98Guyo1BKQUx",
+            "pair_created_at_ms": 1788132285000,
+            "price_usd": 0.0001722,
+            "price_native": 1.659e-06,
+            "market_cap_usd": 166843.0,
+            "fdv_usd": 166843.0,
+            "liquidity_usd": 33768.44,
+            "liquidity_base": 103447636.0,
+            "liquidity_quote": 153.7333,
+            "volume_m5_usd": 2.04,
+            "volume_h1_usd": 1486.09,
+            "volume_h6_usd": 10659.99,
+            "volume_h24_usd": 50844.51,
+            "buys_m5": 2.0,
+            "sells_m5": 0.0,
+            "buys_h1": 27.0,
+            "sells_h1": 21.0,
+            "buys_h6": 214.0,
+            "sells_h6": 135.0,
+            "buys_h24": 733.0,
+            "sells_h24": 513.0,
+            "price_change_5m_pct": 0.21,
+            "price_change_1h_pct": 2.22,
+            "price_change_6h_pct": 87.37,
+            "price_change_24h_pct": 305.0,
+            "url": "https://dexscreener.com/solana/5fscvbfymekrd17ddolfuwatkwrhd9mg98guyo1bkqux",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/zZ54_S28ifUXZvqd?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/LSY9ZCobc-OmRxqB?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://pandacoin.tech",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://bitcointalk.org/index.php?topic=5592793",
+                  "label": "Docs"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/PandaCoinPND",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/pandacoin",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "pump3WayMj4S48ERaM5zfETRXMzspN1ZfPVknQNHhR9",
+              "name": "Pandacoin",
+              "symbol": "pandacoin"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 1.2857142857142858,
+            "net_buys_m5": 2.0,
+            "net_buys_h1": 6.0,
+            "volume_liquidity_ratio_h1": 0.04400825149162946,
+            "volume_liquidity_ratio_m5": 6.0411437425003935e-05,
+            "capital_inflow_index": 0.0002,
+            "capital_inflow_index_h1": 0.056
           }
         }
       ],
@@ -156049,6 +156981,11 @@
           "ts_ms": 1788174285111,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": null,
+          "total_amount": 500.0
         }
       ],
       "top30_entry_time_ms": 1788145629109,
@@ -159076,6 +160013,78 @@
             "volume_liquidity_ratio_m5": 0.044048704645844934,
             "capital_inflow_index": 0.0522,
             "capital_inflow_index_h1": 0.9029
+          }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 1,
+          "snapshot": {
+            "timestamp_ms": 1788175016201,
+            "age_min": 515.40335,
+            "top30_rank": 1,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "8s3N7kT5CExBjrHBQGsjq8LhxwPpCxSxJTWyf3e7swNC",
+            "pair_created_at_ms": 1788144092000,
+            "price_usd": 0.001413,
+            "price_native": 1.36e-05,
+            "market_cap_usd": 1398043.0,
+            "fdv_usd": 1398043.0,
+            "liquidity_usd": 112449.04,
+            "liquidity_base": 40219659.0,
+            "liquidity_quote": 534.8157,
+            "volume_m5_usd": 5736.26,
+            "volume_h1_usd": 86200.67,
+            "volume_h6_usd": 1594827.14,
+            "volume_h24_usd": 5011838.79,
+            "buys_m5": 419.0,
+            "sells_m5": 303.0,
+            "buys_h1": 5508.0,
+            "sells_h1": 3971.0,
+            "buys_h6": 51376.0,
+            "sells_h6": 30872.0,
+            "buys_h24": 90869.0,
+            "sells_h24": 52594.0,
+            "price_change_5m_pct": -8.86,
+            "price_change_1h_pct": -6.33,
+            "price_change_6h_pct": -15.59,
+            "price_change_24h_pct": 1454.0,
+            "url": "https://dexscreener.com/solana/8s3n7kt5cexbjrhbqgsjq8lhxwppcxsxjtwyf3e7swnc",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/LvaLJUOjlM2pbQJG?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/SQBWWNNev1AmAlPM?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ANJR7QNkxLWa6eHHFjVAwb1mi5GFkVQHroyG8xSopump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://apeusmaximus.fun",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/ApeusMaximusX",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/apeusmaximus",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "ANJR7QNkxLWa6eHHFjVAwb1mi5GFkVQHroyG8xSopump",
+              "name": "Apeus Maximus",
+              "symbol": "APEUS"
+            },
+            "buy_sell_ratio_m5": 1.3828382838283828,
+            "buy_sell_ratio_h1": 1.3870561571392597,
+            "net_buys_m5": 116.0,
+            "net_buys_h1": 1537.0,
+            "volume_liquidity_ratio_h1": 0.7665754194077602,
+            "volume_liquidity_ratio_m5": 0.05101208511873468,
+            "capital_inflow_index": 0.0705,
+            "capital_inflow_index_h1": 1.0632
           }
         }
       ],
@@ -163267,8 +164276,8 @@
       },
       "top30_peak_rank": 11,
       "top30_peak_rank_time_ms": 1788151322198,
-      "top30_exit_time_ms": null,
-      "top30_duration_seconds": null,
+      "top30_exit_time_ms": 1788175010515,
+      "top30_duration_seconds": 26538.496,
       "rank_history": [
         {
           "timestamp_ms": 1788148472019,
@@ -165607,7 +166616,11 @@
         "peak_gain_from_entry_pct": 2.529206310971932,
         "peak_time_ms": 1788149185715
       },
-      "behavior_summary": {}
+      "behavior_summary": {
+        "time_launch_to_entry_min": 0.0,
+        "time_entry_to_peak_min": 47.50298333333333,
+        "time_in_top30_min": 442.30826666666667
+      }
     },
     "solana:GC7bXNsDkg7rGDgbbihbMhfVwsipSigJVCFUK7Kcpump": {
       "token_id": "solana:GC7bXNsDkg7rGDgbbihbMhfVwsipSigJVCFUK7Kcpump",
@@ -168529,12 +169542,84 @@
             "capital_inflow_index": 0.1014,
             "capital_inflow_index_h1": 0.5501
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 21,
+          "snapshot": {
+            "timestamp_ms": 1788175016565,
+            "age_min": 4164.309416666667,
+            "top30_rank": 21,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "BV2DBV9js29CdBYQL5PsTd21fqvWmVCXNWVZmQtpBfHP",
+            "pair_created_at_ms": 1787925158000,
+            "price_usd": 0.0001914,
+            "price_native": 1.841e-06,
+            "market_cap_usd": 186500.0,
+            "fdv_usd": 186500.0,
+            "liquidity_usd": 41338.89,
+            "liquidity_base": 112066014.0,
+            "liquidity_quote": 191.3602,
+            "volume_m5_usd": 1849.27,
+            "volume_h1_usd": 11572.62,
+            "volume_h6_usd": 32728.34,
+            "volume_h24_usd": 115176.77,
+            "buys_m5": 22.0,
+            "sells_m5": 14.0,
+            "buys_h1": 146.0,
+            "sells_h1": 63.0,
+            "buys_h6": 602.0,
+            "sells_h6": 257.0,
+            "buys_h24": 1518.0,
+            "sells_h24": 1027.0,
+            "price_change_5m_pct": 3.76,
+            "price_change_1h_pct": 49.2,
+            "price_change_6h_pct": 53.06,
+            "price_change_24h_pct": 187.0,
+            "url": "https://dexscreener.com/solana/bv2dbv9js29cdbyql5pstd21fqvwmvcxnwvzmqtpbfhp",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/4LL-jLzEIuw8Gn4z?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/zgTMpGuTRJeGpvSI?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GC7bXNsDkg7rGDgbbihbMhfVwsipSigJVCFUK7Kcpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.youtube.com/watch?v=c1s3Iekns9k",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/popkesol",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/popkecto",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "GC7bXNsDkg7rGDgbbihbMhfVwsipSigJVCFUK7Kcpump",
+              "name": "popke",
+              "symbol": "popke"
+            },
+            "buy_sell_ratio_m5": 1.5714285714285714,
+            "buy_sell_ratio_h1": 2.3174603174603177,
+            "net_buys_m5": 8.0,
+            "net_buys_h1": 83.0,
+            "volume_liquidity_ratio_h1": 0.279945107379516,
+            "volume_liquidity_ratio_m5": 0.044734389336530324,
+            "capital_inflow_index": 0.0686,
+            "capital_inflow_index_h1": 0.643
+          }
         }
       ],
       "peak_metrics": {
-        "peak_price_usd": 0.0001638,
-        "peak_gain_from_entry_pct": 0.42918454935620964,
-        "peak_time_ms": 1788174285111
+        "peak_price_usd": 0.0001914,
+        "peak_gain_from_entry_pct": 17.351318209687292,
+        "peak_time_ms": 1788175010515
       },
       "behavior_summary": {}
     },
@@ -174274,6 +175359,69 @@
             "capital_inflow_index": 0.0,
             "capital_inflow_index_h1": 0.0002
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 16,
+          "snapshot": {
+            "timestamp_ms": 1788175016727,
+            "age_min": 375.19545,
+            "top30_rank": 16,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "45qm78PJJDwzKKaCN6cDWXcBd3GG8bk4gTEpPwt29RFU",
+            "pair_created_at_ms": 1788152505000,
+            "price_usd": 3.544e-06,
+            "price_native": 3.415e-08,
+            "market_cap_usd": 3388.0,
+            "fdv_usd": 3388.0,
+            "liquidity_usd": 3315.43,
+            "liquidity_base": 720782853.0,
+            "liquidity_quote": 7.3305,
+            "volume_m5_usd": 1.3,
+            "volume_h1_usd": 9.41,
+            "volume_h6_usd": 67773.18,
+            "volume_h24_usd": 187133.78,
+            "buys_m5": 0.0,
+            "sells_m5": 1.0,
+            "buys_h1": 1.0,
+            "sells_h1": 5.0,
+            "buys_h6": 1018.0,
+            "sells_h6": 963.0,
+            "buys_h24": 2873.0,
+            "sells_h24": 2355.0,
+            "price_change_5m_pct": 0.07,
+            "price_change_1h_pct": 0.21,
+            "price_change_6h_pct": -88.63,
+            "price_change_24h_pct": -91.51,
+            "url": "https://dexscreener.com/solana/45qm78pjjdwzkkacn6cdwxcbd3gg8bk4gteppwt29rfu",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Vw-Ngo9LaPdxBXf9?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/XY_0oa43PX64iYn1?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CBT4CdGA21h1AJChXYwp8xHDA3K4aibuF8fu2aBPpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/InsidersPF/status/2094285016125546709",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "CBT4CdGA21h1AJChXYwp8xHDA3K4aibuF8fu2aBPpump",
+              "name": "this shit is literally flying",
+              "symbol": "SHIT"
+            },
+            "buy_sell_ratio_m5": 0.0,
+            "buy_sell_ratio_h1": 0.2,
+            "net_buys_m5": -1.0,
+            "net_buys_h1": -4.0,
+            "volume_liquidity_ratio_h1": 0.0028382442096500306,
+            "volume_liquidity_ratio_m5": 0.00039210600133316045,
+            "capital_inflow_index": 0.0002,
+            "capital_inflow_index_h1": 0.0009
+          }
         }
       ],
       "peak_metrics": {
@@ -176384,6 +177532,78 @@
             "capital_inflow_index": null,
             "capital_inflow_index_h1": null
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 19,
+          "snapshot": {
+            "timestamp_ms": 1788175016945,
+            "age_min": 339.7490833333333,
+            "top30_rank": 19,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "BHVK9ADCdM3PaMU2wLLnQvS3Jo2z3NaVZPi5apDxNUS3",
+            "pair_created_at_ms": 1788154632000,
+            "price_usd": 2.95e-06,
+            "price_native": 2.872e-08,
+            "market_cap_usd": 2950.28,
+            "fdv_usd": 2950.28,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 0.0,
+            "volume_h6_usd": 55726.94,
+            "volume_h24_usd": 55726.94,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 0.0,
+            "sells_h1": 0.0,
+            "buys_h6": 589.0,
+            "sells_h6": 838.0,
+            "buys_h24": 589.0,
+            "sells_h24": 838.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": null,
+            "price_change_6h_pct": -19.26,
+            "price_change_24h_pct": -19.26,
+            "url": "https://dexscreener.com/solana/bhvk9adcdm3pamu2wllnqvs3jo2z3navzpi5apdxnus3",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/oEVsNclwvWYYxSUb?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/ATQ4IA4XW0y0EAim?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CowxCkuPFWZSgkp2MUQXjuAYq579JPuus5ifRmyRpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.facebook.com/groups/704284374489712/user/100007244703063/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://andrea-esposito.com/#:~:text=and%20a%20dog%20(-,Zeno,-)%20which%20is%20much",
+                  "label": "Web2"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/prottlegang11/status/2094298436971421734",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "CowxCkuPFWZSgkp2MUQXjuAYq579JPuus5ifRmyRpump",
+              "name": "Zenocoin",
+              "symbol": "ZENO"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": null,
+            "net_buys_m5": 0,
+            "net_buys_h1": 0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
         }
       ],
       "peak_metrics": {
@@ -177855,6 +179075,69 @@
             "capital_inflow_index": 0.001,
             "capital_inflow_index_h1": 0.0274
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 5,
+          "snapshot": {
+            "timestamp_ms": 1788175017101,
+            "age_min": 264.01835,
+            "top30_rank": 5,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "A9eCXGPfymrpgGoL1PWN2zRerNdzeFozYC4162hM3S9i",
+            "pair_created_at_ms": 1788159176000,
+            "price_usd": 3.392e-06,
+            "price_native": 3.266e-08,
+            "market_cap_usd": 3203.0,
+            "fdv_usd": 3203.0,
+            "liquidity_usd": 3235.87,
+            "liquidity_base": 742352041.0,
+            "liquidity_quote": 6.9077,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 185.26,
+            "volume_h6_usd": 369477.28,
+            "volume_h24_usd": 369477.28,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 3.0,
+            "sells_h1": 15.0,
+            "buys_h6": 4917.0,
+            "sells_h6": 4075.0,
+            "buys_h24": 4917.0,
+            "sells_h24": 4075.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": -10.2,
+            "price_change_6h_pct": -91.98,
+            "price_change_24h_pct": -91.98,
+            "url": "https://dexscreener.com/solana/a9ecxgpfymrpggol1pwn2zrerndzefozyc4162hm3s9i",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/ufOZ2T72MiwoBOg8?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/zbEBlirHWyvKtnv_?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/H3CZ4aWEQg7AoNZKj6fFMWjR8QuFTwqzE3oJqdyKpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/KodaqSOL/status/2094314043406160008?s=20",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "H3CZ4aWEQg7AoNZKj6fFMWjR8QuFTwqzE3oJqdyKpump",
+              "name": "Psyoped",
+              "symbol": "PSYOPED"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 0.2,
+            "net_buys_m5": 0,
+            "net_buys_h1": -12.0,
+            "volume_liquidity_ratio_h1": 0.057251990963790265,
+            "volume_liquidity_ratio_m5": 0.0,
+            "capital_inflow_index": 0.0,
+            "capital_inflow_index_h1": 0.0143
+          }
         }
       ],
       "peak_metrics": {
@@ -178062,6 +179345,16 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 10.0,
+          "total_amount": 20.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": 10.0,
+          "total_amount": 20.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 10.0,
           "total_amount": 20.0
         }
@@ -178920,6 +180213,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -180201,6 +181499,74 @@
             "capital_inflow_index": 0.3495,
             "capital_inflow_index_h1": 8.6734
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 2,
+          "snapshot": {
+            "timestamp_ms": 1788175017261,
+            "age_min": 147.32101666666668,
+            "top30_rank": 2,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "HnsXzaY8PgMLMfvEP4WqAvAQ3uVTXytNp1dmhx32QhLH",
+            "pair_created_at_ms": 1788166178000,
+            "price_usd": 0.0001496,
+            "price_native": 1.439e-06,
+            "market_cap_usd": 143075.0,
+            "fdv_usd": 143075.0,
+            "liquidity_usd": 34156.3,
+            "liquidity_base": 120116168.0,
+            "liquidity_quote": 155.7451,
+            "volume_m5_usd": 4316.95,
+            "volume_h1_usd": 143623.03,
+            "volume_h6_usd": 1486639.98,
+            "volume_h24_usd": 1486639.98,
+            "buys_m5": 84.0,
+            "sells_m5": 46.0,
+            "buys_h1": 1649.0,
+            "sells_h1": 1212.0,
+            "buys_h6": 14771.0,
+            "sells_h6": 11151.0,
+            "buys_h24": 14771.0,
+            "sells_h24": 11151.0,
+            "price_change_5m_pct": 8.77,
+            "price_change_1h_pct": -10.22,
+            "price_change_6h_pct": 252.0,
+            "price_change_24h_pct": 252.0,
+            "url": "https://dexscreener.com/solana/hnsxzay8pgmlmfvep4wqavaq3uvtxytnp1dmhx32qhlh",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/uRLHk40tr3IvvbeB?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/wk7uwdEFBkdw1KpM?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CiN8f69KQrLxtRKx4EEd8VyC6psogY7kBbyLKuwf4zY8?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://fxtwitter.com/i/trending/2094275527414857732",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/i/communities/2029899034786222257",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "CiN8f69KQrLxtRKx4EEd8VyC6psogY7kBbyLKuwf4zY8",
+              "name": "Mimikyu",
+              "symbol": "Mimikyu"
+            },
+            "buy_sell_ratio_m5": 1.826086956521739,
+            "buy_sell_ratio_h1": 1.3605610561056105,
+            "net_buys_m5": 38.0,
+            "net_buys_h1": 437.0,
+            "volume_liquidity_ratio_h1": 4.204876699174091,
+            "volume_liquidity_ratio_m5": 0.12638810409792628,
+            "capital_inflow_index": 0.2286,
+            "capital_inflow_index_h1": 5.7197
+          }
         }
       ],
       "peak_metrics": {
@@ -181039,6 +182405,74 @@
             "capital_inflow_index": 0.0,
             "capital_inflow_index_h1": 0.0034
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 18,
+          "snapshot": {
+            "timestamp_ms": 1788175017446,
+            "age_min": 132.45743333333334,
+            "top30_rank": 18,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "99WHqehext35DpgQdycT2BJ1v9BrJeCDF3rBsAfRoFG2",
+            "pair_created_at_ms": 1788167070000,
+            "price_usd": 2.946e-06,
+            "price_native": 2.864e-08,
+            "market_cap_usd": 2422.0,
+            "fdv_usd": 2422.0,
+            "liquidity_usd": 2813.06,
+            "liquidity_base": 779419086.0,
+            "liquidity_quote": 5.02111,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 27.42,
+            "volume_h6_usd": 50780.41,
+            "volume_h24_usd": 50780.41,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 0.0,
+            "sells_h1": 8.0,
+            "buys_h6": 654.0,
+            "sells_h6": 761.0,
+            "buys_h24": 654.0,
+            "sells_h24": 761.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": -3.65,
+            "price_change_6h_pct": -93.06,
+            "price_change_24h_pct": -93.06,
+            "url": "https://dexscreener.com/solana/99whqehext35dpgqdyct2bj1v9brjecdf3rbsafrofg2",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/fyItRvJgfYHqk4wn?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/asMNkShn-F1BaJNS?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4FWdrtrPPMJYxA77XXhWRpDFpE7hDnc5Jq1XaZf4pump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://axiom.trade/pulse?chain=sol&pulseChains=sol&trackerChains=sol,robinhood,eth",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/BUTTSEXDEV/status/2094348124131393699",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "4FWdrtrPPMJYxA77XXhWRpDFpE7hDnc5Jq1XaZf4pump",
+              "name": "Priceless Coin",
+              "symbol": "PRICELESS"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 0.0,
+            "net_buys_m5": 0,
+            "net_buys_h1": -8.0,
+            "volume_liquidity_ratio_h1": 0.009747392519178404,
+            "volume_liquidity_ratio_m5": 0.0,
+            "capital_inflow_index": 0.0,
+            "capital_inflow_index_h1": 0.0011
+          }
         }
       ],
       "peak_metrics": {
@@ -181106,6 +182540,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -181860,6 +183299,74 @@
             "capital_inflow_index": null,
             "capital_inflow_index_h1": null
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 28,
+          "snapshot": {
+            "timestamp_ms": 1788175017605,
+            "age_min": 3687.5934166666666,
+            "top30_rank": 28,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "CLUwxYeroKbBY2xPTJZXAL929kZtJDcWkxqN6dDobb3p",
+            "pair_created_at_ms": 1787953762000,
+            "price_usd": 1.654e-05,
+            "price_native": 1.593e-07,
+            "market_cap_usd": 16540.01,
+            "fdv_usd": 16540.01,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 68.85,
+            "volume_h1_usd": 433.13,
+            "volume_h6_usd": 11851.04,
+            "volume_h24_usd": 25749.5,
+            "buys_m5": 2.0,
+            "sells_m5": 0.0,
+            "buys_h1": 16.0,
+            "sells_h1": 3.0,
+            "buys_h6": 145.0,
+            "sells_h6": 73.0,
+            "buys_h24": 329.0,
+            "sells_h24": 213.0,
+            "price_change_5m_pct": 2.11,
+            "price_change_1h_pct": 4.8,
+            "price_change_6h_pct": 19.37,
+            "price_change_24h_pct": 45.16,
+            "url": "https://dexscreener.com/solana/cluwxyerokbby2xptjzxal929kztjdcwkxqn6ddobb3p",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Txuz1Z0FmUmdKgmt?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/3pMob6MReWzW4DL5?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FfJn5pxbbqZqysKpgz1ykNKf76BNfzmViVQr3Expump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://lumenone.cloud/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/Lumenchat",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "FfJn5pxbbqZqysKpgz1ykNKf76BNfzmViVQr3Expump",
+              "name": "LUMEN",
+              "symbol": "LUMEN"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 5.333333333333333,
+            "net_buys_m5": 2.0,
+            "net_buys_h1": 13.0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
         }
       ],
       "peak_metrics": {
@@ -181967,6 +183474,16 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": null,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": null,
           "total_amount": 100.0
         }
@@ -182653,6 +184170,74 @@
             "capital_inflow_index": 0.584,
             "capital_inflow_index_h1": 8.5644
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 3,
+          "snapshot": {
+            "timestamp_ms": 1788175017764,
+            "age_min": 137.86273333333332,
+            "top30_rank": 3,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "FuJMuJfj7NVhEErTpgGRVwDRCL7ckrTYMndoHTSLwfvY",
+            "pair_created_at_ms": 1788166746000,
+            "price_usd": 2.163e-06,
+            "price_native": 2.081e-08,
+            "market_cap_usd": 2125.0,
+            "fdv_usd": 2125.0,
+            "liquidity_usd": 2329.42,
+            "liquidity_base": 959513451.0,
+            "liquidity_quote": 2.4432,
+            "volume_m5_usd": 26636.74,
+            "volume_h1_usd": 227442.64,
+            "volume_h6_usd": 833646.01,
+            "volume_h24_usd": 833646.01,
+            "buys_m5": 222.0,
+            "sells_m5": 3749.0,
+            "buys_h1": 9429.0,
+            "sells_h1": 8626.0,
+            "buys_h6": 27876.0,
+            "sells_h6": 15418.0,
+            "buys_h24": 27876.0,
+            "sells_h24": 15418.0,
+            "price_change_5m_pct": -99.11,
+            "price_change_1h_pct": -98.96,
+            "price_change_6h_pct": -97.01,
+            "price_change_24h_pct": -97.01,
+            "url": "https://dexscreener.com/solana/fujmujfj7nvheertpggrvwdrcl7ckrtymndohtslwfvy",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/qU4oUlRxBBCM8bMS?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/_maD62jMOqzgf2Yt?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2Zp3puJe5JWFEJ6NviPqLbroszfXgavgfNPLc21cpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.trenchapeonsol.lol/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/trenchapeonsol",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "2Zp3puJe5JWFEJ6NviPqLbroszfXgavgfNPLc21cpump",
+              "name": "Trench Ape",
+              "symbol": "TRENCHAPE"
+            },
+            "buy_sell_ratio_m5": 0.05921579087756735,
+            "buy_sell_ratio_h1": 1.093090656155808,
+            "net_buys_m5": -3527.0,
+            "net_buys_h1": 803.0,
+            "volume_liquidity_ratio_h1": 97.63917198272532,
+            "volume_liquidity_ratio_m5": 11.43492371491616,
+            "capital_inflow_index": 0.68,
+            "capital_inflow_index_h1": 106.7274
+          }
         }
       ],
       "peak_metrics": {
@@ -183242,6 +184827,69 @@
             "capital_inflow_index": null,
             "capital_inflow_index_h1": null
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 14,
+          "snapshot": {
+            "timestamp_ms": 1788175017949,
+            "age_min": 99.29915,
+            "top30_rank": 14,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "7scUvsxYXME2K9FDFdQuPRouBRVvm8TF4cGGdzKDYcNC",
+            "pair_created_at_ms": 1788169060000,
+            "price_usd": 4.24e-05,
+            "price_native": 4.108e-07,
+            "market_cap_usd": 42402.83,
+            "fdv_usd": 42402.83,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 0.0,
+            "volume_h6_usd": 90425.21,
+            "volume_h24_usd": 90425.21,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 0.0,
+            "sells_h1": 0.0,
+            "buys_h6": 1149.0,
+            "sells_h6": 1103.0,
+            "buys_h24": 1149.0,
+            "sells_h24": 1103.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": null,
+            "price_change_6h_pct": 1044.0,
+            "price_change_24h_pct": 1044.0,
+            "url": "https://dexscreener.com/solana/7scuvsxyxme2k9fdfdquproubrvvm8tf4cggdzkdycnc",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/xQ2l6BpoHRionz1O?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/6-PQp1tY_WmqFib-?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7Xjgd1BhXGxTF3dwkFBDHRktCyUy6Wu6tVBsT3YJpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/Wintalt/status/2094358876674052272?s=20",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "7Xjgd1BhXGxTF3dwkFBDHRktCyUy6Wu6tVBsT3YJpump",
+              "name": "Doomguy",
+              "symbol": "DOOMGUY"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": null,
+            "net_buys_m5": 0,
+            "net_buys_h1": 0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
         }
       ],
       "peak_metrics": {
@@ -183294,6 +184942,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 50.0,
+          "total_amount": 50.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 50.0,
           "total_amount": 50.0
         }
@@ -183844,6 +185497,74 @@
             "capital_inflow_index": 0.8078,
             "capital_inflow_index_h1": 16.1235
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 4,
+          "snapshot": {
+            "timestamp_ms": 1788175018111,
+            "age_min": 146.80185,
+            "top30_rank": 4,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "3wSp9ZjyRiTBX9mUXMdJ96sBgt6GyjDjkFrRWQtHrcUM",
+            "pair_created_at_ms": 1788166210000,
+            "price_usd": 0.0001067,
+            "price_native": 1.027e-06,
+            "market_cap_usd": 104637.0,
+            "fdv_usd": 104637.0,
+            "liquidity_usd": 27939.26,
+            "liquidity_base": 138856687.0,
+            "liquidity_quote": 126.1947,
+            "volume_m5_usd": 32487.77,
+            "volume_h1_usd": 389911.55,
+            "volume_h6_usd": 967097.53,
+            "volume_h24_usd": 967097.53,
+            "buys_m5": 412.0,
+            "sells_m5": 155.0,
+            "buys_h1": 5491.0,
+            "sells_h1": 2737.0,
+            "buys_h6": 14049.0,
+            "sells_h6": 6090.0,
+            "buys_h24": 14049.0,
+            "sells_h24": 6090.0,
+            "price_change_5m_pct": -32.33,
+            "price_change_1h_pct": 9.3,
+            "price_change_6h_pct": 58.68,
+            "price_change_24h_pct": 58.68,
+            "url": "https://dexscreener.com/solana/3wsp9zjyritbx9muxmdj96sbgt6gyjdjkfrrwqthrcum",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Mv7myrO2BUN_fZVe?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/lyINdbwrNjuGDlyC?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DTR3LGzFop947jkxdnJdkMHFC32oUraLdKzfohvRpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://www.trenchstacy.site/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/trech_stacy",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "DTR3LGzFop947jkxdnJdkMHFC32oUraLdKzfohvRpump",
+              "name": "TrenchStacy",
+              "symbol": "TrenchStacy"
+            },
+            "buy_sell_ratio_m5": 2.6580645161290324,
+            "buy_sell_ratio_h1": 2.0062111801242235,
+            "net_buys_m5": 257.0,
+            "net_buys_h1": 2754.0,
+            "volume_liquidity_ratio_h1": 13.955686371077832,
+            "volume_liquidity_ratio_m5": 1.1627999453099331,
+            "capital_inflow_index": 3.0784,
+            "capital_inflow_index_h1": 27.9929
+          }
         }
       ],
       "peak_metrics": {
@@ -183896,6 +185617,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -184406,6 +186132,69 @@
             "capital_inflow_index": 0.0,
             "capital_inflow_index_h1": 0.0822
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 17,
+          "snapshot": {
+            "timestamp_ms": 1788175018269,
+            "age_min": 91.98781666666666,
+            "top30_rank": 17,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "E8QPg7L3xSF9Vh3RLX3R6GqaeiSQhi1AKJRvUEBE76W9",
+            "pair_created_at_ms": 1788169499000,
+            "price_usd": 2.255e-06,
+            "price_native": 2.176e-08,
+            "market_cap_usd": 2192.0,
+            "fdv_usd": 2192.0,
+            "liquidity_usd": 2249.98,
+            "liquidity_base": 896982174.0,
+            "liquidity_quote": 2.1863,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 59.08,
+            "volume_h6_usd": 65309.0,
+            "volume_h24_usd": 65309.0,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 7.0,
+            "sells_h1": 10.0,
+            "buys_h6": 781.0,
+            "sells_h6": 911.0,
+            "buys_h24": 781.0,
+            "sells_h24": 911.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": -0.44,
+            "price_change_6h_pct": -94.69,
+            "price_change_24h_pct": -94.69,
+            "url": "https://dexscreener.com/solana/e8qpg7l3xsf9vh3rlx3r6gqaeisqhi1akjrvuebe76w9",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/J6_MphEpIcTsGo-i?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/mIqHpufpM06IOPlr?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2eGdYopunrBiNHAkSLhoub9DXaGEtULkiqdBVBXQpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/pulse_fadez/status/2094353110361579795?s=20",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "2eGdYopunrBiNHAkSLhoub9DXaGEtULkiqdBVBXQpump",
+              "name": "Win Together",
+              "symbol": "WIN"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 0.7,
+            "net_buys_m5": 0,
+            "net_buys_h1": -3.0,
+            "volume_liquidity_ratio_h1": 0.02625801118232162,
+            "volume_liquidity_ratio_m5": 0.0,
+            "capital_inflow_index": 0.0,
+            "capital_inflow_index_h1": 0.0191
+          }
         }
       ],
       "peak_metrics": {
@@ -184433,6 +186222,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -184817,6 +186611,69 @@
             "capital_inflow_index": 0.1265,
             "capital_inflow_index_h1": 46.3174
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 6,
+          "snapshot": {
+            "timestamp_ms": 1788175018427,
+            "age_min": 61.557116666666666,
+            "top30_rank": 6,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "Hab8j2J5xZ46LvegKptwBCgwdBgY5kQsJiBCh9c5Vbz7",
+            "pair_created_at_ms": 1788171325000,
+            "price_usd": 5.733e-06,
+            "price_native": 5.516e-08,
+            "market_cap_usd": 5399.0,
+            "fdv_usd": 5399.0,
+            "liquidity_usd": 4668.05,
+            "liquidity_base": 563764492.0,
+            "liquidity_quote": 13.8153,
+            "volume_m5_usd": 211.46,
+            "volume_h1_usd": 152124.42,
+            "volume_h6_usd": 189287.37,
+            "volume_h24_usd": 189287.37,
+            "buys_m5": 0.0,
+            "sells_m5": 12.0,
+            "buys_h1": 2874.0,
+            "sells_h1": 2280.0,
+            "buys_h6": 3727.0,
+            "sells_h6": 2795.0,
+            "buys_h24": 3727.0,
+            "sells_h24": 2795.0,
+            "price_change_5m_pct": -11.56,
+            "price_change_1h_pct": -81.24,
+            "price_change_6h_pct": -86.47,
+            "price_change_24h_pct": -86.47,
+            "url": "https://dexscreener.com/solana/hab8j2j5xz46lvegkptwbcgwdbgy5kqsjibch9c5vbz7",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/fLd8boF4tna4H69M?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/01t_eENb9VGPgSpo?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GDPurkh9epTiZjzjJBQcC65sn6hZrdk3CtbkWtS8pump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/Wintalt/status/2094367285150658992?s=20",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "GDPurkh9epTiZjzjJBQcC65sn6hZrdk3CtbkWtS8pump",
+              "name": "Guru",
+              "symbol": "GURU"
+            },
+            "buy_sell_ratio_m5": 0.0,
+            "buy_sell_ratio_h1": 1.2605263157894737,
+            "net_buys_m5": -12.0,
+            "net_buys_h1": 594.0,
+            "volume_liquidity_ratio_h1": 32.58842985829201,
+            "volume_liquidity_ratio_m5": 0.04529942909780315,
+            "capital_inflow_index": 0.0035,
+            "capital_inflow_index_h1": 41.0749
+          }
         }
       ],
       "peak_metrics": {
@@ -184849,6 +186706,11 @@
         },
         {
           "ts_ms": 1788174285111,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788175010515,
           "amount": 30.0,
           "total_amount": 30.0
         }
@@ -185143,12 +187005,84 @@
             "capital_inflow_index": null,
             "capital_inflow_index_h1": null
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 23,
+          "snapshot": {
+            "timestamp_ms": 1788175018583,
+            "age_min": 233.52638333333334,
+            "top30_rank": 23,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "ZYbViNQvF3f15gCkqTbMbp6HSWRpN8qaWLBT2F3G7tM",
+            "pair_created_at_ms": 1788161007000,
+            "price_usd": 7.688e-06,
+            "price_native": 7.425e-08,
+            "market_cap_usd": 7688.46,
+            "fdv_usd": 7688.46,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 0.0,
+            "volume_h1_usd": 3423.14,
+            "volume_h6_usd": 17674.86,
+            "volume_h24_usd": 17674.86,
+            "buys_m5": 0.0,
+            "sells_m5": 0.0,
+            "buys_h1": 72.0,
+            "sells_h1": 36.0,
+            "buys_h6": 277.0,
+            "sells_h6": 195.0,
+            "buys_h24": 277.0,
+            "sells_h24": 195.0,
+            "price_change_5m_pct": null,
+            "price_change_1h_pct": 60.4,
+            "price_change_6h_pct": 86.37,
+            "price_change_24h_pct": 86.37,
+            "url": "https://dexscreener.com/solana/zybvinqvf3f15gckqtbmbp6hswrpn8qawlbt2f3g7tm",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/o0Rvo1lIsUBeKsAy?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/_jK-6KK0MpRZlTaZ?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FEyoJeVHcSWnsctjSk1ARTDaSmeiKxxvkr9Ljya5pump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://dreip.meme/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/DREIP_Meme",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/DREIP_MEME",
+                  "type": "telegram"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "FEyoJeVHcSWnsctjSk1ARTDaSmeiKxxvkr9Ljya5pump",
+              "name": "DREIP Meme",
+              "symbol": "DIPF"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 2.0,
+            "net_buys_m5": 0,
+            "net_buys_h1": 36.0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
         }
       ],
       "peak_metrics": {
-        "peak_price_usd": 7.074e-06,
-        "peak_gain_from_entry_pct": 0.7548782224754413,
-        "peak_time_ms": 1788174285111
+        "peak_price_usd": 7.688e-06,
+        "peak_gain_from_entry_pct": 9.500071214926642,
+        "peak_time_ms": 1788175010515
       },
       "behavior_summary": {}
     },
@@ -185433,6 +187367,73 @@
             "capital_inflow_index": 0.0004,
             "capital_inflow_index_h1": 7.1181
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 22,
+          "snapshot": {
+            "timestamp_ms": 1788175018738,
+            "age_min": 38.84563333333333,
+            "top30_rank": 22,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "7Jj2SYvQpzKmJvrVnCdC9F1BxUocS4RAb4UhLyCHVfbs",
+            "pair_created_at_ms": 1788172688000,
+            "price_usd": 2.073e-06,
+            "price_native": 1.998e-08,
+            "market_cap_usd": 2074.0,
+            "fdv_usd": 2074.0,
+            "liquidity_usd": 2071.22,
+            "liquidity_base": 933915566.0,
+            "liquidity_quote": 1.2944,
+            "volume_m5_usd": 2.12,
+            "volume_h1_usd": 19422.95,
+            "volume_h6_usd": 19422.95,
+            "volume_h24_usd": 19422.95,
+            "buys_m5": 0.0,
+            "sells_m5": 1.0,
+            "buys_h1": 239.0,
+            "sells_h1": 316.0,
+            "buys_h6": 239.0,
+            "sells_h6": 316.0,
+            "buys_h24": 239.0,
+            "sells_h24": 316.0,
+            "price_change_5m_pct": 0.06,
+            "price_change_1h_pct": -95.01,
+            "price_change_6h_pct": -95.01,
+            "price_change_24h_pct": -95.01,
+            "url": "https://dexscreener.com/solana/7jj2syvqpzkmjvrvncdc9f1bxuocs4rab4uhlychvfbs",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/ShIlKsOE733CiUVO?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/StX6ZEpCFoytMTPY?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4bzCcz2mSqZ552a2CA9PT6GkzgeW6rcUaRsD1Fu9pump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/x22S2x/status/2094365658410557593?s=20",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://www.tiktok.com/search?q=viscacha&t=1788170366258",
+                  "type": "tiktok"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "4bzCcz2mSqZ552a2CA9PT6GkzgeW6rcUaRsD1Fu9pump",
+              "name": "Viscachacoin",
+              "symbol": "Viscacha"
+            },
+            "buy_sell_ratio_m5": 0.0,
+            "buy_sell_ratio_h1": 0.7563291139240507,
+            "net_buys_m5": -1.0,
+            "net_buys_h1": -77.0,
+            "volume_liquidity_ratio_h1": 9.377540773070946,
+            "volume_liquidity_ratio_m5": 0.0010235513368932322,
+            "capital_inflow_index": 0.0005,
+            "capital_inflow_index_h1": 7.0997
+          }
         }
       ],
       "peak_metrics": {
@@ -185519,8 +187520,8 @@
         "capital_inflow_index": 2.0481,
         "capital_inflow_index_h1": 2.0481
       },
-      "top30_peak_rank": 11,
-      "top30_peak_rank_time_ms": 1788174285111,
+      "top30_peak_rank": 9,
+      "top30_peak_rank_time_ms": 1788175010515,
       "top30_exit_time_ms": null,
       "top30_duration_seconds": null,
       "rank_history": [
@@ -185659,12 +187660,247 @@
             "capital_inflow_index": 0.578,
             "capital_inflow_index_h1": 18.8099
           }
+        },
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 9,
+          "snapshot": {
+            "timestamp_ms": 1788175018895,
+            "age_min": 26.231583333333333,
+            "top30_rank": 9,
+            "chain": "solana",
+            "dex": "pumpswap",
+            "pair_address": "J7acy2gK2ajCCZscQCksHL6oqUG1wmPLpuEEMBLPc9Vw",
+            "pair_created_at_ms": 1788173445000,
+            "price_usd": 3.375e-06,
+            "price_native": 3.247e-08,
+            "market_cap_usd": 3376.0,
+            "fdv_usd": 3376.0,
+            "liquidity_usd": 3147.98,
+            "liquidity_base": 735338269.0,
+            "liquidity_quote": 6.4061,
+            "volume_m5_usd": 210.12,
+            "volume_h1_usd": 87796.89,
+            "volume_h6_usd": 87796.89,
+            "volume_h24_usd": 87796.89,
+            "buys_m5": 5.0,
+            "sells_m5": 22.0,
+            "buys_h1": 1484.0,
+            "sells_h1": 1370.0,
+            "buys_h6": 1484.0,
+            "sells_h6": 1370.0,
+            "buys_h24": 1484.0,
+            "sells_h24": 1370.0,
+            "price_change_5m_pct": -5.12,
+            "price_change_1h_pct": -91.94,
+            "price_change_6h_pct": -91.94,
+            "price_change_24h_pct": -91.94,
+            "url": "https://dexscreener.com/solana/j7acy2gk2ajcczscqckshl6oqug1wmplpueemblpc9vw",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/7JgLSiXUqt8sQaIO?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/wjIfNXSA3QJ5OasP?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/D5HtFyYDZtFbK8SztnKDUdbhVVRhcmWBmYnsh6Jpump?timestamp=1788174900000",
+              "websites": [
+                {
+                  "url": "https://github.com/pataguccigirl/tomo-fomo-agent/blob/main/README.md",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/prottlegang12/status/2094373172283932843",
+                  "type": "twitter"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "D5HtFyYDZtFbK8SztnKDUdbhVVRhcmWBmYnsh6Jpump",
+              "name": "The Fomo Agent",
+              "symbol": "TOMO"
+            },
+            "buy_sell_ratio_m5": 0.22727272727272727,
+            "buy_sell_ratio_h1": 1.0832116788321169,
+            "net_buys_m5": -17.0,
+            "net_buys_h1": 114.0,
+            "volume_liquidity_ratio_h1": 27.889913531852173,
+            "volume_liquidity_ratio_m5": 0.06674756510524209,
+            "capital_inflow_index": 0.0174,
+            "capital_inflow_index_h1": 30.209
+          }
         }
       ],
       "peak_metrics": {
         "peak_price_usd": 3.307e-05,
         "peak_gain_from_entry_pct": 0.0,
         "peak_time_ms": 1788173571646
+      },
+      "behavior_summary": {}
+    },
+    "solana:C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump": {
+      "token_id": "solana:C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump",
+      "chain": "solana",
+      "address": "C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump",
+      "pair_address": "EBPqu5zvdfR4ouYNwmWtGBoTJYZyioTiu7DAXkGoGjML",
+      "launch_time_ms": 1788155658000,
+      "discovery_source": "boosted",
+      "is_boosted": true,
+      "boost_amount": 30.0,
+      "boost_total_amount": 30.0,
+      "boost_events": [
+        {
+          "ts_ms": 1788174285111,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788175010515,
+          "amount": 30.0,
+          "total_amount": 30.0
+        }
+      ],
+      "top30_entry_time_ms": 1788175010515,
+      "top30_entry_rank": 30,
+      "entry_snapshot": {
+        "timestamp_ms": 1788175013920,
+        "age_min": 322.59866666666665,
+        "top30_rank": 30,
+        "chain": "solana",
+        "dex": "pumpfun",
+        "pair_address": "EBPqu5zvdfR4ouYNwmWtGBoTJYZyioTiu7DAXkGoGjML",
+        "pair_created_at_ms": 1788155658000,
+        "price_usd": 4.021e-06,
+        "price_native": 3.875e-08,
+        "market_cap_usd": 4021.92,
+        "fdv_usd": 4021.92,
+        "liquidity_usd": null,
+        "liquidity_base": null,
+        "liquidity_quote": null,
+        "volume_m5_usd": 1.55,
+        "volume_h1_usd": 3055.38,
+        "volume_h6_usd": 3309.39,
+        "volume_h24_usd": 3309.39,
+        "buys_m5": 1.0,
+        "sells_m5": 0.0,
+        "buys_h1": 60.0,
+        "sells_h1": 32.0,
+        "buys_h6": 79.0,
+        "sells_h6": 35.0,
+        "buys_h24": 79.0,
+        "sells_h24": 35.0,
+        "price_change_5m_pct": 0.32,
+        "price_change_1h_pct": 24.17,
+        "price_change_6h_pct": 38.71,
+        "price_change_24h_pct": 38.71,
+        "url": "https://dexscreener.com/solana/ebpqu5zvdfr4ouynwmwtgbotjyzyiotiu7daxkgogjml",
+        "labels": [],
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/ySKJ4nSMxLzokNxT?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/kd8oBeGjr4hDFMVh?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump?timestamp=1788174900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/getm1s/status/2094302403411562690?s=20",
+              "type": "twitter"
+            },
+            {
+              "url": "https://discord.gg/2xVzvFgRu",
+              "type": "discord"
+            }
+          ]
+        },
+        "base_token": {
+          "address": "C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump",
+          "name": "DROPOUT COIN",
+          "symbol": "DROPOUT"
+        },
+        "buy_sell_ratio_m5": null,
+        "buy_sell_ratio_h1": 1.875,
+        "net_buys_m5": 1.0,
+        "net_buys_h1": 28.0,
+        "volume_liquidity_ratio_h1": null,
+        "volume_liquidity_ratio_m5": null,
+        "capital_inflow_index": null,
+        "capital_inflow_index_h1": null
+      },
+      "top30_peak_rank": 30,
+      "top30_peak_rank_time_ms": 1788175010515,
+      "top30_exit_time_ms": null,
+      "top30_duration_seconds": null,
+      "rank_history": [
+        {
+          "timestamp_ms": 1788175010515,
+          "rank": 30,
+          "snapshot": {
+            "timestamp_ms": 1788175013920,
+            "age_min": 322.59866666666665,
+            "top30_rank": 30,
+            "chain": "solana",
+            "dex": "pumpfun",
+            "pair_address": "EBPqu5zvdfR4ouYNwmWtGBoTJYZyioTiu7DAXkGoGjML",
+            "pair_created_at_ms": 1788155658000,
+            "price_usd": 4.021e-06,
+            "price_native": 3.875e-08,
+            "market_cap_usd": 4021.92,
+            "fdv_usd": 4021.92,
+            "liquidity_usd": null,
+            "liquidity_base": null,
+            "liquidity_quote": null,
+            "volume_m5_usd": 1.55,
+            "volume_h1_usd": 3055.38,
+            "volume_h6_usd": 3309.39,
+            "volume_h24_usd": 3309.39,
+            "buys_m5": 1.0,
+            "sells_m5": 0.0,
+            "buys_h1": 60.0,
+            "sells_h1": 32.0,
+            "buys_h6": 79.0,
+            "sells_h6": 35.0,
+            "buys_h24": 79.0,
+            "sells_h24": 35.0,
+            "price_change_5m_pct": 0.32,
+            "price_change_1h_pct": 24.17,
+            "price_change_6h_pct": 38.71,
+            "price_change_24h_pct": 38.71,
+            "url": "https://dexscreener.com/solana/ebpqu5zvdfr4ouynwmwtgbotjyzyiotiu7daxkgogjml",
+            "labels": [],
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/ySKJ4nSMxLzokNxT?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/kd8oBeGjr4hDFMVh?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump?timestamp=1788174900000",
+              "websites": [],
+              "socials": [
+                {
+                  "url": "https://x.com/getm1s/status/2094302403411562690?s=20",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://discord.gg/2xVzvFgRu",
+                  "type": "discord"
+                }
+              ]
+            },
+            "base_token": {
+              "address": "C9RM114n4UpgytPg2mmJvpvgrSR7vTd4xGE6gJizpump",
+              "name": "DROPOUT COIN",
+              "symbol": "DROPOUT"
+            },
+            "buy_sell_ratio_m5": null,
+            "buy_sell_ratio_h1": 1.875,
+            "net_buys_m5": 1.0,
+            "net_buys_h1": 28.0,
+            "volume_liquidity_ratio_h1": null,
+            "volume_liquidity_ratio_m5": null,
+            "capital_inflow_index": null,
+            "capital_inflow_index_h1": null
+          }
+        }
+      ],
+      "peak_metrics": {
+        "peak_price_usd": 4.021e-06,
+        "peak_gain_from_entry_pct": 0.0,
+        "peak_time_ms": 1788175010515
       },
       "behavior_summary": {}
     }
