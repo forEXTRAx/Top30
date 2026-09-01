@@ -3603,6 +3603,11 @@
           "ts_ms": 1788289252340,
           "amount": null,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788290301936,
+          "amount": null,
+          "total_amount": 100.0
         }
       ]
     },
@@ -4112,6 +4117,56 @@
           "volume_liquidity_ratio_m5": 0.34980663728752587,
           "capital_inflow_index": 0.4997,
           "capital_inflow_index_h1": 2.8034
+        },
+        "90": {
+          "timestamp_ms": 1788290307966,
+          "age_min": 94.6661,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "ARu8woRAaaoscGcu9x94fXi9s7oQLjUBt53mGxVc8jad",
+          "pair_created_at_ms": 1788284628000,
+          "price_usd": 3.025e-07,
+          "price_native": 3.036e-09,
+          "market_cap_usd": 303.0,
+          "fdv_usd": 303.0,
+          "liquidity_usd": 209.13,
+          "liquidity_base": 345640690.0,
+          "liquidity_quote": 1.04964,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 411.12,
+          "volume_h6_usd": 726.62,
+          "volume_h24_usd": 726.62,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 25.0,
+          "sells_h1": 14.0,
+          "buys_h6": 52.0,
+          "sells_h6": 28.0,
+          "buys_h24": 52.0,
+          "sells_h24": 28.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 20.56,
+          "price_change_6h_pct": 119.0,
+          "price_change_24h_pct": 119.0,
+          "url": "https://dexscreener.com/solana/aru8woraaaoscgcu9x94fxi9s7oqljubt53mgxvc8jad",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "67WrnHeatJ5QNRLRr4btJvRWhVk89PAb8gosCPTUvk4T",
+            "name": "Equity",
+            "symbol": "EQT"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 1.7857142857142858,
+          "net_buys_m5": 0,
+          "net_buys_h1": 11.0,
+          "volume_liquidity_ratio_h1": 1.9658585568784968,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 3.4075
         }
       },
       "discovery_source": "boosted",
@@ -4121,6 +4176,11 @@
       "boost_events": [
         {
           "ts_ms": 1788289252340,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788290301936,
           "amount": 10.0,
           "total_amount": 10.0
         }
