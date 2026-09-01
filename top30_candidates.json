@@ -4301,6 +4301,56 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 2.6392
+        },
+        "180": {
+          "timestamp_ms": 1788296106942,
+          "age_min": 191.3157,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "ARu8woRAaaoscGcu9x94fXi9s7oQLjUBt53mGxVc8jad",
+          "pair_created_at_ms": 1788284628000,
+          "price_usd": 3.774e-07,
+          "price_native": 3.772e-09,
+          "market_cap_usd": 377.0,
+          "fdv_usd": 377.0,
+          "liquidity_usd": 254.28,
+          "liquidity_base": 336823595.0,
+          "liquidity_quote": 1.2705,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 22.01,
+          "volume_h6_usd": 761.49,
+          "volume_h24_usd": 761.49,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 5.0,
+          "sells_h1": 0.0,
+          "buys_h6": 58.0,
+          "sells_h6": 30.0,
+          "buys_h24": 58.0,
+          "sells_h24": 30.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 46.43,
+          "price_change_6h_pct": 173.0,
+          "price_change_24h_pct": 173.0,
+          "url": "https://dexscreener.com/solana/aru8woraaaoscgcu9x94fxi9s7oqljubt53mgxvc8jad",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "67WrnHeatJ5QNRLRr4btJvRWhVk89PAb8gosCPTUvk4T",
+            "name": "Equity",
+            "symbol": "EQT"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 5.0,
+          "volume_liquidity_ratio_h1": 0.08655812490168319,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.5193
         }
       },
       "discovery_source": "boosted",
@@ -4345,6 +4395,11 @@
         },
         {
           "ts_ms": 1788295400474,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788296103767,
           "amount": 10.0,
           "total_amount": 10.0
         }
