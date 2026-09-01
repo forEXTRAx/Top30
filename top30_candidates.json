@@ -4351,6 +4351,56 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.5193
+        },
+        "240": {
+          "timestamp_ms": 1788299709747,
+          "age_min": 251.36245,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "ARu8woRAaaoscGcu9x94fXi9s7oQLjUBt53mGxVc8jad",
+          "pair_created_at_ms": 1788284628000,
+          "price_usd": 6.259e-07,
+          "price_native": 6.29e-09,
+          "market_cap_usd": 626.0,
+          "fdv_usd": 626.0,
+          "liquidity_usd": 326.61,
+          "liquidity_base": 260908096.0,
+          "liquidity_quote": 1.6412,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 37.4,
+          "volume_h6_usd": 798.9,
+          "volume_h24_usd": 798.9,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 6.0,
+          "sells_h1": 2.0,
+          "buys_h6": 64.0,
+          "sells_h6": 32.0,
+          "buys_h24": 64.0,
+          "sells_h24": 32.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 65.82,
+          "price_change_6h_pct": 352.0,
+          "price_change_24h_pct": 352.0,
+          "url": "https://dexscreener.com/solana/aru8woraaaoscgcu9x94fxi9s7oqljubt53mgxvc8jad",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "67WrnHeatJ5QNRLRr4btJvRWhVk89PAb8gosCPTUvk4T",
+            "name": "Equity",
+            "symbol": "EQT"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 3.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": 4.0,
+          "volume_liquidity_ratio_h1": 0.11450965983895164,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.2672
         }
       },
       "discovery_source": "boosted",
@@ -4415,6 +4465,11 @@
         },
         {
           "ts_ms": 1788298989584,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788299704860,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -4975,6 +5030,67 @@
           "volume_liquidity_ratio_m5": 0.030285393614272734,
           "capital_inflow_index": 0.0303,
           "capital_inflow_index_h1": 0.3682
+        },
+        "60": {
+          "timestamp_ms": 1788299709998,
+          "age_min": 69.76663333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "7cq2YVt6cAhEmMZj2jbdQCBr1RRtDz9YTYG52xfYHvuL",
+          "pair_created_at_ms": 1788295524000,
+          "price_usd": 7.878e-06,
+          "price_native": 4.141e-07,
+          "market_cap_usd": 7879.0,
+          "fdv_usd": 7879.0,
+          "liquidity_usd": 7369.48,
+          "liquidity_base": 784610148.0,
+          "liquidity_quote": 62.4373,
+          "volume_m5_usd": 141.24,
+          "volume_h1_usd": 1723.79,
+          "volume_h6_usd": 2745.77,
+          "volume_h24_usd": 2745.77,
+          "buys_m5": 4.0,
+          "sells_m5": 2.0,
+          "buys_h1": 29.0,
+          "sells_h1": 26.0,
+          "buys_h6": 33.0,
+          "sells_h6": 31.0,
+          "buys_h24": 33.0,
+          "sells_h24": 31.0,
+          "price_change_5m_pct": 4.55,
+          "price_change_1h_pct": 43.19,
+          "price_change_6h_pct": 46.53,
+          "price_change_24h_pct": 46.53,
+          "url": "https://dexscreener.com/solana/7cq2yvt6cahemmzj2jbdqcbr1rrtdz9ytyg52xfyhvul",
+          "labels": [
+            "CLMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/1Nbg_fSrhdi9enc7?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/QsNNAqKFqGMkWYJk?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8k2WACnTfHyNz1EpEHozLommKWv4B1v7BgPweaKoW27?timestamp=1788299700000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/1976719894172569945",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "A8k2WACnTfHyNz1EpEHozLommKWv4B1v7BgPweaKoW27",
+            "name": "Roaring Kitty",
+            "symbol": "RKITTY"
+          },
+          "buy_sell_ratio_m5": 2.0,
+          "buy_sell_ratio_h1": 1.1153846153846154,
+          "net_buys_m5": 2.0,
+          "net_buys_h1": 3.0,
+          "volume_liquidity_ratio_h1": 0.23390931246166624,
+          "volume_liquidity_ratio_m5": 0.019165531353636894,
+          "capital_inflow_index": 0.0319,
+          "capital_inflow_index_h1": 0.2599
         }
       },
       "discovery_source": "boosted",
@@ -4989,6 +5105,11 @@
         },
         {
           "ts_ms": 1788298989584,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788299704860,
           "amount": 10.0,
           "total_amount": 10.0
         }
