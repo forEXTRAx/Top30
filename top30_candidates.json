@@ -5134,6 +5134,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "480": {
+          "timestamp_ms": 1788241804011,
+          "age_min": 480.51708333333335,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "DVXhwQRDJSNxz5ys7impNmngymDKNmT58q5pQE2sUcUY",
+          "pair_created_at_ms": null,
+          "price_usd": 1.938e-05,
+          "price_native": 1.864e-07,
+          "market_cap_usd": 19389.63,
+          "fdv_usd": 19389.63,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 656.78,
+          "volume_h6_usd": 2119.91,
+          "volume_h24_usd": 9129.09,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 9.0,
+          "sells_h1": 4.0,
+          "buys_h6": 22.0,
+          "sells_h6": 19.0,
+          "buys_h24": 118.0,
+          "sells_h24": 74.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 11.36,
+          "price_change_6h_pct": 20.08,
+          "price_change_24h_pct": 70.24,
+          "url": "https://dexscreener.com/solana/dvxhwqrdjsnxz5ys7impnmngymdknmt58q5pqe2sucuy",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/D6yf2VhugeObyu71?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Z-8LkYchrfYRpYrL?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GDxQgpkVkC6BYSv1wBkopcr2KpTH3f1w9J2bGxmNo3T3?timestamp=1788241800000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/ShalomSolana_",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GDxQgpkVkC6BYSv1wBkopcr2KpTH3f1w9J2bGxmNo3T3",
+            "name": "shalom",
+            "symbol": "shalom"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 2.25,
+          "net_buys_m5": 0,
+          "net_buys_h1": 5.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -6326,6 +6385,11 @@
         },
         {
           "ts_ms": 1788241016234,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788241799426,
           "amount": 30.0,
           "total_amount": 30.0
         }
