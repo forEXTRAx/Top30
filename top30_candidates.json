@@ -1949,6 +1949,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "180": {
+          "timestamp_ms": 1788373217783,
+          "age_min": 188.77971666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "CcHEtBborGHK83krMq421sPGW6mepytZiprXxJeiBBed",
+          "pair_created_at_ms": 1788361891000,
+          "price_usd": 2.869e-06,
+          "price_native": 2.912e-08,
+          "market_cap_usd": 2869.05,
+          "fdv_usd": 2869.05,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 3043.62,
+          "volume_h24_usd": 3043.62,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 45.0,
+          "sells_h6": 35.0,
+          "buys_h24": 45.0,
+          "sells_h24": 35.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": 2.28,
+          "price_change_24h_pct": 2.28,
+          "url": "https://dexscreener.com/solana/cchetbborghk83krmq421spgw6mepytziprxxjeibbed",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "FtgFpKeo9gfLyaTXvu5A4eELrTUewp8SdZpTEJuJpump",
+            "name": "CAT OF SOLANA",
+            "symbol": "Lucy"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -2725,6 +2773,72 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.2435
+        },
+        "120": {
+          "timestamp_ms": 1788373218061,
+          "age_min": 134.11768333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "FXjWiJrEfbLH8XVBXRx3xh6rJwmBj1gtBdu7XuYkpxJk",
+          "pair_created_at_ms": 1788365171000,
+          "price_usd": 2.297e-05,
+          "price_native": 2.297e-05,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": 2505.46,
+          "liquidity_base": 54514565.0,
+          "liquidity_quote": 1252.7337,
+          "volume_m5_usd": 10.58,
+          "volume_h1_usd": 1630.44,
+          "volume_h6_usd": 8343.96,
+          "volume_h24_usd": 8343.96,
+          "buys_m5": 1.0,
+          "sells_m5": 1.0,
+          "buys_h1": 9.0,
+          "sells_h1": 19.0,
+          "buys_h6": 151.0,
+          "sells_h6": 92.0,
+          "buys_h24": 151.0,
+          "sells_h24": 92.0,
+          "price_change_5m_pct": -0.12,
+          "price_change_1h_pct": -79.75,
+          "price_change_6h_pct": -62.98,
+          "price_change_24h_pct": -62.98,
+          "url": "https://dexscreener.com/solana/fxjwijrefblh8xvbxrx3xh6rjwmbj1gtbdu7xuykpxjk",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/pUzdSW5ifQ02f_Oc?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/nzFFfln0yw14oAyk?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C6g1LpFYpcU2w1TtDMUPejpuApQbQn5y8VNa6AgD8HfC?timestamp=1788373200000",
+            "websites": [
+              {
+                "url": "https://duobutt.fun",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/duobutt",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "C6g1LpFYpcU2w1TtDMUPejpuApQbQn5y8VNa6AgD8HfC",
+            "name": "Duolingo Chicken",
+            "symbol": "DUOBUTT"
+          },
+          "buy_sell_ratio_m5": 1.0,
+          "buy_sell_ratio_h1": 0.47368421052631576,
+          "net_buys_m5": 0.0,
+          "net_buys_h1": -10.0,
+          "volume_liquidity_ratio_h1": 0.6507547516224566,
+          "volume_liquidity_ratio_m5": 0.004222777454040376,
+          "capital_inflow_index": 0.0042,
+          "capital_inflow_index_h1": 0.3254
         }
       },
       "discovery_source": "organic"
