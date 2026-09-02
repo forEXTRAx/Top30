@@ -4272,8 +4272,81 @@
           "ts_ms": 1788385561675,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788386282967,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
+    },
+    "solana:5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump": {
+      "id": "solana:5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
+      "chain": "solana",
+      "address": "5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
+      "pair_address": "G74PkpRAd28uSwhS5vnq5ihES5udkjd1TEDgHotaf6MW",
+      "launch_time_ms": 1788386188000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788386283631,
+          "age_min": 1.59385,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "G74PkpRAd28uSwhS5vnq5ihES5udkjd1TEDgHotaf6MW",
+          "pair_created_at_ms": 1788386188000,
+          "price_usd": 4.883e-05,
+          "price_native": 4.904e-07,
+          "market_cap_usd": 48833.0,
+          "fdv_usd": 48833.0,
+          "liquidity_usd": 16761.55,
+          "liquidity_base": 188541818.0,
+          "liquidity_quote": 75.8538,
+          "volume_m5_usd": 8447.86,
+          "volume_h1_usd": 8447.86,
+          "volume_h6_usd": 8447.86,
+          "volume_h24_usd": 8447.86,
+          "buys_m5": 128.0,
+          "sells_m5": 81.0,
+          "buys_h1": 128.0,
+          "sells_h1": 81.0,
+          "buys_h6": 128.0,
+          "sells_h6": 81.0,
+          "buys_h24": 128.0,
+          "sells_h24": 81.0,
+          "price_change_5m_pct": 19.23,
+          "price_change_1h_pct": 19.23,
+          "price_change_6h_pct": 19.23,
+          "price_change_24h_pct": 19.23,
+          "url": "https://dexscreener.com/solana/g74pkprad28uswhs5vnq5ihes5udkjd1tedghotaf6mw",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/W3u-DyGBSojF7ome?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump?timestamp=1788386400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/LaunchX2_/status/2095219690654126273?s=20",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
+            "name": "Martin Fartin",
+            "symbol": "FARTIN "
+          },
+          "buy_sell_ratio_m5": 1.5802469135802468,
+          "buy_sell_ratio_h1": 1.5802469135802468,
+          "net_buys_m5": 47.0,
+          "net_buys_h1": 47.0,
+          "volume_liquidity_ratio_h1": 0.50400231482172,
+          "volume_liquidity_ratio_m5": 0.50400231482172,
+          "capital_inflow_index": 0.7929,
+          "capital_inflow_index_h1": 0.7929
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
