@@ -2152,6 +2152,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "480": {
+          "timestamp_ms": 1788390974545,
+          "age_min": 484.72575,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "CcHEtBborGHK83krMq421sPGW6mepytZiprXxJeiBBed",
+          "pair_created_at_ms": 1788361891000,
+          "price_usd": 2.791e-06,
+          "price_native": 2.798e-08,
+          "market_cap_usd": 2791.17,
+          "fdv_usd": 2791.17,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 60.91,
+          "volume_h24_usd": 3104.14,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 2.0,
+          "buys_h24": 45.0,
+          "sells_h24": 36.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": -2.91,
+          "price_change_24h_pct": -0.49,
+          "url": "https://dexscreener.com/solana/cchetbborghk83krmq421spgw6mepytziprxxjeibbed",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "FtgFpKeo9gfLyaTXvu5A4eELrTUewp8SdZpTEJuJpump",
+            "name": "CAT OF SOLANA",
+            "symbol": "Lucy"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -4435,6 +4483,11 @@
         },
         {
           "ts_ms": 1788389922590,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788390971113,
           "amount": 100.0,
           "total_amount": 100.0
         }
