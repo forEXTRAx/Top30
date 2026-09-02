@@ -3126,6 +3126,72 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "360": {
+          "timestamp_ms": 1788387468630,
+          "age_min": 371.62716666666665,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "FXjWiJrEfbLH8XVBXRx3xh6rJwmBj1gtBdu7XuYkpxJk",
+          "pair_created_at_ms": 1788365171000,
+          "price_usd": 2.401e-05,
+          "price_native": 2.401e-05,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 0.3609,
+          "liquidity_quote": 1e-06,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 7602.19,
+          "volume_h24_usd": 8415.39,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 119.0,
+          "sells_h6": 89.0,
+          "buys_h24": 153.0,
+          "sells_h24": 98.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": -70.09,
+          "price_change_24h_pct": -61.31,
+          "url": "https://dexscreener.com/solana/fxjwijrefblh8xvbxrx3xh6rjwmbj1gtbdu7xuykpxjk",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/pUzdSW5ifQ02f_Oc?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/nzFFfln0yw14oAyk?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C6g1LpFYpcU2w1TtDMUPejpuApQbQn5y8VNa6AgD8HfC?timestamp=1788387600000",
+            "websites": [
+              {
+                "url": "https://duobutt.fun",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/duobutt",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "C6g1LpFYpcU2w1TtDMUPejpuApQbQn5y8VNa6AgD8HfC",
+            "name": "Duolingo Chicken",
+            "symbol": "DUOBUTT"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "organic"
@@ -4277,76 +4343,673 @@
           "ts_ms": 1788386282967,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788387464021,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
     },
-    "solana:5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump": {
-      "id": "solana:5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
+    "solana:F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump": {
+      "id": "solana:F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
       "chain": "solana",
-      "address": "5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
-      "pair_address": "G74PkpRAd28uSwhS5vnq5ihES5udkjd1TEDgHotaf6MW",
-      "launch_time_ms": 1788386188000,
+      "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+      "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+      "launch_time_ms": 1788382534000,
       "checkpoints": {
         "1": {
-          "timestamp_ms": 1788386283631,
-          "age_min": 1.59385,
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
           "top30_rank": null,
           "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "G74PkpRAd28uSwhS5vnq5ihES5udkjd1TEDgHotaf6MW",
-          "pair_created_at_ms": 1788386188000,
-          "price_usd": 4.883e-05,
-          "price_native": 4.904e-07,
-          "market_cap_usd": 48833.0,
-          "fdv_usd": 48833.0,
-          "liquidity_usd": 16761.55,
-          "liquidity_base": 188541818.0,
-          "liquidity_quote": 75.8538,
-          "volume_m5_usd": 8447.86,
-          "volume_h1_usd": 8447.86,
-          "volume_h6_usd": 8447.86,
-          "volume_h24_usd": 8447.86,
-          "buys_m5": 128.0,
-          "sells_m5": 81.0,
-          "buys_h1": 128.0,
-          "sells_h1": 81.0,
-          "buys_h6": 128.0,
-          "sells_h6": 81.0,
-          "buys_h24": 128.0,
-          "sells_h24": 81.0,
-          "price_change_5m_pct": 19.23,
-          "price_change_1h_pct": 19.23,
-          "price_change_6h_pct": 19.23,
-          "price_change_24h_pct": 19.23,
-          "url": "https://dexscreener.com/solana/g74pkprad28uswhs5vnq5ihes5udkjd1tedghotaf6mw",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
           "labels": [],
           "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/W3u-DyGBSojF7ome?width=800&height=800&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump?timestamp=1788386400000",
-            "websites": [],
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
             "socials": [
               {
-                "url": "https://x.com/LaunchX2_/status/2095219690654126273?s=20",
+                "url": "https://x.com/i/communities/2016859827004121447",
                 "type": "twitter"
               }
             ]
           },
           "base_token": {
-            "address": "5iWSgThgfajnAsUXeYjnZE2966tdW9kitmHyUuy9pump",
-            "name": "Martin Fartin",
-            "symbol": "FARTIN "
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
           },
-          "buy_sell_ratio_m5": 1.5802469135802468,
-          "buy_sell_ratio_h1": 1.5802469135802468,
-          "net_buys_m5": 47.0,
-          "net_buys_h1": 47.0,
-          "volume_liquidity_ratio_h1": 0.50400231482172,
-          "volume_liquidity_ratio_m5": 0.50400231482172,
-          "capital_inflow_index": 0.7929,
-          "capital_inflow_index_h1": 0.7929
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "2": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "3": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "5": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "10": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "15": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "20": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "45": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "60": {
+          "timestamp_ms": 1788387466895,
+          "age_min": 82.21491666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "4uwpANdpKHjRingaHwUTTaPLNZehUMdjp5Zt4uBDos5s",
+          "pair_created_at_ms": 1788382534000,
+          "price_usd": 5.217e-06,
+          "price_native": 5.252e-08,
+          "market_cap_usd": 5217.47,
+          "fdv_usd": 5217.47,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 137.02,
+          "volume_h1_usd": 2958.96,
+          "volume_h6_usd": 5406.47,
+          "volume_h24_usd": 5406.47,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 37.0,
+          "sells_h1": 29.0,
+          "buys_h6": 69.0,
+          "sells_h6": 45.0,
+          "buys_h24": 69.0,
+          "sells_h24": 45.0,
+          "price_change_5m_pct": 4.96,
+          "price_change_1h_pct": 1.52,
+          "price_change_6h_pct": 85.91,
+          "price_change_24h_pct": 85.91,
+          "url": "https://dexscreener.com/solana/4uwpandpkhjringahwuttaplnzehumdjp5zt4ubdos5s",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VMWImHs5EV9qKtHQ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ks-IiPUjHdS4Y_i7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump?timestamp=1788387300000",
+            "websites": [
+              {
+                "url": "https://thesolament.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2016859827004121447",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "F6gfM5bsh8Wx8rFsVJpzuYJoZZ5gTUc4WiYAPdAUpump",
+            "name": "THE SOLAMENT",
+            "symbol": "SOLAMENT"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2758620689655173,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 8.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
-      "discovery_source": "organic"
+      "discovery_source": "boosted",
+      "is_boosted": true,
+      "boost_amount": 10.0,
+      "boost_total_amount": 10.0,
+      "boost_events": [
+        {
+          "ts_ms": 1788387464021,
+          "amount": 10.0,
+          "total_amount": 10.0
+        }
+      ]
     }
   }
 }
