@@ -3094,82 +3094,13 @@
           "ts_ms": 1788479005146,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788479697068,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
-    },
-    "solana:Ac5LSKqNeV1PFeJAHwdi2wfSXXNAAfLVmeEEcKuLpump": {
-      "id": "solana:Ac5LSKqNeV1PFeJAHwdi2wfSXXNAAfLVmeEEcKuLpump",
-      "chain": "solana",
-      "address": "Ac5LSKqNeV1PFeJAHwdi2wfSXXNAAfLVmeEEcKuLpump",
-      "pair_address": "8NXvnQm8XiYreNGMz3VBc9jYRLqzmREcTJLxHwGRygSs",
-      "launch_time_ms": 1788478940000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788479005988,
-          "age_min": 1.0998,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "8NXvnQm8XiYreNGMz3VBc9jYRLqzmREcTJLxHwGRygSs",
-          "pair_created_at_ms": 1788478940000,
-          "price_usd": 4.149e-05,
-          "price_native": 3.982e-07,
-          "market_cap_usd": 41496.0,
-          "fdv_usd": 41496.0,
-          "liquidity_usd": 15609.43,
-          "liquidity_base": 210058308.0,
-          "liquidity_quote": 66.15,
-          "volume_m5_usd": 11024.16,
-          "volume_h1_usd": 11024.16,
-          "volume_h6_usd": 11024.16,
-          "volume_h24_usd": 11024.16,
-          "buys_m5": 168.0,
-          "sells_m5": 111.0,
-          "buys_h1": 168.0,
-          "sells_h1": 111.0,
-          "buys_h6": 168.0,
-          "sells_h6": 111.0,
-          "buys_h24": 168.0,
-          "sells_h24": 111.0,
-          "price_change_5m_pct": -3.13,
-          "price_change_1h_pct": -3.13,
-          "price_change_6h_pct": -3.13,
-          "price_change_24h_pct": -3.13,
-          "url": "https://dexscreener.com/solana/8nxvnqm8xiyrengmz3vbc9jyrlqzmrectjlxhwgrygss",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ANs3BlD8SYZQQHA1?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/iglLwoDYvPW5zWRq?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Ac5LSKqNeV1PFeJAHwdi2wfSXXNAAfLVmeEEcKuLpump?timestamp=1788479100000",
-            "websites": [
-              {
-                "url": "https://x.com/search?q=ceuta%20dolphin&src=typed_query",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/ddddddd8a/status/2095656632331944213",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "Ac5LSKqNeV1PFeJAHwdi2wfSXXNAAfLVmeEEcKuLpump",
-            "name": "Justice For Ceuta Wildlife",
-            "symbol": "CEUTA"
-          },
-          "buy_sell_ratio_m5": 1.5135135135135136,
-          "buy_sell_ratio_h1": 1.5135135135135136,
-          "net_buys_m5": 57.0,
-          "net_buys_h1": 57.0,
-          "volume_liquidity_ratio_h1": 0.7062500040039899,
-          "volume_liquidity_ratio_m5": 0.7062500040039899,
-          "capital_inflow_index": 1.0657,
-          "capital_inflow_index_h1": 1.0657
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
