@@ -3016,6 +3016,11 @@
           "ts_ms": 1788476509173,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788477486464,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -3798,7 +3803,7 @@
       "discovery_source": "boosted",
       "is_boosted": true,
       "boost_amount": 10.0,
-      "boost_total_amount": 10.0,
+      "boost_total_amount": 20.0,
       "boost_events": [
         {
           "ts_ms": 1788475784373,
@@ -3809,6 +3814,16 @@
           "ts_ms": 1788476509173,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788477486464,
+          "amount": 10.0,
+          "total_amount": 20.0
+        },
+        {
+          "ts_ms": 1788477486464,
+          "amount": 10.0,
+          "total_amount": 20.0
         }
       ]
     }
