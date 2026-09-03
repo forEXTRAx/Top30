@@ -2343,6 +2343,16 @@
           "ts_ms": 1788472364652,
           "amount": 10.0,
           "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1788473301394,
+          "amount": 30.0,
+          "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1788473301394,
+          "amount": 10.0,
+          "total_amount": 40.0
         }
       ]
     },
@@ -3435,146 +3445,13 @@
           "ts_ms": 1788472364652,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788473301394,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
-    },
-    "solana:TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump": {
-      "id": "solana:TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump",
-      "chain": "solana",
-      "address": "TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump",
-      "pair_address": "6kt8V7BYBufSNa1ByLsYJ8nbve6r3ME5yB6FDr3AqFL3",
-      "launch_time_ms": 1788472241000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788472364987,
-          "age_min": 2.06645,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "6kt8V7BYBufSNa1ByLsYJ8nbve6r3ME5yB6FDr3AqFL3",
-          "pair_created_at_ms": 1788472241000,
-          "price_usd": 7.729e-05,
-          "price_native": 7.366e-07,
-          "market_cap_usd": 77233.0,
-          "fdv_usd": 77233.0,
-          "liquidity_usd": 22100.4,
-          "liquidity_base": 154152944.0,
-          "liquidity_quote": 97.05937,
-          "volume_m5_usd": 26107.31,
-          "volume_h1_usd": 26107.31,
-          "volume_h6_usd": 26107.31,
-          "volume_h24_usd": 26107.31,
-          "buys_m5": 307.0,
-          "sells_m5": 249.0,
-          "buys_h1": 307.0,
-          "sells_h1": 249.0,
-          "buys_h6": 307.0,
-          "sells_h6": 249.0,
-          "buys_h24": 307.0,
-          "sells_h24": 249.0,
-          "price_change_5m_pct": 78.78,
-          "price_change_1h_pct": 78.78,
-          "price_change_6h_pct": 78.78,
-          "price_change_24h_pct": 78.78,
-          "url": "https://dexscreener.com/solana/6kt8v7bybufsna1bylsyj8nbve6r3me5yb6fdr3aqfl3",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/0rUKGBW2ydypxrjL?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/rqRZtAyLF3Mu990Y?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump?timestamp=1788472500000",
-            "websites": [
-              {
-                "url": "https://www.konyani.fun",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/konyaniworld/status/2095626155961266374",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump",
-            "name": "코냐니",
-            "symbol": "KONYАNI"
-          },
-          "buy_sell_ratio_m5": 1.2329317269076305,
-          "buy_sell_ratio_h1": 1.2329317269076305,
-          "net_buys_m5": 58.0,
-          "net_buys_h1": 58.0,
-          "volume_liquidity_ratio_h1": 1.1813048632603935,
-          "volume_liquidity_ratio_m5": 1.1813048632603935,
-          "capital_inflow_index": 1.4554,
-          "capital_inflow_index_h1": 1.4554
-        },
-        "2": {
-          "timestamp_ms": 1788472364987,
-          "age_min": 2.06645,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "6kt8V7BYBufSNa1ByLsYJ8nbve6r3ME5yB6FDr3AqFL3",
-          "pair_created_at_ms": 1788472241000,
-          "price_usd": 7.729e-05,
-          "price_native": 7.366e-07,
-          "market_cap_usd": 77233.0,
-          "fdv_usd": 77233.0,
-          "liquidity_usd": 22100.4,
-          "liquidity_base": 154152944.0,
-          "liquidity_quote": 97.05937,
-          "volume_m5_usd": 26107.31,
-          "volume_h1_usd": 26107.31,
-          "volume_h6_usd": 26107.31,
-          "volume_h24_usd": 26107.31,
-          "buys_m5": 307.0,
-          "sells_m5": 249.0,
-          "buys_h1": 307.0,
-          "sells_h1": 249.0,
-          "buys_h6": 307.0,
-          "sells_h6": 249.0,
-          "buys_h24": 307.0,
-          "sells_h24": 249.0,
-          "price_change_5m_pct": 78.78,
-          "price_change_1h_pct": 78.78,
-          "price_change_6h_pct": 78.78,
-          "price_change_24h_pct": 78.78,
-          "url": "https://dexscreener.com/solana/6kt8v7bybufsna1bylsyj8nbve6r3me5yb6fdr3aqfl3",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/0rUKGBW2ydypxrjL?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/rqRZtAyLF3Mu990Y?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump?timestamp=1788472500000",
-            "websites": [
-              {
-                "url": "https://www.konyani.fun",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/konyaniworld/status/2095626155961266374",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "TArDeiqsERbbBB87hmJ2uv7RCNu9oBv4dG2qW9apump",
-            "name": "코냐니",
-            "symbol": "KONYАNI"
-          },
-          "buy_sell_ratio_m5": 1.2329317269076305,
-          "buy_sell_ratio_h1": 1.2329317269076305,
-          "net_buys_m5": 58.0,
-          "net_buys_h1": 58.0,
-          "volume_liquidity_ratio_h1": 1.1813048632603935,
-          "volume_liquidity_ratio_m5": 1.1813048632603935,
-          "capital_inflow_index": 1.4554,
-          "capital_inflow_index_h1": 1.4554
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
