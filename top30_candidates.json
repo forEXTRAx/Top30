@@ -922,7 +922,7 @@
       "discovery_source": "boosted",
       "is_boosted": true,
       "boost_amount": 10.0,
-      "boost_total_amount": 10.0,
+      "boost_total_amount": 20.0,
       "boost_events": [
         {
           "ts_ms": 1788446485906,
@@ -958,6 +958,11 @@
           "ts_ms": 1788452424120,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788463125696,
+          "amount": 10.0,
+          "total_amount": 20.0
         }
       ]
     }
