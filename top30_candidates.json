@@ -5022,6 +5022,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "60": {
+          "timestamp_ms": 1788399388667,
+          "age_min": 70.17778333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "AwtcnkmeJxEJwEVJWWSk6iJiYngWWkSdrB893p2Ycvcd",
+          "pair_created_at_ms": 1788395178000,
+          "price_usd": 2.844e-06,
+          "price_native": 2.834e-08,
+          "market_cap_usd": 2844.3,
+          "fdv_usd": 2844.3,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 19.45,
+          "volume_h1_usd": 366.38,
+          "volume_h6_usd": 3561.47,
+          "volume_h24_usd": 3561.47,
+          "buys_m5": 0.0,
+          "sells_m5": 1.0,
+          "buys_h1": 3.0,
+          "sells_h1": 7.0,
+          "buys_h6": 39.0,
+          "sells_h6": 41.0,
+          "buys_h24": 39.0,
+          "sells_h24": 41.0,
+          "price_change_5m_pct": -0.45,
+          "price_change_1h_pct": -15.53,
+          "price_change_6h_pct": -10.38,
+          "price_change_24h_pct": -10.38,
+          "url": "https://dexscreener.com/solana/awtcnkmejxejwevjwwsk6ijiyngwwksdrb893p2ycvcd",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "DaE7tkbaMD5FRFDbpUxJ1ee2uJdufNeYQ4MkEs2dpump",
+            "name": "Saudi Aramco ",
+            "symbol": "Aramco"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 0.42857142857142855,
+          "net_buys_m5": -1.0,
+          "net_buys_h1": -4.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -5041,6 +5089,11 @@
         },
         {
           "ts_ms": 1788398418584,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788399383358,
           "amount": 10.0,
           "total_amount": 10.0
         }
