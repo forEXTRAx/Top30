@@ -407,6 +407,56 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "45": {
+          "timestamp_ms": 1788544492816,
+          "age_min": 47.6636,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "4EEY2ApkNnQioYGCJe3qQpcEKpsVEHuD5meHzNiGUHJe",
+          "pair_created_at_ms": 1788541633000,
+          "price_usd": 4.936e-06,
+          "price_native": 0.04887,
+          "market_cap_usd": 4937.0,
+          "fdv_usd": 4937.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 81.9147,
+          "liquidity_quote": 82.267,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 1.98,
+          "volume_h6_usd": 1.98,
+          "volume_h24_usd": 1.98,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 14.0,
+          "buys_h6": 1.0,
+          "sells_h6": 14.0,
+          "buys_h24": 1.0,
+          "sells_h24": 14.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -54.66,
+          "price_change_6h_pct": -54.66,
+          "price_change_24h_pct": -54.66,
+          "url": "https://dexscreener.com/solana/4eey2apknnqioygcje3qqpcekpsvehud5mehzniguhje",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "Hd2GxqeJEFpwdVRbSmvWpM9GpkubY6TTw841L5Qdpump",
+            "name": "Lambo",
+            "symbol": "Lambo"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.07142857142857142,
+          "net_buys_m5": 0,
+          "net_buys_h1": -13.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -426,6 +476,11 @@
         },
         {
           "ts_ms": 1788543796570,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788544488736,
           "amount": 10.0,
           "total_amount": 10.0
         }
