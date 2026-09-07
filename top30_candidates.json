@@ -1444,6 +1444,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "60": {
+          "timestamp_ms": 1788788581362,
+          "age_min": 69.75603333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "B9kLdpqMHdy6Q8GXT9cC9hHLrzrwWPMm4EG6NikAJ8JD",
+          "pair_created_at_ms": 1788784396000,
+          "price_usd": 8.734e-06,
+          "price_native": 8.3e-08,
+          "market_cap_usd": 8734.24,
+          "fdv_usd": 8734.24,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 5.57,
+          "volume_h1_usd": 7250.4,
+          "volume_h6_usd": 8660.59,
+          "volume_h24_usd": 8660.59,
+          "buys_m5": 0.0,
+          "sells_m5": 2.0,
+          "buys_h1": 183.0,
+          "sells_h1": 79.0,
+          "buys_h6": 221.0,
+          "sells_h6": 94.0,
+          "buys_h24": 221.0,
+          "sells_h24": 94.0,
+          "price_change_5m_pct": -0.32,
+          "price_change_1h_pct": 66.87,
+          "price_change_6h_pct": 144.0,
+          "price_change_24h_pct": 144.0,
+          "url": "https://dexscreener.com/solana/b9kldpqmhdy6q8gxt9cc9hhlrzrwwpmm4eg6nikaj8jd",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/YUnHt3G-BXuRnwRB?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/qWBRVGxeGpVETok3?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/yB27JzUSFXfzeXuyrdynyB4kqNHPEp6GzPD1bA3pump?timestamp=1788788700000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/LowballxLarry",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "yB27JzUSFXfzeXuyrdynyB4kqNHPEp6GzPD1bA3pump",
+            "name": "Lowball Larry",
+            "symbol": "LOWBALL"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 2.3164556962025316,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": 104.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -1463,6 +1522,11 @@
         },
         {
           "ts_ms": 1788787471283,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788788577603,
           "amount": 30.0,
           "total_amount": 30.0
         }
