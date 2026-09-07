@@ -1529,8 +1529,155 @@
           "ts_ms": 1788788577603,
           "amount": 30.0,
           "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788789437701,
+          "amount": 30.0,
+          "total_amount": 30.0
         }
       ]
+    },
+    "solana:9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9": {
+      "id": "solana:9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9",
+      "chain": "solana",
+      "address": "9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9",
+      "pair_address": "yaNXkF6rckZqhkG9XWkEpvbQN6TD1snJi3qcW9B9G2X",
+      "launch_time_ms": 1788789316000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788789438170,
+          "age_min": 2.0361666666666665,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "yaNXkF6rckZqhkG9XWkEpvbQN6TD1snJi3qcW9B9G2X",
+          "pair_created_at_ms": 1788789316000,
+          "price_usd": 3.724e-05,
+          "price_native": 3.54e-07,
+          "market_cap_usd": 37247.0,
+          "fdv_usd": 37247.0,
+          "liquidity_usd": 16596.54,
+          "liquidity_base": 223211186.0,
+          "liquidity_quote": 78.7236,
+          "volume_m5_usd": 6122.71,
+          "volume_h1_usd": 6122.71,
+          "volume_h6_usd": 6122.71,
+          "volume_h24_usd": 6122.71,
+          "buys_m5": 99.0,
+          "sells_m5": 33.0,
+          "buys_h1": 99.0,
+          "sells_h1": 33.0,
+          "buys_h6": 99.0,
+          "sells_h6": 33.0,
+          "buys_h24": 99.0,
+          "sells_h24": 33.0,
+          "price_change_5m_pct": -14.54,
+          "price_change_1h_pct": -14.54,
+          "price_change_6h_pct": -14.54,
+          "price_change_24h_pct": -14.54,
+          "url": "https://dexscreener.com/solana/yanxkf6rckzqhkg9xwkepvbqn6td1snji3qcw9b9g2x",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kSFQCeqIKMvhxwCo?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/44kxfkYtyAO8V3WN?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9?timestamp=1788789300000",
+            "websites": [
+              {
+                "url": "https://github.com/solana-labs/ecosystem/blob/9e525b60b623b99dab6e204947212515ab80f158/projects/himalayancatcoin.md?plain=1#L5",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/solanacatHima",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9",
+            "name": "Solana cat",
+            "symbol": "HIMA"
+          },
+          "buy_sell_ratio_m5": 3.0,
+          "buy_sell_ratio_h1": 3.0,
+          "net_buys_m5": 66.0,
+          "net_buys_h1": 66.0,
+          "volume_liquidity_ratio_h1": 0.3689148461064776,
+          "volume_liquidity_ratio_m5": 0.3689148461064776,
+          "capital_inflow_index": 1.085,
+          "capital_inflow_index_h1": 1.085
+        },
+        "2": {
+          "timestamp_ms": 1788789438170,
+          "age_min": 2.0361666666666665,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "yaNXkF6rckZqhkG9XWkEpvbQN6TD1snJi3qcW9B9G2X",
+          "pair_created_at_ms": 1788789316000,
+          "price_usd": 3.724e-05,
+          "price_native": 3.54e-07,
+          "market_cap_usd": 37247.0,
+          "fdv_usd": 37247.0,
+          "liquidity_usd": 16596.54,
+          "liquidity_base": 223211186.0,
+          "liquidity_quote": 78.7236,
+          "volume_m5_usd": 6122.71,
+          "volume_h1_usd": 6122.71,
+          "volume_h6_usd": 6122.71,
+          "volume_h24_usd": 6122.71,
+          "buys_m5": 99.0,
+          "sells_m5": 33.0,
+          "buys_h1": 99.0,
+          "sells_h1": 33.0,
+          "buys_h6": 99.0,
+          "sells_h6": 33.0,
+          "buys_h24": 99.0,
+          "sells_h24": 33.0,
+          "price_change_5m_pct": -14.54,
+          "price_change_1h_pct": -14.54,
+          "price_change_6h_pct": -14.54,
+          "price_change_24h_pct": -14.54,
+          "url": "https://dexscreener.com/solana/yanxkf6rckzqhkg9xwkepvbqn6td1snji3qcw9b9g2x",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kSFQCeqIKMvhxwCo?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/44kxfkYtyAO8V3WN?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9?timestamp=1788789300000",
+            "websites": [
+              {
+                "url": "https://github.com/solana-labs/ecosystem/blob/9e525b60b623b99dab6e204947212515ab80f158/projects/himalayancatcoin.md?plain=1#L5",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/solanacatHima",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9iH8MzNcq6T88D9pU3qhHEx94bLuA5GcfKCgTbsENEc9",
+            "name": "Solana cat",
+            "symbol": "HIMA"
+          },
+          "buy_sell_ratio_m5": 3.0,
+          "buy_sell_ratio_h1": 3.0,
+          "net_buys_m5": 66.0,
+          "net_buys_h1": 66.0,
+          "volume_liquidity_ratio_h1": 0.3689148461064776,
+          "volume_liquidity_ratio_m5": 0.3689148461064776,
+          "capital_inflow_index": 1.085,
+          "capital_inflow_index_h1": 1.085
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
