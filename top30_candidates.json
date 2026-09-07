@@ -1130,6 +1130,11 @@
           "ts_ms": 1788743903752,
           "amount": 30.0,
           "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788744820374,
+          "amount": 30.0,
+          "total_amount": 30.0
         }
       ]
     },
@@ -2183,6 +2188,11 @@
           "ts_ms": 1788743903752,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788744820374,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -2905,6 +2915,11 @@
           "ts_ms": 1788743903752,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788744820374,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -3516,216 +3531,13 @@
           "ts_ms": 1788743903752,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788744820374,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
-    },
-    "solana:C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6": {
-      "id": "solana:C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6",
-      "chain": "solana",
-      "address": "C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6",
-      "pair_address": "CRnAmcTjR63ZXUhSKLygSAkjZwKfrWxWau7y9uhsjWuW",
-      "launch_time_ms": 1788743717000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788743904005,
-          "age_min": 3.11675,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "CRnAmcTjR63ZXUhSKLygSAkjZwKfrWxWau7y9uhsjWuW",
-          "pair_created_at_ms": 1788743717000,
-          "price_usd": 2.189e-05,
-          "price_native": 1.838e-08,
-          "market_cap_usd": 21893.0,
-          "fdv_usd": 21893.0,
-          "liquidity_usd": 12726.96,
-          "liquidity_base": 290625483.0,
-          "liquidity_quote": 5.3448,
-          "volume_m5_usd": 14541.75,
-          "volume_h1_usd": 14541.75,
-          "volume_h6_usd": 14541.75,
-          "volume_h24_usd": 14541.75,
-          "buys_m5": 60.0,
-          "sells_m5": 80.0,
-          "buys_h1": 60.0,
-          "sells_h1": 80.0,
-          "buys_h6": 60.0,
-          "sells_h6": 80.0,
-          "buys_h24": 60.0,
-          "sells_h24": 80.0,
-          "price_change_5m_pct": -49.71,
-          "price_change_1h_pct": -49.71,
-          "price_change_6h_pct": -49.71,
-          "price_change_24h_pct": -49.71,
-          "url": "https://dexscreener.com/solana/crnamctjr63zxuhsklygsakjzwkfrwxwau7y9uhsjwuw",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/27iQoP-qJdIRRr-t?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/7V8dX9TN86JqZYEK?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6?timestamp=1788744000000",
-            "websites": [
-              {
-                "url": "https://www.stonkfun.xyz/",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/i/communities/1975668344427847985",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6",
-            "name": "Zcash Cult",
-            "symbol": "🛡️"
-          },
-          "buy_sell_ratio_m5": 0.75,
-          "buy_sell_ratio_h1": 0.75,
-          "net_buys_m5": -20.0,
-          "net_buys_h1": -20.0,
-          "volume_liquidity_ratio_h1": 1.1425941465990308,
-          "volume_liquidity_ratio_m5": 1.1425941465990308,
-          "capital_inflow_index": 0.8605,
-          "capital_inflow_index_h1": 0.8605
-        },
-        "2": {
-          "timestamp_ms": 1788743904005,
-          "age_min": 3.11675,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "CRnAmcTjR63ZXUhSKLygSAkjZwKfrWxWau7y9uhsjWuW",
-          "pair_created_at_ms": 1788743717000,
-          "price_usd": 2.189e-05,
-          "price_native": 1.838e-08,
-          "market_cap_usd": 21893.0,
-          "fdv_usd": 21893.0,
-          "liquidity_usd": 12726.96,
-          "liquidity_base": 290625483.0,
-          "liquidity_quote": 5.3448,
-          "volume_m5_usd": 14541.75,
-          "volume_h1_usd": 14541.75,
-          "volume_h6_usd": 14541.75,
-          "volume_h24_usd": 14541.75,
-          "buys_m5": 60.0,
-          "sells_m5": 80.0,
-          "buys_h1": 60.0,
-          "sells_h1": 80.0,
-          "buys_h6": 60.0,
-          "sells_h6": 80.0,
-          "buys_h24": 60.0,
-          "sells_h24": 80.0,
-          "price_change_5m_pct": -49.71,
-          "price_change_1h_pct": -49.71,
-          "price_change_6h_pct": -49.71,
-          "price_change_24h_pct": -49.71,
-          "url": "https://dexscreener.com/solana/crnamctjr63zxuhsklygsakjzwkfrwxwau7y9uhsjwuw",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/27iQoP-qJdIRRr-t?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/7V8dX9TN86JqZYEK?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6?timestamp=1788744000000",
-            "websites": [
-              {
-                "url": "https://www.stonkfun.xyz/",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/i/communities/1975668344427847985",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6",
-            "name": "Zcash Cult",
-            "symbol": "🛡️"
-          },
-          "buy_sell_ratio_m5": 0.75,
-          "buy_sell_ratio_h1": 0.75,
-          "net_buys_m5": -20.0,
-          "net_buys_h1": -20.0,
-          "volume_liquidity_ratio_h1": 1.1425941465990308,
-          "volume_liquidity_ratio_m5": 1.1425941465990308,
-          "capital_inflow_index": 0.8605,
-          "capital_inflow_index_h1": 0.8605
-        },
-        "3": {
-          "timestamp_ms": 1788743904005,
-          "age_min": 3.11675,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "CRnAmcTjR63ZXUhSKLygSAkjZwKfrWxWau7y9uhsjWuW",
-          "pair_created_at_ms": 1788743717000,
-          "price_usd": 2.189e-05,
-          "price_native": 1.838e-08,
-          "market_cap_usd": 21893.0,
-          "fdv_usd": 21893.0,
-          "liquidity_usd": 12726.96,
-          "liquidity_base": 290625483.0,
-          "liquidity_quote": 5.3448,
-          "volume_m5_usd": 14541.75,
-          "volume_h1_usd": 14541.75,
-          "volume_h6_usd": 14541.75,
-          "volume_h24_usd": 14541.75,
-          "buys_m5": 60.0,
-          "sells_m5": 80.0,
-          "buys_h1": 60.0,
-          "sells_h1": 80.0,
-          "buys_h6": 60.0,
-          "sells_h6": 80.0,
-          "buys_h24": 60.0,
-          "sells_h24": 80.0,
-          "price_change_5m_pct": -49.71,
-          "price_change_1h_pct": -49.71,
-          "price_change_6h_pct": -49.71,
-          "price_change_24h_pct": -49.71,
-          "url": "https://dexscreener.com/solana/crnamctjr63zxuhsklygsakjzwkfrwxwau7y9uhsjwuw",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/27iQoP-qJdIRRr-t?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/7V8dX9TN86JqZYEK?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6?timestamp=1788744000000",
-            "websites": [
-              {
-                "url": "https://www.stonkfun.xyz/",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/i/communities/1975668344427847985",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "C3CqkCgxe37pZwZQ6Snz8FKCzJnApmiM1DLYbhDMQ8v6",
-            "name": "Zcash Cult",
-            "symbol": "🛡️"
-          },
-          "buy_sell_ratio_m5": 0.75,
-          "buy_sell_ratio_h1": 0.75,
-          "net_buys_m5": -20.0,
-          "net_buys_h1": -20.0,
-          "volume_liquidity_ratio_h1": 1.1425941465990308,
-          "volume_liquidity_ratio_m5": 1.1425941465990308,
-          "capital_inflow_index": 0.8605,
-          "capital_inflow_index_h1": 0.8605
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
