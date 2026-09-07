@@ -4305,6 +4305,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "360": {
+          "timestamp_ms": 1788801406325,
+          "age_min": 368.85541666666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "DxaAtUM1hrpPwkLn7bj9DSw1auod7Wnu8mfL7aa2gq3f",
+          "pair_created_at_ms": 1788779275000,
+          "price_usd": 3.54e-06,
+          "price_native": 3.409e-08,
+          "market_cap_usd": 3540.43,
+          "fdv_usd": 3540.43,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 63.93,
+          "volume_h6_usd": 1328.85,
+          "volume_h24_usd": 1488.96,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 4.0,
+          "sells_h1": 0.0,
+          "buys_h6": 42.0,
+          "sells_h6": 26.0,
+          "buys_h24": 46.0,
+          "sells_h24": 26.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 4.47,
+          "price_change_6h_pct": 9.32,
+          "price_change_24h_pct": 9.98,
+          "url": "https://dexscreener.com/solana/dxaatum1hrppwkln7bj9dsw1auod7wnu8mfl7aa2gq3f",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "ENBP1gfn4xMJCBvV3MdSyeuNSdaPXRvVrC4qnPJCpump",
+            "name": "COWJECT",
+            "symbol": "COWJECT"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 4.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -6184,7 +6232,7 @@
       },
       "discovery_source": "boosted",
       "is_boosted": true,
-      "boost_amount": 10.0,
+      "boost_amount": 30.0,
       "boost_total_amount": 40.0,
       "boost_events": [
         {
@@ -6240,6 +6288,11 @@
         {
           "ts_ms": 1788800278540,
           "amount": 10.0,
+          "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1788801401754,
+          "amount": 30.0,
           "total_amount": 40.0
         }
       ]
@@ -6682,6 +6735,54 @@
           "volume_liquidity_ratio_m5": 0.0027501142333311575,
           "capital_inflow_index": 0.0007,
           "capital_inflow_index_h1": 9.769
+        },
+        "60": {
+          "timestamp_ms": 1788801406825,
+          "age_min": 66.69708333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "BmKsrMpodFKZYXr91orjSVXvvWD6czcCKCK5aLzMQC9k",
+          "pair_created_at_ms": 1788797405000,
+          "price_usd": 3.625e-06,
+          "price_native": 3.487e-08,
+          "market_cap_usd": 3326.0,
+          "fdv_usd": 3326.0,
+          "liquidity_usd": 3324.9,
+          "liquidity_base": 706139722.0,
+          "liquidity_quote": 7.3561,
+          "volume_m5_usd": 10.11,
+          "volume_h1_usd": 8395.08,
+          "volume_h6_usd": 40329.59,
+          "volume_h24_usd": 40329.59,
+          "buys_m5": 1.0,
+          "sells_m5": 2.0,
+          "buys_h1": 147.0,
+          "sells_h1": 304.0,
+          "buys_h6": 624.0,
+          "sells_h6": 741.0,
+          "buys_h24": 624.0,
+          "sells_h24": 741.0,
+          "price_change_5m_pct": 0.04,
+          "price_change_1h_pct": -66.35,
+          "price_change_6h_pct": -91.47,
+          "price_change_24h_pct": -91.47,
+          "url": "https://dexscreener.com/solana/bmksrmpodfkzyxr91orjsvxvvwd6czcckck5alzmqc9k",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "7271ZR6GBzaGqdtP28ZqZ5BKRt2ziu4AnPnVCAL7pump",
+            "name": "The Immortal Pill",
+            "symbol": "Rentosertib"
+          },
+          "buy_sell_ratio_m5": 0.5,
+          "buy_sell_ratio_h1": 0.48355263157894735,
+          "net_buys_m5": -1.0,
+          "net_buys_h1": -157.0,
+          "volume_liquidity_ratio_h1": 2.524912027429396,
+          "volume_liquidity_ratio_m5": 0.0030406929531715237,
+          "capital_inflow_index": 0.002,
+          "capital_inflow_index_h1": 1.2252
         }
       },
       "discovery_source": "boosted",
@@ -6706,6 +6807,11 @@
         },
         {
           "ts_ms": 1788800278540,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788801401754,
           "amount": 10.0,
           "total_amount": 10.0
         }
