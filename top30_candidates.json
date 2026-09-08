@@ -20023,6 +20023,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "180": {
+          "timestamp_ms": 1788886222399,
+          "age_min": 184.18998333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "G8PKsjBjxqG2nCv3XWsvDq93h9kZYZHqQsF63hMohdGL",
+          "pair_created_at_ms": 1788875171000,
+          "price_usd": 4.311e-06,
+          "price_native": 4.134e-08,
+          "market_cap_usd": 4311.84,
+          "fdv_usd": 4311.84,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 825.16,
+          "volume_h6_usd": 3179.44,
+          "volume_h24_usd": 3179.44,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 2.0,
+          "sells_h1": 16.0,
+          "buys_h6": 50.0,
+          "sells_h6": 31.0,
+          "buys_h24": 50.0,
+          "sells_h24": 31.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -31.89,
+          "price_change_6h_pct": 47.02,
+          "price_change_24h_pct": 47.02,
+          "url": "https://dexscreener.com/solana/g8pksjbjxqg2ncv3xwsvdq93h9kzyzhqqsf63hmohdgl",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "2j9ZzXBWAEQjVmAWHMePAgrJ8zsHZ2TDzCxNcDtRpump",
+            "name": "I'm Cooked",
+            "symbol": "COOKED"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.125,
+          "net_buys_m5": 0,
+          "net_buys_h1": -14.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -20047,6 +20095,11 @@
         },
         {
           "ts_ms": 1788885283108,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788886215200,
           "amount": 10.0,
           "total_amount": 10.0
         }
