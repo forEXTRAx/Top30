@@ -19020,6 +19020,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "240": {
+          "timestamp_ms": 1788889851691,
+          "age_min": 244.67818333333332,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "G8PKsjBjxqG2nCv3XWsvDq93h9kZYZHqQsF63hMohdGL",
+          "pair_created_at_ms": 1788875171000,
+          "price_usd": 4.247e-06,
+          "price_native": 4.075e-08,
+          "market_cap_usd": 4247.68,
+          "fdv_usd": 4247.68,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 27.3,
+          "volume_h6_usd": 3206.75,
+          "volume_h24_usd": 3206.75,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 5.0,
+          "buys_h6": 50.0,
+          "sells_h6": 36.0,
+          "buys_h24": 50.0,
+          "sells_h24": 36.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -1.49,
+          "price_change_6h_pct": 44.83,
+          "price_change_24h_pct": 44.83,
+          "url": "https://dexscreener.com/solana/g8pksjbjxqg2ncv3xwsvdq93h9kzyzhqqsf63hmohdgl",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "2j9ZzXBWAEQjVmAWHMePAgrJ8zsHZ2TDzCxNcDtRpump",
+            "name": "I'm Cooked",
+            "symbol": "COOKED"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -5.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -19624,6 +19672,67 @@
           "volume_liquidity_ratio_m5": 0.006816797880047463,
           "capital_inflow_index": 0.0136,
           "capital_inflow_index_h1": 1.8534
+        },
+        "60": {
+          "timestamp_ms": 1788889851859,
+          "age_min": 71.03098333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "9iBCWEtpsg51B4jqKcgNDbgYVt8DyvWB7PnWnY9p5SK",
+          "pair_created_at_ms": 1788885590000,
+          "price_usd": 4.213e-05,
+          "price_native": 1.104e-06,
+          "market_cap_usd": 42137.0,
+          "fdv_usd": 42137.0,
+          "liquidity_usd": 16167.89,
+          "liquidity_base": 191850430.0,
+          "liquidity_quote": 211.9906,
+          "volume_m5_usd": 1.97,
+          "volume_h1_usd": 4737.89,
+          "volume_h6_usd": 19873.95,
+          "volume_h24_usd": 19873.95,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 125.0,
+          "sells_h1": 33.0,
+          "buys_h6": 185.0,
+          "sells_h6": 118.0,
+          "buys_h24": 185.0,
+          "sells_h24": 118.0,
+          "price_change_5m_pct": 0.05,
+          "price_change_1h_pct": 32.26,
+          "price_change_6h_pct": 13.81,
+          "price_change_24h_pct": 13.81,
+          "url": "https://dexscreener.com/solana/9ibcwetpsg51b4jqkcgndbgyvt8dyvwb7pnwny9p5sk",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/UFCfj0J_gmPj6Vta?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/57z5-U_lnq2S6ngf?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/48AmZmgUrimrGFejPVp5DXoX1qUxyqLhLR4usQ3DhLaR?timestamp=1788889800000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/apairofsneakers",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "48AmZmgUrimrGFejPVp5DXoX1qUxyqLhLR4usQ3DhLaR",
+            "name": "A Pair of Sneakers",
+            "symbol": "SNEAKERS"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 3.787878787878788,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 92.0,
+          "volume_liquidity_ratio_h1": 0.29304318621663067,
+          "volume_liquidity_ratio_m5": 0.00012184644996966209,
+          "capital_inflow_index": 0.0002,
+          "capital_inflow_index_h1": 1.086
         }
       },
       "discovery_source": "boosted",
@@ -19643,6 +19752,11 @@
         },
         {
           "ts_ms": 1788889074362,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788889844853,
           "amount": 30.0,
           "total_amount": 30.0
         }
@@ -20700,6 +20814,11 @@
       "boost_events": [
         {
           "ts_ms": 1788889074362,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788889844853,
           "amount": 100.0,
           "total_amount": 100.0
         }
