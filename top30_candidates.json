@@ -20412,6 +20412,67 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0273
+        },
+        "360": {
+          "timestamp_ms": 1788907564723,
+          "age_min": 366.24538333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "9iBCWEtpsg51B4jqKcgNDbgYVt8DyvWB7PnWnY9p5SK",
+          "pair_created_at_ms": 1788885590000,
+          "price_usd": 2.015e-05,
+          "price_native": 5.279e-07,
+          "market_cap_usd": 20155.0,
+          "fdv_usd": 20155.0,
+          "liquidity_usd": 11244.02,
+          "liquidity_base": 278940194.0,
+          "liquidity_quote": 147.2629,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 25.06,
+          "volume_h6_usd": 12808.91,
+          "volume_h24_usd": 23257.8,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 2.0,
+          "buys_h6": 169.0,
+          "sells_h6": 96.0,
+          "buys_h24": 212.0,
+          "sells_h24": 153.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -0.27,
+          "price_change_6h_pct": -67.24,
+          "price_change_24h_pct": -45.56,
+          "url": "https://dexscreener.com/solana/9ibcwetpsg51b4jqkcgndbgyvt8dyvwb7pnwny9p5sk",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/UFCfj0J_gmPj6Vta?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/57z5-U_lnq2S6ngf?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/48AmZmgUrimrGFejPVp5DXoX1qUxyqLhLR4usQ3DhLaR?timestamp=1788907500000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/apairofsneakers",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "48AmZmgUrimrGFejPVp5DXoX1qUxyqLhLR4usQ3DhLaR",
+            "name": "A Pair of Sneakers",
+            "symbol": "SNEAKERS"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -2.0,
+          "volume_liquidity_ratio_h1": 0.002228740254819895,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0007
         }
       },
       "discovery_source": "boosted",
@@ -20455,6 +20516,116 @@
           "total_amount": 30.0
         }
       ]
+    },
+    "solana:FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91": {
+      "id": "solana:FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+      "chain": "solana",
+      "address": "FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+      "pair_address": "5MbT8iNSWqAZfQSmKGrhvM7w82pTrHLFFZKZ29rGr5AL",
+      "launch_time_ms": 1788907412000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788907555073,
+          "age_min": 2.38455,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "5MbT8iNSWqAZfQSmKGrhvM7w82pTrHLFFZKZ29rGr5AL",
+          "pair_created_at_ms": 1788907412000,
+          "price_usd": 1.95e-05,
+          "price_native": 1.888e-07,
+          "market_cap_usd": 19510.0,
+          "fdv_usd": 19510.0,
+          "liquidity_usd": 16.22,
+          "liquidity_base": 415719.0,
+          "liquidity_quote": 0.07854,
+          "volume_m5_usd": 0.03,
+          "volume_h1_usd": 0.03,
+          "volume_h6_usd": 0.03,
+          "volume_h24_usd": 0.03,
+          "buys_m5": 2.0,
+          "sells_m5": 0.0,
+          "buys_h1": 2.0,
+          "sells_h1": 0.0,
+          "buys_h6": 2.0,
+          "sells_h6": 0.0,
+          "buys_h24": 2.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": 0.45,
+          "price_change_1h_pct": 0.45,
+          "price_change_6h_pct": 0.45,
+          "price_change_24h_pct": 0.45,
+          "url": "https://dexscreener.com/solana/5mbt8inswqazfqsmkgrhvm7w82ptrhlffzkz29rgr5al",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+            "name": "Doge-chan",
+            "symbol": "DOGECHAN"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 2.0,
+          "net_buys_h1": 2.0,
+          "volume_liquidity_ratio_h1": 0.0018495684340320592,
+          "volume_liquidity_ratio_m5": 0.0018495684340320592,
+          "capital_inflow_index": 0.0055,
+          "capital_inflow_index_h1": 0.0055
+        },
+        "2": {
+          "timestamp_ms": 1788907555073,
+          "age_min": 2.38455,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "5MbT8iNSWqAZfQSmKGrhvM7w82pTrHLFFZKZ29rGr5AL",
+          "pair_created_at_ms": 1788907412000,
+          "price_usd": 1.95e-05,
+          "price_native": 1.888e-07,
+          "market_cap_usd": 19510.0,
+          "fdv_usd": 19510.0,
+          "liquidity_usd": 16.22,
+          "liquidity_base": 415719.0,
+          "liquidity_quote": 0.07854,
+          "volume_m5_usd": 0.03,
+          "volume_h1_usd": 0.03,
+          "volume_h6_usd": 0.03,
+          "volume_h24_usd": 0.03,
+          "buys_m5": 2.0,
+          "sells_m5": 0.0,
+          "buys_h1": 2.0,
+          "sells_h1": 0.0,
+          "buys_h6": 2.0,
+          "sells_h6": 0.0,
+          "buys_h24": 2.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": 0.45,
+          "price_change_1h_pct": 0.45,
+          "price_change_6h_pct": 0.45,
+          "price_change_24h_pct": 0.45,
+          "url": "https://dexscreener.com/solana/5mbt8inswqazfqsmkgrhvm7w82ptrhlffzkz29rgr5al",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+            "name": "Doge-chan",
+            "symbol": "DOGECHAN"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 2.0,
+          "net_buys_h1": 2.0,
+          "volume_liquidity_ratio_h1": 0.0018495684340320592,
+          "volume_liquidity_ratio_m5": 0.0018495684340320592,
+          "capital_inflow_index": 0.0055,
+          "capital_inflow_index_h1": 0.0055
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
