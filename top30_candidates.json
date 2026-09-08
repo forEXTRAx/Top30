@@ -3110,6 +3110,11 @@
           "ts_ms": 1788873031616,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788874235505,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -19750,6 +19755,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "240": {
+          "timestamp_ms": 1788874245344,
+          "age_min": 246.18906666666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "9yS1nK3xaLw3Qum4sXJBz9TJso11BxmrqnQ75Z6czTcX",
+          "pair_created_at_ms": 1788859474000,
+          "price_usd": 3.114e-05,
+          "price_native": 3.026e-07,
+          "market_cap_usd": 31142.72,
+          "fdv_usd": 31142.72,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 238.21,
+          "volume_h1_usd": 5456.34,
+          "volume_h6_usd": 12718.32,
+          "volume_h24_usd": 12718.32,
+          "buys_m5": 5.0,
+          "sells_m5": 1.0,
+          "buys_h1": 48.0,
+          "sells_h1": 19.0,
+          "buys_h6": 183.0,
+          "sells_h6": 89.0,
+          "buys_h24": 183.0,
+          "sells_h24": 89.0,
+          "price_change_5m_pct": 3.19,
+          "price_change_1h_pct": 112.0,
+          "price_change_6h_pct": 940.0,
+          "price_change_24h_pct": 940.0,
+          "url": "https://dexscreener.com/solana/9ys1nk3xalw3qum4sxjbz9tjso11bxmrqnq75z6cztcx",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "BxQprDBSrApddkdT8jv9T99TBosA7LYzX6ed6vhrpump",
+            "name": "RATOSHI",
+            "symbol": "RATOSHI"
+          },
+          "buy_sell_ratio_m5": 5.0,
+          "buy_sell_ratio_h1": 2.526315789473684,
+          "net_buys_m5": 4.0,
+          "net_buys_h1": 29.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -19801,144 +19854,13 @@
           "ts_ms": 1788873031616,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788874235505,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
-    },
-    "solana:3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump": {
-      "id": "solana:3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-      "chain": "solana",
-      "address": "3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-      "pair_address": "8MuuWBHpY1bzqo9MHv5QbA1Voxy6wWFcsh1Rn9L4jnLF",
-      "launch_time_ms": 1788872860000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788873031889,
-          "age_min": 2.8648166666666666,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "8MuuWBHpY1bzqo9MHv5QbA1Voxy6wWFcsh1Rn9L4jnLF",
-          "pair_created_at_ms": 1788872860000,
-          "price_usd": 3.236e-05,
-          "price_native": 3.141e-07,
-          "market_cap_usd": 32369.0,
-          "fdv_usd": 32369.0,
-          "liquidity_usd": 13523.78,
-          "liquidity_base": 236087318.0,
-          "liquidity_quote": 57.07795,
-          "volume_m5_usd": 37682.72,
-          "volume_h1_usd": 37682.72,
-          "volume_h6_usd": 37682.72,
-          "volume_h24_usd": 37682.72,
-          "buys_m5": 427.0,
-          "sells_m5": 342.0,
-          "buys_h1": 427.0,
-          "sells_h1": 342.0,
-          "buys_h6": 427.0,
-          "sells_h6": 342.0,
-          "buys_h24": 427.0,
-          "sells_h24": 342.0,
-          "price_change_5m_pct": -24.47,
-          "price_change_1h_pct": -24.47,
-          "price_change_6h_pct": -24.47,
-          "price_change_24h_pct": -24.47,
-          "url": "https://dexscreener.com/solana/8muuwbhpy1bzqo9mhv5qba1voxy6wwfcsh1rn9l4jnlf",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/Np-BpnEXrAu47PIR?width=800&height=800&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump?timestamp=1788873000000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/chillmigratoor/status/2097297641495286116",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-            "name": "SPY Mascot",
-            "symbol": "SPDR"
-          },
-          "buy_sell_ratio_m5": 1.2485380116959064,
-          "buy_sell_ratio_h1": 1.2485380116959064,
-          "net_buys_m5": 85.0,
-          "net_buys_h1": 85.0,
-          "volume_liquidity_ratio_h1": 2.7864043928546605,
-          "volume_liquidity_ratio_m5": 2.7864043928546605,
-          "capital_inflow_index": 3.4769,
-          "capital_inflow_index_h1": 3.4769
-        },
-        "2": {
-          "timestamp_ms": 1788873031889,
-          "age_min": 2.8648166666666666,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpswap",
-          "pair_address": "8MuuWBHpY1bzqo9MHv5QbA1Voxy6wWFcsh1Rn9L4jnLF",
-          "pair_created_at_ms": 1788872860000,
-          "price_usd": 3.236e-05,
-          "price_native": 3.141e-07,
-          "market_cap_usd": 32369.0,
-          "fdv_usd": 32369.0,
-          "liquidity_usd": 13523.78,
-          "liquidity_base": 236087318.0,
-          "liquidity_quote": 57.07795,
-          "volume_m5_usd": 37682.72,
-          "volume_h1_usd": 37682.72,
-          "volume_h6_usd": 37682.72,
-          "volume_h24_usd": 37682.72,
-          "buys_m5": 427.0,
-          "sells_m5": 342.0,
-          "buys_h1": 427.0,
-          "sells_h1": 342.0,
-          "buys_h6": 427.0,
-          "sells_h6": 342.0,
-          "buys_h24": 427.0,
-          "sells_h24": 342.0,
-          "price_change_5m_pct": -24.47,
-          "price_change_1h_pct": -24.47,
-          "price_change_6h_pct": -24.47,
-          "price_change_24h_pct": -24.47,
-          "url": "https://dexscreener.com/solana/8muuwbhpy1bzqo9mhv5qba1voxy6wwfcsh1rn9l4jnlf",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/Np-BpnEXrAu47PIR?width=800&height=800&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump?timestamp=1788873000000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/chillmigratoor/status/2097297641495286116",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "3K7Dos9dBjyYSKGrtJ7hX3egMiG6smwi9qRsQVrdpump",
-            "name": "SPY Mascot",
-            "symbol": "SPDR"
-          },
-          "buy_sell_ratio_m5": 1.2485380116959064,
-          "buy_sell_ratio_h1": 1.2485380116959064,
-          "net_buys_m5": 85.0,
-          "net_buys_h1": 85.0,
-          "volume_liquidity_ratio_h1": 2.7864043928546605,
-          "volume_liquidity_ratio_m5": 2.7864043928546605,
-          "capital_inflow_index": 3.4769,
-          "capital_inflow_index_h1": 3.4769
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
