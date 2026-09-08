@@ -15348,6 +15348,16 @@
           "ts_ms": 1788853066216,
           "amount": 10.0,
           "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1788853994717,
+          "amount": 10.0,
+          "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1788853994717,
+          "amount": 10.0,
+          "total_amount": 40.0
         }
       ]
     },
@@ -17051,6 +17061,72 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "240": {
+          "timestamp_ms": 1788854001740,
+          "age_min": 247.679,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "7L1jWBvcnHqR1KzF77tweGW5yJdMWsNomSiJKwdpc2Ai",
+          "pair_created_at_ms": 1788839141000,
+          "price_usd": 5.447e-06,
+          "price_native": 5.278e-08,
+          "market_cap_usd": 5448.0,
+          "fdv_usd": 5448.0,
+          "liquidity_usd": 6.05,
+          "liquidity_base": 658579.0,
+          "liquidity_quote": 0.02388,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 6.14,
+          "volume_h24_usd": 6.14,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 2.0,
+          "buys_h24": 1.0,
+          "sells_h24": 2.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": -63.95,
+          "price_change_24h_pct": -63.95,
+          "url": "https://dexscreener.com/solana/7l1jwbvcnhqr1kzf77twegw5yjdmwsnomsijkwdpc2ai",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/CvXNT7CDeYGHeOwk?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/HtNJLcGZumwSybpz?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9VTNVEFShhX8C8TRUXmuWHknFdbobc5DPVutc5qXqyoY?timestamp=1788854100000",
+            "websites": [
+              {
+                "url": "https://www.ycombinator.com/blog/coinbase-from-yc-to-ipo#:~:text=was%20initially%20named%20%E2%80%9C-,Bitbank,-%E2%80%9D%20and%20had%20not",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/savemejroodevs/status/2097168240342696116?s=20",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "9VTNVEFShhX8C8TRUXmuWHknFdbobc5DPVutc5qXqyoY",
+            "name": "Bitbank",
+            "symbol": "BITBANK"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -18183,6 +18259,11 @@
         },
         {
           "ts_ms": 1788853066216,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1788853994717,
           "amount": 30.0,
           "total_amount": 30.0
         }
