@@ -22321,6 +22321,72 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "480": {
+          "timestamp_ms": 1788937071858,
+          "age_min": 494.33096666666665,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "5MbT8iNSWqAZfQSmKGrhvM7w82pTrHLFFZKZ29rGr5AL",
+          "pair_created_at_ms": 1788907412000,
+          "price_usd": 1.06e-05,
+          "price_native": 1.026e-07,
+          "market_cap_usd": 10610.0,
+          "fdv_usd": 10610.0,
+          "liquidity_usd": 0.35,
+          "liquidity_base": 5e-06,
+          "liquidity_quote": 0.003405,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 4.55,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 0.0,
+          "buys_h24": 7.0,
+          "sells_h24": 14.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": -45.37,
+          "url": "https://dexscreener.com/solana/5mbt8inswqazfqsmkgrhvm7w82ptrhlffzkz29rgr5al",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/gfcrj0IhHrfNu0xV?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/n4nc4sStCEyLLszw?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91?timestamp=1788936900000",
+            "websites": [
+              {
+                "url": "https://crypto-currency-girls.com/dogecoin/?amp=1",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/dogecoin/status/1892316972601245787",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+            "name": "Doge-chan",
+            "symbol": "DOGECHAN"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -23229,210 +23295,13 @@
           "ts_ms": 1788936012699,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788937063777,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
-    },
-    "solana:9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump": {
-      "id": "solana:9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-      "chain": "solana",
-      "address": "9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-      "pair_address": "J5xTZCGMxZrFnFDzFiFDSJmXgvw1h2aWSD4ACx55NUMj",
-      "launch_time_ms": 1788935736000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788936013008,
-          "age_min": 4.6168,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpfun",
-          "pair_address": "J5xTZCGMxZrFnFDzFiFDSJmXgvw1h2aWSD4ACx55NUMj",
-          "pair_created_at_ms": 1788935736000,
-          "price_usd": 1.192e-05,
-          "price_native": 1.14e-07,
-          "market_cap_usd": 11929.6,
-          "fdv_usd": 11929.6,
-          "liquidity_usd": null,
-          "liquidity_base": null,
-          "liquidity_quote": null,
-          "volume_m5_usd": 27450.89,
-          "volume_h1_usd": 27450.89,
-          "volume_h6_usd": 27450.89,
-          "volume_h24_usd": 27450.89,
-          "buys_m5": 460.0,
-          "sells_m5": 262.0,
-          "buys_h1": 460.0,
-          "sells_h1": 262.0,
-          "buys_h6": 460.0,
-          "sells_h6": 262.0,
-          "buys_h24": 460.0,
-          "sells_h24": 262.0,
-          "price_change_5m_pct": 169.0,
-          "price_change_1h_pct": 169.0,
-          "price_change_6h_pct": 169.0,
-          "price_change_24h_pct": 169.0,
-          "url": "https://dexscreener.com/solana/j5xtzcgmxzrfnfdzfifdsjmxgvw1h2awsd4acx55numj",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/4_4jEwBJNchGaEHJ?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/Kigda8x3vRVri-qn?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump?timestamp=1788936000000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/NikolaiHauckx/status/2097574462463897663?s=20",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-            "name": "Incatnito Mode",
-            "symbol": "INCAT"
-          },
-          "buy_sell_ratio_m5": 1.7557251908396947,
-          "buy_sell_ratio_h1": 1.7557251908396947,
-          "net_buys_m5": 198.0,
-          "net_buys_h1": 198.0,
-          "volume_liquidity_ratio_h1": null,
-          "volume_liquidity_ratio_m5": null,
-          "capital_inflow_index": null,
-          "capital_inflow_index_h1": null
-        },
-        "2": {
-          "timestamp_ms": 1788936013008,
-          "age_min": 4.6168,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpfun",
-          "pair_address": "J5xTZCGMxZrFnFDzFiFDSJmXgvw1h2aWSD4ACx55NUMj",
-          "pair_created_at_ms": 1788935736000,
-          "price_usd": 1.192e-05,
-          "price_native": 1.14e-07,
-          "market_cap_usd": 11929.6,
-          "fdv_usd": 11929.6,
-          "liquidity_usd": null,
-          "liquidity_base": null,
-          "liquidity_quote": null,
-          "volume_m5_usd": 27450.89,
-          "volume_h1_usd": 27450.89,
-          "volume_h6_usd": 27450.89,
-          "volume_h24_usd": 27450.89,
-          "buys_m5": 460.0,
-          "sells_m5": 262.0,
-          "buys_h1": 460.0,
-          "sells_h1": 262.0,
-          "buys_h6": 460.0,
-          "sells_h6": 262.0,
-          "buys_h24": 460.0,
-          "sells_h24": 262.0,
-          "price_change_5m_pct": 169.0,
-          "price_change_1h_pct": 169.0,
-          "price_change_6h_pct": 169.0,
-          "price_change_24h_pct": 169.0,
-          "url": "https://dexscreener.com/solana/j5xtzcgmxzrfnfdzfifdsjmxgvw1h2awsd4acx55numj",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/4_4jEwBJNchGaEHJ?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/Kigda8x3vRVri-qn?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump?timestamp=1788936000000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/NikolaiHauckx/status/2097574462463897663?s=20",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-            "name": "Incatnito Mode",
-            "symbol": "INCAT"
-          },
-          "buy_sell_ratio_m5": 1.7557251908396947,
-          "buy_sell_ratio_h1": 1.7557251908396947,
-          "net_buys_m5": 198.0,
-          "net_buys_h1": 198.0,
-          "volume_liquidity_ratio_h1": null,
-          "volume_liquidity_ratio_m5": null,
-          "capital_inflow_index": null,
-          "capital_inflow_index_h1": null
-        },
-        "3": {
-          "timestamp_ms": 1788936013008,
-          "age_min": 4.6168,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "pumpfun",
-          "pair_address": "J5xTZCGMxZrFnFDzFiFDSJmXgvw1h2aWSD4ACx55NUMj",
-          "pair_created_at_ms": 1788935736000,
-          "price_usd": 1.192e-05,
-          "price_native": 1.14e-07,
-          "market_cap_usd": 11929.6,
-          "fdv_usd": 11929.6,
-          "liquidity_usd": null,
-          "liquidity_base": null,
-          "liquidity_quote": null,
-          "volume_m5_usd": 27450.89,
-          "volume_h1_usd": 27450.89,
-          "volume_h6_usd": 27450.89,
-          "volume_h24_usd": 27450.89,
-          "buys_m5": 460.0,
-          "sells_m5": 262.0,
-          "buys_h1": 460.0,
-          "sells_h1": 262.0,
-          "buys_h6": 460.0,
-          "sells_h6": 262.0,
-          "buys_h24": 460.0,
-          "sells_h24": 262.0,
-          "price_change_5m_pct": 169.0,
-          "price_change_1h_pct": 169.0,
-          "price_change_6h_pct": 169.0,
-          "price_change_24h_pct": 169.0,
-          "url": "https://dexscreener.com/solana/j5xtzcgmxzrfnfdzfifdsjmxgvw1h2awsd4acx55numj",
-          "labels": [],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/4_4jEwBJNchGaEHJ?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/Kigda8x3vRVri-qn?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump?timestamp=1788936000000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/NikolaiHauckx/status/2097574462463897663?s=20",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "9hfouPHfhVDdrg2T2wgUoWrU5vuQzHntGUXD5UNVpump",
-            "name": "Incatnito Mode",
-            "symbol": "INCAT"
-          },
-          "buy_sell_ratio_m5": 1.7557251908396947,
-          "buy_sell_ratio_h1": 1.7557251908396947,
-          "net_buys_m5": 198.0,
-          "net_buys_h1": 198.0,
-          "volume_liquidity_ratio_h1": null,
-          "volume_liquidity_ratio_m5": null,
-          "capital_inflow_index": null,
-          "capital_inflow_index_h1": null
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
