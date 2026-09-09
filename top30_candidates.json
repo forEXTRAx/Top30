@@ -22706,6 +22706,64 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "180": {
+          "timestamp_ms": 1788928679074,
+          "age_min": 190.88456666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteoradbc",
+          "pair_address": "GwcxPL43W83UXtqu5rTEL3C3TSdxn5tGa32m9vYjALZd",
+          "pair_created_at_ms": 1788917226000,
+          "price_usd": 3.98e-06,
+          "price_native": 3.829e-08,
+          "market_cap_usd": 3980.83,
+          "fdv_usd": 3980.83,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 12.03,
+          "volume_h1_usd": 104.45,
+          "volume_h6_usd": 3548.96,
+          "volume_h24_usd": 3548.96,
+          "buys_m5": 2.0,
+          "sells_m5": 3.0,
+          "buys_h1": 3.0,
+          "sells_h1": 6.0,
+          "buys_h6": 87.0,
+          "sells_h6": 32.0,
+          "buys_h24": 87.0,
+          "sells_h24": 32.0,
+          "price_change_5m_pct": 1.22,
+          "price_change_1h_pct": -1.37,
+          "price_change_6h_pct": 51.16,
+          "price_change_24h_pct": 51.16,
+          "url": "https://dexscreener.com/solana/gwcxpl43w83uxtqu5rtel3c3tsdxn5tga32m9vyjalzd",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/T6gBKBFBLM-IKT0F?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A5WSfwmuKFP6HUmbze12rJJ37baMcbVAxFyCNZdFZLv1?timestamp=1788928800000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/montiscrypt?s=11",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "A5WSfwmuKFP6HUmbze12rJJ37baMcbVAxFyCNZdFZLv1",
+            "name": "MONTIS",
+            "symbol": "MONTIS"
+          },
+          "buy_sell_ratio_m5": 0.6666666666666666,
+          "buy_sell_ratio_h1": 0.5,
+          "net_buys_m5": -1.0,
+          "net_buys_h1": -3.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -22750,6 +22808,11 @@
         },
         {
           "ts_ms": 1788927661175,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788928669955,
           "amount": 100.0,
           "total_amount": 100.0
         }
@@ -23313,6 +23376,11 @@
         },
         {
           "ts_ms": 1788927661175,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788928669955,
           "amount": 10.0,
           "total_amount": 10.0
         }
