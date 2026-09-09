@@ -18315,6 +18315,11 @@
           "ts_ms": 1788986798113,
           "amount": 50.0,
           "total_amount": 50.0
+        },
+        {
+          "ts_ms": 1788987499145,
+          "amount": 50.0,
+          "total_amount": 50.0
         }
       ]
     },
@@ -19047,6 +19052,11 @@
           "ts_ms": 1788986798113,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788987499145,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -19528,6 +19538,65 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "45": {
+          "timestamp_ms": 1788987508740,
+          "age_min": 49.979,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "BxxMzPqnFqNQkwz49XH3WuKwkBmmf7upNU7iCnyxk5d2",
+          "pair_created_at_ms": 1788984510000,
+          "price_usd": null,
+          "price_native": 5.206e-08,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 2.0,
+          "buys_h1": 85.0,
+          "sells_h1": 63.0,
+          "buys_h6": 85.0,
+          "sells_h6": 63.0,
+          "buys_h24": 85.0,
+          "sells_h24": 63.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/bxxmzpqnfqnqkwz49xh3wukwkbmmf7upnu7icnyxk5d2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/DZ4rppRqh47eEkLJ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/TFt0DvqidJEvlHow?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump?timestamp=1788987600000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/Terafabstock",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump",
+            "name": "Terafab",
+            "symbol": "Terafab"
+          },
+          "buy_sell_ratio_m5": 0.0,
+          "buy_sell_ratio_h1": 1.3492063492063493,
+          "net_buys_m5": -2.0,
+          "net_buys_h1": 22.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -19537,6 +19606,11 @@
       "boost_events": [
         {
           "ts_ms": 1788986798113,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788987499145,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -20680,8 +20754,203 @@
           "ts_ms": 1788986798113,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788987499145,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
+    },
+    "solana:472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump": {
+      "id": "solana:472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+      "chain": "solana",
+      "address": "472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+      "pair_address": "FV8xKciaEUdKFsmDbVrSjz3qPzV9BBNMjwYdKp5azBYs",
+      "launch_time_ms": 1788987246000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788987499790,
+          "age_min": 4.229833333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FV8xKciaEUdKFsmDbVrSjz3qPzV9BBNMjwYdKp5azBYs",
+          "pair_created_at_ms": 1788987246000,
+          "price_usd": 1.617e-05,
+          "price_native": 1.58e-07,
+          "market_cap_usd": 16174.0,
+          "fdv_usd": 16174.0,
+          "liquidity_usd": 225.11,
+          "liquidity_base": 6958803.0,
+          "liquidity_quote": 1.09987,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/fv8xkciaeudkfsmdbvrsjz3qpzv9bbnmjwydkp5azbys",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/UR9G7dxavvsv_mz-?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump?timestamp=1788987600000",
+            "websites": [
+              {
+                "url": "https://pump.fun/coin/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          },
+          "base_token": {
+            "address": "472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+            "name": "MSTRBate",
+            "symbol": "MSTRBate"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
+        },
+        "2": {
+          "timestamp_ms": 1788987499790,
+          "age_min": 4.229833333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FV8xKciaEUdKFsmDbVrSjz3qPzV9BBNMjwYdKp5azBYs",
+          "pair_created_at_ms": 1788987246000,
+          "price_usd": 1.617e-05,
+          "price_native": 1.58e-07,
+          "market_cap_usd": 16174.0,
+          "fdv_usd": 16174.0,
+          "liquidity_usd": 225.11,
+          "liquidity_base": 6958803.0,
+          "liquidity_quote": 1.09987,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/fv8xkciaeudkfsmdbvrsjz3qpzv9bbnmjwydkp5azbys",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/UR9G7dxavvsv_mz-?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump?timestamp=1788987600000",
+            "websites": [
+              {
+                "url": "https://pump.fun/coin/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          },
+          "base_token": {
+            "address": "472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+            "name": "MSTRBate",
+            "symbol": "MSTRBate"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
+        },
+        "3": {
+          "timestamp_ms": 1788987499790,
+          "age_min": 4.229833333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FV8xKciaEUdKFsmDbVrSjz3qPzV9BBNMjwYdKp5azBYs",
+          "pair_created_at_ms": 1788987246000,
+          "price_usd": 1.617e-05,
+          "price_native": 1.58e-07,
+          "market_cap_usd": 16174.0,
+          "fdv_usd": 16174.0,
+          "liquidity_usd": 225.11,
+          "liquidity_base": 6958803.0,
+          "liquidity_quote": 1.09987,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/fv8xkciaeudkfsmdbvrsjz3qpzv9bbnmjwydkp5azbys",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/UR9G7dxavvsv_mz-?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump?timestamp=1788987600000",
+            "websites": [
+              {
+                "url": "https://pump.fun/coin/472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          },
+          "base_token": {
+            "address": "472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+            "name": "MSTRBate",
+            "symbol": "MSTRBate"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
