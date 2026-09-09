@@ -22476,6 +22476,64 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "90": {
+          "timestamp_ms": 1788923660692,
+          "age_min": 107.24486666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteoradbc",
+          "pair_address": "GwcxPL43W83UXtqu5rTEL3C3TSdxn5tGa32m9vYjALZd",
+          "pair_created_at_ms": 1788917226000,
+          "price_usd": 3.741e-06,
+          "price_native": 3.622e-08,
+          "market_cap_usd": 3741.44,
+          "fdv_usd": 3741.44,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 34.81,
+          "volume_h1_usd": 2490.54,
+          "volume_h6_usd": 2918.58,
+          "volume_h24_usd": 2918.58,
+          "buys_m5": 1.0,
+          "sells_m5": 1.0,
+          "buys_h1": 65.0,
+          "sells_h1": 21.0,
+          "buys_h6": 74.0,
+          "sells_h6": 23.0,
+          "buys_h24": 74.0,
+          "sells_h24": 23.0,
+          "price_change_5m_pct": -0.86,
+          "price_change_1h_pct": 33.56,
+          "price_change_6h_pct": 42.07,
+          "price_change_24h_pct": 42.07,
+          "url": "https://dexscreener.com/solana/gwcxpl43w83uxtqu5rtel3c3tsdxn5tga32m9vyjalzd",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/T6gBKBFBLM-IKT0F?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A5WSfwmuKFP6HUmbze12rJJ37baMcbVAxFyCNZdFZLv1?timestamp=1788923700000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/montiscrypt?s=11",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "A5WSfwmuKFP6HUmbze12rJJ37baMcbVAxFyCNZdFZLv1",
+            "name": "MONTIS",
+            "symbol": "MONTIS"
+          },
+          "buy_sell_ratio_m5": 1.0,
+          "buy_sell_ratio_h1": 3.0952380952380953,
+          "net_buys_m5": 0.0,
+          "net_buys_h1": 44.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -22497,84 +22555,13 @@
           "ts_ms": 1788922521812,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788923651360,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
-    },
-    "solana:6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L": {
-      "id": "solana:6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
-      "chain": "solana",
-      "address": "6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
-      "pair_address": "6GTZbFkbe27Dgc74DLFqWDBUL9NdnvajLPTpwEKFUV2t",
-      "launch_time_ms": 1788922446000,
-      "checkpoints": {
-        "1": {
-          "timestamp_ms": 1788922522470,
-          "age_min": 1.2745,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "meteora",
-          "pair_address": "6GTZbFkbe27Dgc74DLFqWDBUL9NdnvajLPTpwEKFUV2t",
-          "pair_created_at_ms": 1788922446000,
-          "price_usd": 2.907e-05,
-          "price_native": 0.2949,
-          "market_cap_usd": 29078.0,
-          "fdv_usd": 29078.0,
-          "liquidity_usd": 10.55,
-          "liquidity_base": 178326.0,
-          "liquidity_quote": 54449.0,
-          "volume_m5_usd": 0.86,
-          "volume_h1_usd": 0.86,
-          "volume_h6_usd": 0.86,
-          "volume_h24_usd": 0.86,
-          "buys_m5": 3.0,
-          "sells_m5": 1.0,
-          "buys_h1": 3.0,
-          "sells_h1": 1.0,
-          "buys_h6": 3.0,
-          "sells_h6": 1.0,
-          "buys_h24": 3.0,
-          "sells_h24": 1.0,
-          "price_change_5m_pct": 21.76,
-          "price_change_1h_pct": 21.76,
-          "price_change_6h_pct": 21.76,
-          "price_change_24h_pct": 21.76,
-          "url": "https://dexscreener.com/solana/6gtzbfkbe27dgc74dlfqwdbul9ndnvajlptpwekfuv2t",
-          "labels": [
-            "DYN2"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ka-lIxKZfd2DWniG?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/L6mkOkZr93tv1E6g?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L?timestamp=1788922500000",
-            "websites": [
-              {
-                "url": "https://otcdesks.cash/coin/6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/wearetheretail/status/2097516202251665700",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
-            "name": "Bankcoin",
-            "symbol": "BANK"
-          },
-          "buy_sell_ratio_m5": 3.0,
-          "buy_sell_ratio_h1": 3.0,
-          "net_buys_m5": 2.0,
-          "net_buys_h1": 2.0,
-          "volume_liquidity_ratio_h1": 0.08151658767772511,
-          "volume_liquidity_ratio_m5": 0.08151658767772511,
-          "capital_inflow_index": 0.163,
-          "capital_inflow_index_h1": 0.163
-        }
-      },
-      "discovery_source": "organic"
     }
   }
 }
