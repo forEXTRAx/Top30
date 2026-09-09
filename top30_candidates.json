@@ -21820,6 +21820,72 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "240": {
+          "timestamp_ms": 1788922531269,
+          "age_min": 251.98781666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "5MbT8iNSWqAZfQSmKGrhvM7w82pTrHLFFZKZ29rGr5AL",
+          "pair_created_at_ms": 1788907412000,
+          "price_usd": 1.06e-05,
+          "price_native": 1.026e-07,
+          "market_cap_usd": 10610.0,
+          "fdv_usd": 10610.0,
+          "liquidity_usd": 0.35,
+          "liquidity_base": 5e-06,
+          "liquidity_quote": 0.003405,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 4.55,
+          "volume_h24_usd": 4.55,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 7.0,
+          "sells_h6": 14.0,
+          "buys_h24": 7.0,
+          "sells_h24": 14.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": -45.37,
+          "price_change_24h_pct": -45.37,
+          "url": "https://dexscreener.com/solana/5mbt8inswqazfqsmkgrhvm7w82ptrhlffzkz29rgr5al",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/gfcrj0IhHrfNu0xV?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/n4nc4sStCEyLLszw?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91?timestamp=1788922500000",
+            "websites": [
+              {
+                "url": "https://crypto-currency-girls.com/dogecoin/?amp=1",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/dogecoin/status/1892316972601245787",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "FUUfNDmVst1vsD3yJxHibzbneLo7FPaP9UhGQQSCQ91",
+            "name": "Doge-chan",
+            "symbol": "DOGECHAN"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -22426,8 +22492,89 @@
           "ts_ms": 1788921681394,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788922521812,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
+    },
+    "solana:6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L": {
+      "id": "solana:6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
+      "chain": "solana",
+      "address": "6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
+      "pair_address": "6GTZbFkbe27Dgc74DLFqWDBUL9NdnvajLPTpwEKFUV2t",
+      "launch_time_ms": 1788922446000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1788922522470,
+          "age_min": 1.2745,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "6GTZbFkbe27Dgc74DLFqWDBUL9NdnvajLPTpwEKFUV2t",
+          "pair_created_at_ms": 1788922446000,
+          "price_usd": 2.907e-05,
+          "price_native": 0.2949,
+          "market_cap_usd": 29078.0,
+          "fdv_usd": 29078.0,
+          "liquidity_usd": 10.55,
+          "liquidity_base": 178326.0,
+          "liquidity_quote": 54449.0,
+          "volume_m5_usd": 0.86,
+          "volume_h1_usd": 0.86,
+          "volume_h6_usd": 0.86,
+          "volume_h24_usd": 0.86,
+          "buys_m5": 3.0,
+          "sells_m5": 1.0,
+          "buys_h1": 3.0,
+          "sells_h1": 1.0,
+          "buys_h6": 3.0,
+          "sells_h6": 1.0,
+          "buys_h24": 3.0,
+          "sells_h24": 1.0,
+          "price_change_5m_pct": 21.76,
+          "price_change_1h_pct": 21.76,
+          "price_change_6h_pct": 21.76,
+          "price_change_24h_pct": 21.76,
+          "url": "https://dexscreener.com/solana/6gtzbfkbe27dgc74dlfqwdbul9ndnvajlptpwekfuv2t",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/ka-lIxKZfd2DWniG?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/L6mkOkZr93tv1E6g?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L?timestamp=1788922500000",
+            "websites": [
+              {
+                "url": "https://otcdesks.cash/coin/6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/wearetheretail/status/2097516202251665700",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "6kTCAZRdxGkrrjHGpU3dDPCLj8TJF8LuSaf7gGHZWG4L",
+            "name": "Bankcoin",
+            "symbol": "BANK"
+          },
+          "buy_sell_ratio_m5": 3.0,
+          "buy_sell_ratio_h1": 3.0,
+          "net_buys_m5": 2.0,
+          "net_buys_h1": 2.0,
+          "volume_liquidity_ratio_h1": 0.08151658767772511,
+          "volume_liquidity_ratio_m5": 0.08151658767772511,
+          "capital_inflow_index": 0.163,
+          "capital_inflow_index_h1": 0.163
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
