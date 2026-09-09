@@ -23147,6 +23147,11 @@
           "ts_ms": 1788932572936,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1788933338025,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
     },
@@ -23732,6 +23737,54 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "180": {
+          "timestamp_ms": 1788933346873,
+          "age_min": 188.51455,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "GFyCgKfdjpQ7x7F9GF6JB82KpYYANRvtyfSM49UbuELP",
+          "pair_created_at_ms": 1788922036000,
+          "price_usd": 3.643e-06,
+          "price_native": 3.503e-08,
+          "market_cap_usd": 3643.49,
+          "fdv_usd": 3643.49,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 1644.98,
+          "volume_h6_usd": 12638.25,
+          "volume_h24_usd": 12638.25,
+          "buys_m5": 368.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1390.0,
+          "sells_h1": 198.0,
+          "buys_h6": 1517.0,
+          "sells_h6": 289.0,
+          "buys_h24": 1517.0,
+          "sells_h24": 289.0,
+          "price_change_5m_pct": 0.12,
+          "price_change_1h_pct": -40.64,
+          "price_change_6h_pct": 21.0,
+          "price_change_24h_pct": 21.0,
+          "url": "https://dexscreener.com/solana/gfycgkfdjpq7x7f9gf6jb82kpyyanrvtyfsm49ubuelp",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "2UKca2eobka44msXfst5gGdvo9UTvTaUehqudEP13Ufj",
+            "name": "UDGC",
+            "symbol": "UDGC"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 7.02020202020202,
+          "net_buys_m5": 368.0,
+          "net_buys_h1": 1192.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -23781,6 +23834,11 @@
         },
         {
           "ts_ms": 1788932572936,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1788933338025,
           "amount": 10.0,
           "total_amount": 10.0
         }
