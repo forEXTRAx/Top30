@@ -13327,6 +13327,11 @@
           "ts_ms": 1789065468232,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789066416061,
+          "amount": null,
+          "total_amount": 500.0
         }
       ]
     },
@@ -24739,6 +24744,16 @@
           "ts_ms": 1789065468232,
           "amount": 10.0,
           "total_amount": 20.0
+        },
+        {
+          "ts_ms": 1789066416061,
+          "amount": 10.0,
+          "total_amount": 20.0
+        },
+        {
+          "ts_ms": 1789066416061,
+          "amount": 10.0,
+          "total_amount": 20.0
         }
       ]
     },
@@ -26867,6 +26882,11 @@
           "ts_ms": 1789065468232,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789066416061,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -27407,6 +27427,65 @@
           "volume_liquidity_ratio_m5": 0.0006671208862288251,
           "capital_inflow_index": 0.0007,
           "capital_inflow_index_h1": 0.9005
+        },
+        "60": {
+          "timestamp_ms": 1789066424697,
+          "age_min": 64.92828333333334,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "AmYsQqjxhvjB5qcEwxwkTCLw9oyrJbGTwXAKi1KUGorc",
+          "pair_created_at_ms": 1789062529000,
+          "price_usd": 4.183e-05,
+          "price_native": 4.208e-07,
+          "market_cap_usd": 40282.0,
+          "fdv_usd": 40282.0,
+          "liquidity_usd": 15379.7,
+          "liquidity_base": 203528744.0,
+          "liquidity_quote": 69.04801,
+          "volume_m5_usd": 994.53,
+          "volume_h1_usd": 9945.14,
+          "volume_h6_usd": 14027.74,
+          "volume_h24_usd": 14027.74,
+          "buys_m5": 9.0,
+          "sells_m5": 14.0,
+          "buys_h1": 105.0,
+          "sells_h1": 100.0,
+          "buys_h6": 168.0,
+          "sells_h6": 159.0,
+          "buys_h24": 168.0,
+          "sells_h24": 159.0,
+          "price_change_5m_pct": -1.07,
+          "price_change_1h_pct": -15.49,
+          "price_change_6h_pct": 1.58,
+          "price_change_24h_pct": 1.58,
+          "url": "https://dexscreener.com/solana/amysqqjxhvjb5qcewxwktclw9oyrjbgtwxaki1kugorc",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/z_ik3sxhqbaVyAua?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/fmAztE8ijdx5-ifF?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6AjsNFFsc3hNfvEqUHrNLyVGcMqLwtWM32VVruLFpump?timestamp=1789066500000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://t.me/solfrogy",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "6AjsNFFsc3hNfvEqUHrNLyVGcMqLwtWM32VVruLFpump",
+            "name": "SolFrog",
+            "symbol": "SOLFROG"
+          },
+          "buy_sell_ratio_m5": 0.6428571428571429,
+          "buy_sell_ratio_h1": 1.05,
+          "net_buys_m5": -5.0,
+          "net_buys_h1": 5.0,
+          "volume_liquidity_ratio_h1": 0.6466407017041944,
+          "volume_liquidity_ratio_m5": 0.06466511050280564,
+          "capital_inflow_index": 0.0431,
+          "capital_inflow_index_h1": 0.6787
         }
       },
       "discovery_source": "boosted",
@@ -27423,8 +27502,22 @@
           "ts_ms": 1789065468232,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789066416061,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
+    },
+    "solana:Gta3Bqmcwq5gytjE7RDmxMX1acFNDBWoVz3HAuFhpump": {
+      "id": "solana:Gta3Bqmcwq5gytjE7RDmxMX1acFNDBWoVz3HAuFhpump",
+      "chain": "solana",
+      "address": "Gta3Bqmcwq5gytjE7RDmxMX1acFNDBWoVz3HAuFhpump",
+      "pair_address": "89ffTQHJGpFxzDbKY6x8ARj9RvERLW2Zoy7LvzBJPQtZ",
+      "launch_time_ms": 1789066416061,
+      "checkpoints": {},
+      "discovery_source": "organic"
     }
   }
 }
