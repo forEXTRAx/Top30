@@ -19777,6 +19777,56 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "720": {
+          "timestamp_ms": 1789030552363,
+          "age_min": 721.7727166666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FV8xKciaEUdKFsmDbVrSjz3qPzV9BBNMjwYdKp5azBYs",
+          "pair_created_at_ms": 1788987246000,
+          "price_usd": 1.617e-05,
+          "price_native": 1.58e-07,
+          "market_cap_usd": 16174.0,
+          "fdv_usd": 16174.0,
+          "liquidity_usd": 162.48,
+          "liquidity_base": 5022920.0,
+          "liquidity_quote": 0.7938,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/fv8xkciaeudkfsmdbvrsjz3qpzv9bbnmjwydkp5azbys",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "472SxWS2DCPV8u4ACtcna6yuJ5Bn7MfYdEUn3JBQpump",
+            "name": "MSTRBate",
+            "symbol": "MSTRBate"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -21052,6 +21102,11 @@
         },
         {
           "ts_ms": 1789029646297,
+          "amount": null,
+          "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789030545216,
           "amount": null,
           "total_amount": 500.0
         }
@@ -27553,490 +27608,84 @@
           "ts_ms": 1789029646297,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789030545216,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
     },
-    "solana:DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q": {
-      "id": "solana:DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
+    "solana:FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB": {
+      "id": "solana:FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB",
       "chain": "solana",
-      "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-      "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-      "launch_time_ms": 1789028100000,
+      "address": "FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB",
+      "pair_address": "4Rt4GzarnfYWeRZmqLpCkkbAoLUd2Ae12qdcUK568YGS",
+      "launch_time_ms": 1789030445000,
       "checkpoints": {
         "1": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
+          "timestamp_ms": 1789030545806,
+          "age_min": 1.6801,
           "top30_rank": null,
           "chain": "solana",
           "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
+          "pair_address": "4Rt4GzarnfYWeRZmqLpCkkbAoLUd2Ae12qdcUK568YGS",
+          "pair_created_at_ms": 1789030445000,
+          "price_usd": 2.941e-05,
+          "price_native": 0.0004619,
+          "market_cap_usd": 29420.0,
+          "fdv_usd": 29420.0,
+          "liquidity_usd": 14673.64,
+          "liquidity_base": 249386161.0,
+          "liquidity_quote": 115201.0,
+          "volume_m5_usd": 4529.3,
+          "volume_h1_usd": 4529.3,
+          "volume_h6_usd": 4529.3,
+          "volume_h24_usd": 4529.3,
+          "buys_m5": 42.0,
+          "sells_m5": 27.0,
+          "buys_h1": 42.0,
+          "sells_h1": 27.0,
+          "buys_h6": 42.0,
+          "sells_h6": 27.0,
+          "buys_h24": 42.0,
+          "sells_h24": 27.0,
+          "price_change_5m_pct": -31.74,
+          "price_change_1h_pct": -31.74,
+          "price_change_6h_pct": -31.74,
+          "price_change_24h_pct": -31.74,
+          "url": "https://dexscreener.com/solana/4rt4gzarnfywerzmqlpckkbaolud2ae12qdcuk568ygs",
           "labels": [
             "CPMM"
           ],
           "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/PiLpISfrvieicwuy?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/S5iI8VKHQncm3Crf?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB?timestamp=1789030500000",
             "websites": [
               {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
+                "url": "https://www.stonkfun.xyz/token/FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB",
                 "label": "Website"
               }
             ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
+            "socials": []
           },
           "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
+            "address": "FnThh7wK39CST8ZNYFAUGoXYfjcdqDoDtS48rHuTWbeB",
+            "name": "Baby Catecoin",
+            "symbol": "BABYCATE"
           },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "2": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "3": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "5": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "10": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "15": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
-        },
-        "20": {
-          "timestamp_ms": 1789029649093,
-          "age_min": 25.818216666666668,
-          "top30_rank": null,
-          "chain": "solana",
-          "dex": "raydium",
-          "pair_address": "71b9FV6rx56muK6xV9f6naUVLaP8U9hKyS9hfQHj9uED",
-          "pair_created_at_ms": 1789028100000,
-          "price_usd": 2.831e-05,
-          "price_native": 5.71e-08,
-          "market_cap_usd": 28315.0,
-          "fdv_usd": 28315.0,
-          "liquidity_usd": 14092.72,
-          "liquidity_base": 248853356.0,
-          "liquidity_quote": 14.2115,
-          "volume_m5_usd": 1795.31,
-          "volume_h1_usd": 14834.11,
-          "volume_h6_usd": 14834.11,
-          "volume_h24_usd": 14834.11,
-          "buys_m5": 13.0,
-          "sells_m5": 8.0,
-          "buys_h1": 151.0,
-          "sells_h1": 112.0,
-          "buys_h6": 151.0,
-          "sells_h6": 112.0,
-          "buys_h24": 151.0,
-          "sells_h24": 112.0,
-          "price_change_5m_pct": 10.6,
-          "price_change_1h_pct": -32.28,
-          "price_change_6h_pct": -32.28,
-          "price_change_24h_pct": -32.28,
-          "url": "https://dexscreener.com/solana/71b9fv6rx56muk6xv9f6nauvlap8u9hkys9hfqhj9ued",
-          "labels": [
-            "CPMM"
-          ],
-          "info": {
-            "imageUrl": "https://cdn.dexscreener.com/cms/images/ed7STZoyXseRumMR?width=800&height=800&quality=95&format=auto",
-            "header": "https://cdn.dexscreener.com/cms/images/SZ3s8MrpaL9ZHUvs?width=1500&height=500&quality=95&format=auto",
-            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q?timestamp=1789029600000",
-            "websites": [
-              {
-                "url": "https://www.newgrounds.com/art/view/maffiz/ms-paint-duck-thingy",
-                "label": "Website"
-              }
-            ],
-            "socials": [
-              {
-                "url": "https://x.com/MSPaintDuck",
-                "type": "twitter"
-              }
-            ]
-          },
-          "base_token": {
-            "address": "DKAZMDZwkorh4aYJLrweiLTnaEvHTq8T3MdtWwnPnA4q",
-            "name": "MS Paint Duck-Thingy",
-            "symbol": "jeff"
-          },
-          "buy_sell_ratio_m5": 1.625,
-          "buy_sell_ratio_h1": 1.3482142857142858,
-          "net_buys_m5": 5.0,
-          "net_buys_h1": 39.0,
-          "volume_liquidity_ratio_h1": 1.052608013215334,
-          "volume_liquidity_ratio_m5": 0.12739272475434124,
-          "capital_inflow_index": 0.1982,
-          "capital_inflow_index_h1": 1.4159
+          "buy_sell_ratio_m5": 1.5555555555555556,
+          "buy_sell_ratio_h1": 1.5555555555555556,
+          "net_buys_m5": 15.0,
+          "net_buys_h1": 15.0,
+          "volume_liquidity_ratio_h1": 0.3086691509400531,
+          "volume_liquidity_ratio_m5": 0.3086691509400531,
+          "capital_inflow_index": 0.474,
+          "capital_inflow_index_h1": 0.474
         }
       },
-      "discovery_source": "boosted",
-      "is_boosted": true,
-      "boost_amount": 10.0,
-      "boost_total_amount": 10.0,
-      "boost_events": [
-        {
-          "ts_ms": 1789029646297,
-          "amount": 10.0,
-          "total_amount": 10.0
-        }
-      ]
+      "discovery_source": "organic"
     }
   }
 }
