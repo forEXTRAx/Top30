@@ -18583,6 +18583,11 @@
           "ts_ms": 1789001798798,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789002939377,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -20311,6 +20316,16 @@
           "ts_ms": 1789001798798,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789002939377,
+          "amount": 500.0,
+          "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789002939377,
+          "amount": null,
+          "total_amount": 500.0
         }
       ]
     },
@@ -21056,6 +21071,11 @@
         },
         {
           "ts_ms": 1789001798798,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789002939377,
           "amount": 10.0,
           "total_amount": 10.0
         }
@@ -23681,6 +23701,70 @@
           "buy_sell_ratio_h1": 1.3609534619750283,
           "net_buys_m5": -28.0,
           "net_buys_h1": 636.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1789002950270,
+          "age_min": 40.021166666666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "E7gEMC8AmxETsiZY3ERdfeDBvtdMb1j9jmFY3Jj7wCW5",
+          "pair_created_at_ms": 1789000549000,
+          "price_usd": null,
+          "price_native": 7.313e-09,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 2.0,
+          "sells_m5": 17.0,
+          "buys_h1": 2461.0,
+          "sells_h1": 1864.0,
+          "buys_h6": 2461.0,
+          "sells_h6": 1864.0,
+          "buys_h24": 2461.0,
+          "sells_h24": 1864.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/e7gemc8amxetsizy3erdfedbvtdmb1j9jmfy3jj7wcw5",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/2d1JOwS1o043ovO1?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ngIvu5tllAZ2hl6y?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DrVaPJ6oy1Mehb1ATkCDuU6tdP4rTmfFQFXs3rRrpump?timestamp=1789002900000",
+            "websites": [
+              {
+                "url": "https://www.urbandictionary.com/define.php?term=Stockhold+Syndrome",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/huxmotion1/status/2097846408220987842",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "DrVaPJ6oy1Mehb1ATkCDuU6tdP4rTmfFQFXs3rRrpump",
+            "name": "Stockhold Syndrome",
+            "symbol": "Stockhold"
+          },
+          "buy_sell_ratio_m5": 0.11764705882352941,
+          "buy_sell_ratio_h1": 1.3202789699570816,
+          "net_buys_m5": -15.0,
+          "net_buys_h1": 597.0,
           "volume_liquidity_ratio_h1": null,
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
