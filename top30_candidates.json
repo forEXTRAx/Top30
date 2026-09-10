@@ -20950,6 +20950,11 @@
           "ts_ms": 1789020732495,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789022167037,
+          "amount": null,
+          "total_amount": 500.0
         }
       ]
     },
@@ -21773,6 +21778,56 @@
         "360": {
           "timestamp_ms": 1789013893264,
           "age_min": 361.9710666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "8T3RTF2tHCqHVGYwy32oo7SfxY3Xfrki5X5iK7T9DqDw",
+          "pair_created_at_ms": 1788992175000,
+          "price_usd": 3.213e-05,
+          "price_native": 3.177e-07,
+          "market_cap_usd": 32137.0,
+          "fdv_usd": 32137.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 2e-06,
+          "liquidity_quote": 1.98e-05,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/8t3rtf2thcqhvgywy32oo7sfxy3xfrki5x5ik7t9dqdw",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "BpHhrGyMStTu148pfD3SoVhKpxWnByFDc7QU9YQtpump",
+            "name": "Balls Tingling Coin",
+            "symbol": "BTC"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "480": {
+          "timestamp_ms": 1789022174551,
+          "age_min": 499.9925166666667,
           "top30_rank": null,
           "chain": "solana",
           "dex": "meteora",
@@ -24342,6 +24397,11 @@
           "ts_ms": 1789020732495,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789022167037,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -25824,6 +25884,67 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "120": {
+          "timestamp_ms": 1789022175468,
+          "age_min": 122.12446666666666,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "4DUfq2L5ddEHxS5VKwtnvCBrfJPHfKaGvzHeqoscZsfn",
+          "pair_created_at_ms": 1789014848000,
+          "price_usd": 6.036e-05,
+          "price_native": 5.909e-07,
+          "market_cap_usd": 60365.0,
+          "fdv_usd": 60365.0,
+          "liquidity_usd": 16.06,
+          "liquidity_base": 133101.0,
+          "liquidity_quote": 0.07866,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/4dufq2l5ddehxs5vkwtnvcbrfjphfkagvzheqosczsfn",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/D6mJwQKkCYzRLt8M?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/j_aNq0ET_bVNcwGL?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7BmUDj85vU1mLU7kVNN9oksx1fyJvJiBxtxDo7L2pump?timestamp=1789022100000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/fatcoinmcd",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "7BmUDj85vU1mLU7kVNN9oksx1fyJvJiBxtxDo7L2pump",
+            "name": "FatCoin",
+            "symbol": "FatCoin"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -26790,6 +26911,11 @@
           "ts_ms": 1789020732495,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789022167037,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
     },
@@ -27135,6 +27261,54 @@
           "volume_liquidity_ratio_m5": 0.006207478198339782,
           "capital_inflow_index": 0.0041,
           "capital_inflow_index_h1": 0.1587
+        },
+        "30": {
+          "timestamp_ms": 1789022175817,
+          "age_min": 44.113616666666665,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "54adJpyuWm5ruH1XWcTGLrWbqE6W81JEbu5A46iCsPds",
+          "pair_created_at_ms": 1789019529000,
+          "price_usd": 4.72e-05,
+          "price_native": 4.645e-07,
+          "market_cap_usd": 47209.0,
+          "fdv_usd": 47209.0,
+          "liquidity_usd": 16591.54,
+          "liquidity_base": 194585039.0,
+          "liquidity_quote": 72.8669,
+          "volume_m5_usd": 24.84,
+          "volume_h1_usd": 4329.09,
+          "volume_h6_usd": 4329.09,
+          "volume_h24_usd": 4329.09,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 63.0,
+          "sells_h1": 100.0,
+          "buys_h6": 63.0,
+          "sells_h6": 100.0,
+          "buys_h24": 63.0,
+          "sells_h24": 100.0,
+          "price_change_5m_pct": 0.54,
+          "price_change_1h_pct": 12.33,
+          "price_change_6h_pct": 12.33,
+          "price_change_24h_pct": 12.33,
+          "url": "https://dexscreener.com/solana/54adjpyuwm5ruh1xwctglrwbqe6w81jebu5a46icspds",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "4sVmGmnqbTje6fRTAiznAji6irfbhdEdP8Qhw8oepump",
+            "name": " Alex Gibney",
+            "symbol": "Alex"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.63,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": -37.0,
+          "volume_liquidity_ratio_h1": 0.2609215298881237,
+          "volume_liquidity_ratio_m5": 0.0014971485467895082,
+          "capital_inflow_index": 0.003,
+          "capital_inflow_index_h1": 0.1653
         }
       },
       "discovery_source": "boosted",
@@ -27144,6 +27318,11 @@
       "boost_events": [
         {
           "ts_ms": 1789020732495,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789022167037,
           "amount": 10.0,
           "total_amount": 10.0
         }
