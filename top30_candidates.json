@@ -21190,6 +21190,11 @@
           "ts_ms": 1789034489263,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789035705086,
+          "amount": null,
+          "total_amount": 500.0
         }
       ]
     },
@@ -22063,6 +22068,56 @@
         "480": {
           "timestamp_ms": 1789022174551,
           "age_min": 499.9925166666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "8T3RTF2tHCqHVGYwy32oo7SfxY3Xfrki5X5iK7T9DqDw",
+          "pair_created_at_ms": 1788992175000,
+          "price_usd": 3.213e-05,
+          "price_native": 3.177e-07,
+          "market_cap_usd": 32137.0,
+          "fdv_usd": 32137.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 2e-06,
+          "liquidity_quote": 1.98e-05,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/8t3rtf2thcqhvgywy32oo7sfxy3xfrki5x5ik7t9dqdw",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "BpHhrGyMStTu148pfD3SoVhKpxWnByFDc7QU9YQtpump",
+            "name": "Balls Tingling Coin",
+            "symbol": "BTC"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "720": {
+          "timestamp_ms": 1789035713380,
+          "age_min": 725.6396666666667,
           "top30_rank": null,
           "chain": "solana",
           "dex": "meteora",
@@ -27891,6 +27946,11 @@
         },
         {
           "ts_ms": 1789034489263,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789035705086,
           "amount": 100.0,
           "total_amount": 100.0
         }
