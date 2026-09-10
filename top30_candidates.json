@@ -18674,6 +18674,70 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "480": {
+          "timestamp_ms": 1789013892633,
+          "age_min": 489.71055,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "BxxMzPqnFqNQkwz49XH3WuKwkBmmf7upNU7iCnyxk5d2",
+          "pair_created_at_ms": 1788984510000,
+          "price_usd": null,
+          "price_native": 3.6e-08,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 1.0,
+          "buys_h6": 15.0,
+          "sells_h6": 12.0,
+          "buys_h24": 114.0,
+          "sells_h24": 107.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/bxxmzpqnfqnqkwz49xh3wukwkbmmf7upnu7icnyxk5d2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/lShROdOgPOXO5GUl?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/TFt0DvqidJEvlHow?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump?timestamp=1789014000000",
+            "websites": [
+              {
+                "url": "https://terafab.codes/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/Terafabstock",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump",
+            "name": "Terafab",
+            "symbol": "Terafab"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -1.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -20735,6 +20799,11 @@
           "ts_ms": 1789012627309,
           "amount": null,
           "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789013885099,
+          "amount": null,
+          "total_amount": 500.0
         }
       ]
     },
@@ -22339,6 +22408,56 @@
           "buys_h1": 0.0,
           "sells_h1": 0.0,
           "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/8t3rtf2thcqhvgywy32oo7sfxy3xfrki5x5ik7t9dqdw",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {},
+          "base_token": {
+            "address": "BpHhrGyMStTu148pfD3SoVhKpxWnByFDc7QU9YQtpump",
+            "name": "Balls Tingling Coin",
+            "symbol": "BTC"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "360": {
+          "timestamp_ms": 1789013893264,
+          "age_min": 361.9710666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "8T3RTF2tHCqHVGYwy32oo7SfxY3Xfrki5X5iK7T9DqDw",
+          "pair_created_at_ms": 1788992175000,
+          "price_usd": 3.213e-05,
+          "price_native": 3.177e-07,
+          "market_cap_usd": 32137.0,
+          "fdv_usd": 32137.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 2e-06,
+          "liquidity_quote": 1.98e-05,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
           "sells_h6": 0.0,
           "buys_h24": 1.0,
           "sells_h24": 0.0,
@@ -24573,6 +24692,11 @@
           "ts_ms": 1789012627309,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789013885099,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -24952,6 +25076,138 @@
             "imageUrl": "https://cdn.dexscreener.com/cms/images/ydrjqwyTQ665qcju?width=800&height=800&quality=95&format=auto",
             "header": "https://cdn.dexscreener.com/cms/images/ESrC8hUXQJI5FHFW?width=1500&height=500&quality=95&format=auto",
             "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump?timestamp=1789012500000",
+            "websites": [
+              {
+                "url": "https://otcdesks.cash/coin/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/pvysol/status/2097891291874906530",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump",
+            "name": "Sent from my Pumpfun App",
+            "symbol": "App"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "20": {
+          "timestamp_ms": 1789013893894,
+          "age_min": 39.1149,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "2gA7pERtsoR7o41XyHocdx6ynJEYs7Qg1xAYZuLhVko4",
+          "pair_created_at_ms": 1789011547000,
+          "price_usd": 7.955e-06,
+          "price_native": 7.817e-08,
+          "market_cap_usd": 7955.0,
+          "fdv_usd": 7955.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 1e-06,
+          "liquidity_quote": 1e-05,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/2ga7pertsor7o41xyhocdx6ynjeys7qg1xayzulhvko4",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/ydrjqwyTQ665qcju?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ESrC8hUXQJI5FHFW?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump?timestamp=1789014000000",
+            "websites": [
+              {
+                "url": "https://otcdesks.cash/coin/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/pvysol/status/2097891291874906530",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump",
+            "name": "Sent from my Pumpfun App",
+            "symbol": "App"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1789013893894,
+          "age_min": 39.1149,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "2gA7pERtsoR7o41XyHocdx6ynJEYs7Qg1xAYZuLhVko4",
+          "pair_created_at_ms": 1789011547000,
+          "price_usd": 7.955e-06,
+          "price_native": 7.817e-08,
+          "market_cap_usd": 7955.0,
+          "fdv_usd": 7955.0,
+          "liquidity_usd": 0.0,
+          "liquidity_base": 1e-06,
+          "liquidity_quote": 1e-05,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/2ga7pertsor7o41xyhocdx6ynjeys7qg1xayzulhvko4",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/ydrjqwyTQ665qcju?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ESrC8hUXQJI5FHFW?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump?timestamp=1789014000000",
             "websites": [
               {
                 "url": "https://otcdesks.cash/coin/Fet9wsoiYqkxPCpZk1pvZNoc6rCMa87vprGszSJVpump",
