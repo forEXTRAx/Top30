@@ -9795,6 +9795,70 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "1440": {
+          "timestamp_ms": 1789071473783,
+          "age_min": 1449.3963833333332,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "BxxMzPqnFqNQkwz49XH3WuKwkBmmf7upNU7iCnyxk5d2",
+          "pair_created_at_ms": 1788984510000,
+          "price_usd": null,
+          "price_native": 4.626e-08,
+          "market_cap_usd": null,
+          "fdv_usd": null,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 19.0,
+          "sells_h1": 16.0,
+          "buys_h6": 232.0,
+          "sells_h6": 154.0,
+          "buys_h24": 350.0,
+          "sells_h24": 286.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/bxxmzpqnfqnqkwz49xh3wukwkbmmf7upnu7icnyxk5d2",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/JDS0Ia1mPuRftbHP?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/jXALAEkJ_YNMcQNK?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump?timestamp=1789071600000",
+            "websites": [
+              {
+                "url": "https://terafab.codes/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/Terafabstock",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "BUF5RkVevNXn4VpPYPToeXm75WE1qFAurLfQwSYGpump",
+            "name": "Terafab",
+            "symbol": "Terafab"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 1.1875,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 3.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -12426,6 +12490,11 @@
         },
         {
           "ts_ms": 1789070346291,
+          "amount": null,
+          "total_amount": 500.0
+        },
+        {
+          "ts_ms": 1789071468130,
           "amount": null,
           "total_amount": 500.0
         }
@@ -27374,6 +27443,72 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0599
+        },
+        "60": {
+          "timestamp_ms": 1789071477165,
+          "age_min": 72.11941666666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "8rXoH6ZiMdzFBCJa7txuxwLwbNzP76A79NZxMsTetigH",
+          "pair_created_at_ms": 1789067150000,
+          "price_usd": 6.418e-06,
+          "price_native": 6.429e-08,
+          "market_cap_usd": 6418.0,
+          "fdv_usd": 6418.0,
+          "liquidity_usd": 2.67,
+          "liquidity_base": 214870.0,
+          "liquidity_quote": 0.01302,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.13,
+          "volume_h6_usd": 0.72,
+          "volume_h24_usd": 0.72,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 2.0,
+          "buys_h6": 1.0,
+          "sells_h6": 8.0,
+          "buys_h24": 1.0,
+          "sells_h24": 8.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -19.19,
+          "price_change_6h_pct": -54.05,
+          "price_change_24h_pct": -54.05,
+          "url": "https://dexscreener.com/solana/8rxoh6zimdzfbcja7txuxwlwbnzp76a79nzxmstetigh",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/20fAahd7Ch6ANNXU?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/9a7FyLll2qYoCPj7?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DVE31ex45ur2cX36LFRnFMjTudmKt1DGNDCpUbLipump?timestamp=1789071600000",
+            "websites": [
+              {
+                "url": "https://www.fakerotc.fun/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/fakerotc",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "DVE31ex45ur2cX36LFRnFMjTudmKt1DGNDCpUbLipump",
+            "name": "faker",
+            "symbol": "FAKER"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -2.0,
+          "volume_liquidity_ratio_h1": 0.04868913857677903,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0162
         }
       },
       "discovery_source": "organic"
@@ -28242,6 +28377,72 @@
           "volume_liquidity_ratio_m5": 0.0007862539430540968,
           "capital_inflow_index": 0.0005,
           "capital_inflow_index_h1": 0.0158
+        },
+        "240": {
+          "timestamp_ms": 1789071477328,
+          "age_min": 250.3388,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "8K6tpmhAawCcfeBBuqDBH8WeUsZC2nd8FDVLDbgMdSam",
+          "pair_created_at_ms": 1789056457000,
+          "price_usd": 0.002075,
+          "price_native": 0.002075,
+          "market_cap_usd": 2075280.0,
+          "fdv_usd": 2075280.0,
+          "liquidity_usd": 122239.83,
+          "liquidity_base": 29451073.0,
+          "liquidity_quote": 61120.0,
+          "volume_m5_usd": 21.49,
+          "volume_h1_usd": 543.99,
+          "volume_h6_usd": 6180.09,
+          "volume_h24_usd": 6180.09,
+          "buys_m5": 6.0,
+          "sells_m5": 1.0,
+          "buys_h1": 217.0,
+          "sells_h1": 180.0,
+          "buys_h6": 1181.0,
+          "sells_h6": 1115.0,
+          "buys_h24": 1181.0,
+          "sells_h24": 1115.0,
+          "price_change_5m_pct": -0.05,
+          "price_change_1h_pct": 0.26,
+          "price_change_6h_pct": 3.11,
+          "price_change_24h_pct": 3.11,
+          "url": "https://dexscreener.com/solana/8k6tpmhaawccfebbuqdbh8weuszc2nd8fdvldbgmdsam",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/_-sgYN8l2pjQrjHp?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/LPwSiLK3K8T_1i4T?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/fairB7Sv8zfnNrXgEVVNUN7MW66sJ4wVmbaRGtAKAsv?timestamp=1789071600000",
+            "websites": [
+              {
+                "url": "https://faircoin.live/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/fairtokenonsol",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "fairB7Sv8zfnNrXgEVVNUN7MW66sJ4wVmbaRGtAKAsv",
+            "name": "Federal AI Reserve",
+            "symbol": "FAIR"
+          },
+          "buy_sell_ratio_m5": 6.0,
+          "buy_sell_ratio_h1": 1.2055555555555555,
+          "net_buys_m5": 5.0,
+          "net_buys_h1": 37.0,
+          "volume_liquidity_ratio_h1": 0.0044501861627261755,
+          "volume_liquidity_ratio_m5": 0.00017580194605964355,
+          "capital_inflow_index": 0.0006,
+          "capital_inflow_index_h1": 0.0054
         }
       },
       "discovery_source": "boosted",
@@ -28266,6 +28467,11 @@
         },
         {
           "ts_ms": 1789070346291,
+          "amount": 100.0,
+          "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789071468130,
           "amount": 100.0,
           "total_amount": 100.0
         }
@@ -29480,6 +29686,11 @@
         },
         {
           "ts_ms": 1789070346291,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1789071468130,
           "amount": 30.0,
           "total_amount": 30.0
         }
