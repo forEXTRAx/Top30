@@ -26625,6 +26625,71 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0964
+        },
+        "360": {
+          "timestamp_ms": 1789100241433,
+          "age_min": 365.54055,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "GFjheCpmbMz4TinBPcv1ADUHmpkbr2PaLxQCecduHUWW",
+          "pair_created_at_ms": 1789078309000,
+          "price_usd": 1.19e-05,
+          "price_native": 1.203e-07,
+          "market_cap_usd": 11908.0,
+          "fdv_usd": 11908.0,
+          "liquidity_usd": 32.46,
+          "liquidity_base": 1626098.0,
+          "liquidity_quote": 0.1324,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 6.26,
+          "volume_h24_usd": 6.33,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 1.0,
+          "buys_h24": 3.0,
+          "sells_h24": 1.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": -33.11,
+          "price_change_24h_pct": -32.85,
+          "url": "https://dexscreener.com/solana/gfjhecpmbmz4tinbpcv1aduhmpkbr2palxqcecduhuww",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/OkVeRbSe04tmkPjb?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/CGe2DzH9z5kcJQTy?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/E2eMag2YYTirSrLbh2kdsXaTUchUeAbXHGFZV1jLpump?timestamp=1789100100000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/stockcatsolana",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/stockcatsolana",
+                "type": "telegram"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "E2eMag2YYTirSrLbh2kdsXaTUchUeAbXHGFZV1jLpump",
+            "name": "stockcat",
+            "symbol": "stockcat"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "organic"
@@ -27949,6 +28014,11 @@
         },
         {
           "ts_ms": 1789098977201,
+          "amount": 30.0,
+          "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1789100233234,
           "amount": 30.0,
           "total_amount": 30.0
         }
