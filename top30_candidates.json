@@ -32012,6 +32012,11 @@
           "ts_ms": 1789148739645,
           "amount": 100.0,
           "total_amount": 100.0
+        },
+        {
+          "ts_ms": 1789149451697,
+          "amount": 100.0,
+          "total_amount": 100.0
         }
       ]
     },
@@ -33316,6 +33321,11 @@
           "ts_ms": 1789148739645,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789149451697,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
     },
@@ -34526,8 +34536,151 @@
           "ts_ms": 1789148739645,
           "amount": 10.0,
           "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789149451697,
+          "amount": 10.0,
+          "total_amount": 10.0
         }
       ]
+    },
+    "solana:zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump": {
+      "id": "solana:zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump",
+      "chain": "solana",
+      "address": "zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump",
+      "pair_address": "CDrftGC275xoHSDRvG26xHwZhsk5xUdutgdBou7qHdab",
+      "launch_time_ms": 1789149308000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1789149452376,
+          "age_min": 2.4062666666666668,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "CDrftGC275xoHSDRvG26xHwZhsk5xUdutgdBou7qHdab",
+          "pair_created_at_ms": 1789149308000,
+          "price_usd": 6.258e-06,
+          "price_native": 6.136e-08,
+          "market_cap_usd": 6258.0,
+          "fdv_usd": 6258.0,
+          "liquidity_usd": 4909.83,
+          "liquidity_base": 532182217.0,
+          "liquidity_quote": 15.4855,
+          "volume_m5_usd": 21393.84,
+          "volume_h1_usd": 21393.84,
+          "volume_h6_usd": 21393.84,
+          "volume_h24_usd": 21393.84,
+          "buys_m5": 341.0,
+          "sells_m5": 563.0,
+          "buys_h1": 341.0,
+          "sells_h1": 563.0,
+          "buys_h6": 341.0,
+          "sells_h6": 563.0,
+          "buys_h24": 341.0,
+          "sells_h24": 563.0,
+          "price_change_5m_pct": -84.81,
+          "price_change_1h_pct": -84.81,
+          "price_change_6h_pct": -84.81,
+          "price_change_24h_pct": -84.81,
+          "url": "https://dexscreener.com/solana/cdrftgc275xohsdrvg26xhwzhsk5xudutgdbou7qhdab",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/cQ0jdm0zTXaZmU9-?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/2nSs5EVNJv2LjiQ1?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump?timestamp=1789149600000",
+            "websites": [
+              {
+                "url": "https://github.com/IBM/eval-assist/blob/3a1b50d139662e6f6ca30870336bf347e519a996/backend/src/evalassist/api_types.py#L59",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/genyrational/status/2098467781146526150",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump",
+            "name": "Meme Creator",
+            "symbol": "Memer"
+          },
+          "buy_sell_ratio_m5": 0.605683836589698,
+          "buy_sell_ratio_h1": 0.605683836589698,
+          "net_buys_m5": -222.0,
+          "net_buys_h1": -222.0,
+          "volume_liquidity_ratio_h1": 4.357348421432107,
+          "volume_liquidity_ratio_m5": 4.357348421432107,
+          "capital_inflow_index": 2.6422,
+          "capital_inflow_index_h1": 2.6422
+        },
+        "2": {
+          "timestamp_ms": 1789149452376,
+          "age_min": 2.4062666666666668,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpswap",
+          "pair_address": "CDrftGC275xoHSDRvG26xHwZhsk5xUdutgdBou7qHdab",
+          "pair_created_at_ms": 1789149308000,
+          "price_usd": 6.258e-06,
+          "price_native": 6.136e-08,
+          "market_cap_usd": 6258.0,
+          "fdv_usd": 6258.0,
+          "liquidity_usd": 4909.83,
+          "liquidity_base": 532182217.0,
+          "liquidity_quote": 15.4855,
+          "volume_m5_usd": 21393.84,
+          "volume_h1_usd": 21393.84,
+          "volume_h6_usd": 21393.84,
+          "volume_h24_usd": 21393.84,
+          "buys_m5": 341.0,
+          "sells_m5": 563.0,
+          "buys_h1": 341.0,
+          "sells_h1": 563.0,
+          "buys_h6": 341.0,
+          "sells_h6": 563.0,
+          "buys_h24": 341.0,
+          "sells_h24": 563.0,
+          "price_change_5m_pct": -84.81,
+          "price_change_1h_pct": -84.81,
+          "price_change_6h_pct": -84.81,
+          "price_change_24h_pct": -84.81,
+          "url": "https://dexscreener.com/solana/cdrftgc275xohsdrvg26xhwzhsk5xudutgdbou7qhdab",
+          "labels": [],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/cQ0jdm0zTXaZmU9-?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/2nSs5EVNJv2LjiQ1?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump?timestamp=1789149600000",
+            "websites": [
+              {
+                "url": "https://github.com/IBM/eval-assist/blob/3a1b50d139662e6f6ca30870336bf347e519a996/backend/src/evalassist/api_types.py#L59",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/genyrational/status/2098467781146526150",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "zb1tKcrBMN4hZkZuNs4HwHnaXjYuWuRTJnMvjtrpump",
+            "name": "Meme Creator",
+            "symbol": "Memer"
+          },
+          "buy_sell_ratio_m5": 0.605683836589698,
+          "buy_sell_ratio_h1": 0.605683836589698,
+          "net_buys_m5": -222.0,
+          "net_buys_h1": -222.0,
+          "volume_liquidity_ratio_h1": 4.357348421432107,
+          "volume_liquidity_ratio_m5": 4.357348421432107,
+          "capital_inflow_index": 2.6422,
+          "capital_inflow_index_h1": 2.6422
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
