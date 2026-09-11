@@ -20292,6 +20292,67 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.003
+        },
+        "720": {
+          "timestamp_ms": 1789115369761,
+          "age_min": 720.1460166666667,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "5aQtYmaZxZKUQLuaGqQBixpkTpJeZPMxQuPavuC6S6v2",
+          "pair_created_at_ms": 1789072161000,
+          "price_usd": 5.971e-06,
+          "price_native": 5.983e-08,
+          "market_cap_usd": 5971.0,
+          "fdv_usd": 5971.0,
+          "liquidity_usd": 17.36,
+          "liquidity_base": 1462885.0,
+          "liquidity_quote": 0.08651,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.1,
+          "volume_h6_usd": 0.91,
+          "volume_h24_usd": 10.83,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 1.0,
+          "buys_h6": 0.0,
+          "sells_h6": 8.0,
+          "buys_h24": 1.0,
+          "sells_h24": 28.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -3.97,
+          "price_change_6h_pct": -17.42,
+          "price_change_24h_pct": -80.1,
+          "url": "https://dexscreener.com/solana/5aqtymazxzkuqluagqqbixpktpjezpmxqupavuc6s6v2",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/GFY6uyw7zTm42xX-?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/fYP13wPVTnTB1G2S?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8xqoC5aQGmcgThS4TdLBfB5v2XsyvAhk6RmfwAzpump?timestamp=1789115400000",
+            "websites": [
+              {
+                "url": "https://www.ebay.ie/sch/i.html?_nkw=mcdonald+dip&_sacat=14308&_from=R40&_trksid=p2334524.m570.l1313&_odkw=mcdonald&_osacat=14308",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          },
+          "base_token": {
+            "address": "8xqoC5aQGmcgThS4TdLBfB5v2XsyvAhk6RmfwAzpump",
+            "name": "Buy The Dip",
+            "symbol": "BTD"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -1.0,
+          "volume_liquidity_ratio_h1": 0.00576036866359447,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0029
         }
       },
       "discovery_source": "organic"
@@ -24157,6 +24218,15 @@
           "capital_inflow_index_h1": 0.0
         }
       },
+      "discovery_source": "organic"
+    },
+    "solana:fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK": {
+      "id": "solana:fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK",
+      "chain": "solana",
+      "address": "fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK",
+      "pair_address": "EakwyaxtHDb5xhp5JMZx5GF6EjBNikzMjVs2jhyEAuQw",
+      "launch_time_ms": 1789115321000,
+      "checkpoints": {},
       "discovery_source": "organic"
     }
   }
