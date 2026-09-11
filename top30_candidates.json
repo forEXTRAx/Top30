@@ -24220,13 +24220,75 @@
       },
       "discovery_source": "organic"
     },
-    "solana:fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK": {
-      "id": "solana:fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK",
+    "solana:EkBXEnUHdUNVWhCXaoytJBL48biqkAB7yuCMaUAwpump": {
+      "id": "solana:EkBXEnUHdUNVWhCXaoytJBL48biqkAB7yuCMaUAwpump",
       "chain": "solana",
-      "address": "fq65ceoAqy77YfS58narSQ99TmRX37aNqNBKvd2STNK",
-      "pair_address": "EakwyaxtHDb5xhp5JMZx5GF6EjBNikzMjVs2jhyEAuQw",
-      "launch_time_ms": 1789115321000,
-      "checkpoints": {},
+      "address": "EkBXEnUHdUNVWhCXaoytJBL48biqkAB7yuCMaUAwpump",
+      "pair_address": "GRPgD1yhJt27CWQoQ84jYFerZAF3KvKps1j8uWhBu8wM",
+      "launch_time_ms": 1789116355000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1789116428796,
+          "age_min": 1.2299333333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "GRPgD1yhJt27CWQoQ84jYFerZAF3KvKps1j8uWhBu8wM",
+          "pair_created_at_ms": 1789116355000,
+          "price_usd": 4.229e-05,
+          "price_native": 4.228e-07,
+          "market_cap_usd": 42299.0,
+          "fdv_usd": 42299.0,
+          "liquidity_usd": 100.9,
+          "liquidity_base": 1192665.0,
+          "liquidity_quote": 0.5043,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 0.0,
+          "buys_m5": 1.0,
+          "sells_m5": 0.0,
+          "buys_h1": 1.0,
+          "sells_h1": 0.0,
+          "buys_h6": 1.0,
+          "sells_h6": 0.0,
+          "buys_h24": 1.0,
+          "sells_h24": 0.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": null,
+          "url": "https://dexscreener.com/solana/grpgd1yhjt27cwqoq84jyferzaf3kvkps1j8uwhbu8wm",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/W6a_M1sC_WuaKvdi?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/9H-3HsyWhqX1bdfT?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EkBXEnUHdUNVWhCXaoytJBL48biqkAB7yuCMaUAwpump?timestamp=1789116300000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2034305559038472701",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "EkBXEnUHdUNVWhCXaoytJBL48biqkAB7yuCMaUAwpump",
+            "name": "Olaf",
+            "symbol": "Olaf"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 1.0,
+          "net_buys_h1": 1.0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
+        }
+      },
       "discovery_source": "organic"
     }
   }
