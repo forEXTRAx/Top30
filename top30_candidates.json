@@ -26686,6 +26686,67 @@
           "volume_liquidity_ratio_m5": 0.0,
           "capital_inflow_index": 0.0,
           "capital_inflow_index_h1": 0.0
+        },
+        "240": {
+          "timestamp_ms": 1789136449280,
+          "age_min": 242.02133333333333,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "FuGM3zmJctNMxVKh29SH1JrsjYKhSDGHXuE97BtU5WYu",
+          "pair_created_at_ms": 1789121928000,
+          "price_usd": 5.815e-06,
+          "price_native": 5.693e-08,
+          "market_cap_usd": 5816.0,
+          "fdv_usd": 5816.0,
+          "liquidity_usd": 8.28,
+          "liquidity_base": 728025.0,
+          "liquidity_quote": 0.03962,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.18,
+          "volume_h6_usd": 50.96,
+          "volume_h24_usd": 50.96,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 1.0,
+          "buys_h6": 10.0,
+          "sells_h6": 30.0,
+          "buys_h24": 10.0,
+          "sells_h24": 30.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": -2.88,
+          "price_change_6h_pct": -82.9,
+          "price_change_24h_pct": -82.9,
+          "url": "https://dexscreener.com/solana/fugm3zmjctnmxvkh29sh1jrsjykhsdghxue97btu5wyu",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/kflpz_ENP20fOr8B?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/2ocpbIEjXDHyhVwg?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GLgktMDcWQ81dknH5GuPepxH4vCG4UXEZU9wFjp7mwco?timestamp=1789136400000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/lilbruhfish/status/2098355164260225185",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "GLgktMDcWQ81dknH5GuPepxH4vCG4UXEZU9wFjp7mwco",
+            "name": "Valuable Memecoin",
+            "symbol": "VALUABLE"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 0.0,
+          "net_buys_m5": 0,
+          "net_buys_h1": -1.0,
+          "volume_liquidity_ratio_h1": 0.021739130434782608,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0109
         }
       },
       "discovery_source": "organic"
@@ -29399,6 +29460,11 @@
           "ts_ms": 1789135205700,
           "amount": 30.0,
           "total_amount": 30.0
+        },
+        {
+          "ts_ms": 1789136439670,
+          "amount": 30.0,
+          "total_amount": 30.0
         }
       ]
     },
@@ -29744,6 +29810,102 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "30": {
+          "timestamp_ms": 1789136449926,
+          "age_min": 45.8821,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "2t3hcUvo3MewMWPAGgyWf1hiKSY5ziwV2sryyHWFeVRC",
+          "pair_created_at_ms": 1789133697000,
+          "price_usd": 2.987e-06,
+          "price_native": 2.831e-08,
+          "market_cap_usd": 2987.56,
+          "fdv_usd": 2987.56,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 1154.19,
+          "volume_h6_usd": 1154.19,
+          "volume_h24_usd": 1154.19,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 16.0,
+          "sells_h1": 14.0,
+          "buys_h6": 16.0,
+          "sells_h6": 14.0,
+          "buys_h24": 16.0,
+          "sells_h24": 14.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 4.54,
+          "price_change_6h_pct": 4.54,
+          "price_change_24h_pct": 4.54,
+          "url": "https://dexscreener.com/solana/2t3hcuvo3mewmwpaggywf1hiksy5ziwv2sryyhwfevrc",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "HShSGqVq1wNqyt3KPt3GTahCwX5Mxpq9NDyYapCSoAXK",
+            "name": "9/11 Family Fund",
+            "symbol": "9/11"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 1.1428571428571428,
+          "net_buys_m5": 0,
+          "net_buys_h1": 2.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
+        },
+        "45": {
+          "timestamp_ms": 1789136449926,
+          "age_min": 45.8821,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "pumpfun",
+          "pair_address": "2t3hcUvo3MewMWPAGgyWf1hiKSY5ziwV2sryyHWFeVRC",
+          "pair_created_at_ms": 1789133697000,
+          "price_usd": 2.987e-06,
+          "price_native": 2.831e-08,
+          "market_cap_usd": 2987.56,
+          "fdv_usd": 2987.56,
+          "liquidity_usd": null,
+          "liquidity_base": null,
+          "liquidity_quote": null,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 1154.19,
+          "volume_h6_usd": 1154.19,
+          "volume_h24_usd": 1154.19,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 16.0,
+          "sells_h1": 14.0,
+          "buys_h6": 16.0,
+          "sells_h6": 14.0,
+          "buys_h24": 16.0,
+          "sells_h24": 14.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": 4.54,
+          "price_change_6h_pct": 4.54,
+          "price_change_24h_pct": 4.54,
+          "url": "https://dexscreener.com/solana/2t3hcuvo3mewmwpaggywf1hiksy5ziwv2sryyhwfevrc",
+          "labels": [],
+          "info": {},
+          "base_token": {
+            "address": "HShSGqVq1wNqyt3KPt3GTahCwX5Mxpq9NDyYapCSoAXK",
+            "name": "9/11 Family Fund",
+            "symbol": "9/11"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": 1.1428571428571428,
+          "net_buys_m5": 0,
+          "net_buys_h1": 2.0,
+          "volume_liquidity_ratio_h1": null,
+          "volume_liquidity_ratio_m5": null,
+          "capital_inflow_index": null,
+          "capital_inflow_index_h1": null
         }
       },
       "discovery_source": "boosted",
@@ -29758,6 +29920,11 @@
         },
         {
           "ts_ms": 1789135205700,
+          "amount": 10.0,
+          "total_amount": 10.0
+        },
+        {
+          "ts_ms": 1789136439670,
           "amount": 10.0,
           "total_amount": 10.0
         }
