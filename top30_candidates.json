@@ -19679,7 +19679,7 @@
       "id": "solana:8xqoC5aQGmcgThS4TdLBfB5v2XsyvAhk6RmfwAzpump",
       "chain": "solana",
       "address": "8xqoC5aQGmcgThS4TdLBfB5v2XsyvAhk6RmfwAzpump",
-      "pair_address": "5aQtYmaZxZKUQLuaGqQBixpkTpJeZPMxQuPavuC6S6v2",
+      "pair_address": "42jRzC7kMjVuV3Y56Vfkmh7jNy9Z8gtvGME9XKP6crCV",
       "launch_time_ms": 1789072161000,
       "checkpoints": {
         "1": {
@@ -27680,7 +27680,7 @@
       "id": "solana:4Zq7wYZ9Z9fhfuErDBvNpWvKcFz8EZdhrC1WnA3ppump",
       "chain": "solana",
       "address": "4Zq7wYZ9Z9fhfuErDBvNpWvKcFz8EZdhrC1WnA3ppump",
-      "pair_address": "63riANAhKMaWa7UZDdpvQ99qB3YJmTZypcw83wA5eQoD",
+      "pair_address": "7WvpHP1kfphGRs39aB2kCw9jjZ5sBccpmG3bG4Mjonnj",
       "launch_time_ms": 1789131482000,
       "checkpoints": {
         "1": {
@@ -28754,6 +28754,72 @@
           "volume_liquidity_ratio_m5": null,
           "capital_inflow_index": null,
           "capital_inflow_index_h1": null
+        },
+        "1440": {
+          "timestamp_ms": 1789218429101,
+          "age_min": 1449.11835,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "meteora",
+          "pair_address": "7WvpHP1kfphGRs39aB2kCw9jjZ5sBccpmG3bG4Mjonnj",
+          "pair_created_at_ms": 1789132737000,
+          "price_usd": 3.201e-06,
+          "price_native": 3.148e-08,
+          "market_cap_usd": 3201.0,
+          "fdv_usd": 3201.0,
+          "liquidity_usd": 13.54,
+          "liquidity_base": 2114629.0,
+          "liquidity_quote": 0.06668,
+          "volume_m5_usd": 0.0,
+          "volume_h1_usd": 0.0,
+          "volume_h6_usd": 0.0,
+          "volume_h24_usd": 58.36,
+          "buys_m5": 0.0,
+          "sells_m5": 0.0,
+          "buys_h1": 0.0,
+          "sells_h1": 0.0,
+          "buys_h6": 0.0,
+          "sells_h6": 0.0,
+          "buys_h24": 10.0,
+          "sells_h24": 15.0,
+          "price_change_5m_pct": null,
+          "price_change_1h_pct": null,
+          "price_change_6h_pct": null,
+          "price_change_24h_pct": -88.61,
+          "url": "https://dexscreener.com/solana/7wvphp1kfphgrs39ab2kcw9jjz5sbccpmg3bg4mjonnj",
+          "labels": [
+            "DYN2"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/0OKXJ7JFj-3EgrzU?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/0vAGaG9eZ-Ea5otV?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4Zq7wYZ9Z9fhfuErDBvNpWvKcFz8EZdhrC1WnA3ppump?timestamp=1789218300000",
+            "websites": [
+              {
+                "url": "https://www.Sept11.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2018518173318828391",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "4Zq7wYZ9Z9fhfuErDBvNpWvKcFz8EZdhrC1WnA3ppump",
+            "name": "Osama Boeing Ladin ",
+            "symbol": "Osama"
+          },
+          "buy_sell_ratio_m5": null,
+          "buy_sell_ratio_h1": null,
+          "net_buys_m5": 0,
+          "net_buys_h1": 0,
+          "volume_liquidity_ratio_h1": 0.0,
+          "volume_liquidity_ratio_m5": 0.0,
+          "capital_inflow_index": 0.0,
+          "capital_inflow_index_h1": 0.0
         }
       },
       "discovery_source": "boosted",
