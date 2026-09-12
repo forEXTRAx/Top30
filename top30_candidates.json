@@ -40563,7 +40563,7 @@
       },
       "discovery_source": "boosted",
       "is_boosted": true,
-      "boost_amount": 30.0,
+      "boost_amount": 10.0,
       "boost_total_amount": 40.0,
       "boost_events": [
         {
@@ -40715,8 +40715,88 @@
           "ts_ms": 1789181263997,
           "amount": 30.0,
           "total_amount": 40.0
+        },
+        {
+          "ts_ms": 1789181955336,
+          "amount": 10.0,
+          "total_amount": 40.0
         }
       ]
+    },
+    "solana:R1LPJwRqxHm6BpAh2UQeskyktkSNZ4b25fEcRerSTNK": {
+      "id": "solana:R1LPJwRqxHm6BpAh2UQeskyktkSNZ4b25fEcRerSTNK",
+      "chain": "solana",
+      "address": "R1LPJwRqxHm6BpAh2UQeskyktkSNZ4b25fEcRerSTNK",
+      "pair_address": "HtT2SN1iWC3hbs2JT7vPp8p5KdsoC1egNKn9gUG4dXuo",
+      "launch_time_ms": 1789181874000,
+      "checkpoints": {
+        "1": {
+          "timestamp_ms": 1789181955723,
+          "age_min": 1.36205,
+          "top30_rank": null,
+          "chain": "solana",
+          "dex": "raydium",
+          "pair_address": "HtT2SN1iWC3hbs2JT7vPp8p5KdsoC1egNKn9gUG4dXuo",
+          "pair_created_at_ms": 1789181874000,
+          "price_usd": 2.646e-05,
+          "price_native": 8.947e-05,
+          "market_cap_usd": 26464.0,
+          "fdv_usd": 26464.0,
+          "liquidity_usd": 13845.69,
+          "liquidity_base": 256658943.0,
+          "liquidity_quote": 23847.0,
+          "volume_m5_usd": 8615.56,
+          "volume_h1_usd": 8615.56,
+          "volume_h6_usd": 8615.56,
+          "volume_h24_usd": 8615.56,
+          "buys_m5": 67.0,
+          "sells_m5": 173.0,
+          "buys_h1": 67.0,
+          "sells_h1": 173.0,
+          "buys_h6": 67.0,
+          "sells_h6": 173.0,
+          "buys_h24": 67.0,
+          "sells_h24": 173.0,
+          "price_change_5m_pct": -38.2,
+          "price_change_1h_pct": -38.2,
+          "price_change_6h_pct": -38.2,
+          "price_change_24h_pct": -38.2,
+          "url": "https://dexscreener.com/solana/htt2sn1iwc3hbs2jt7vpp8p5kdsoc1egnkn9gug4dxuo",
+          "labels": [
+            "CPMM"
+          ],
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/krzIvWOHcs9lX4AI?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/R1LPJwRqxHm6BpAh2UQeskyktkSNZ4b25fEcRerSTNK?timestamp=1789182000000",
+            "websites": [
+              {
+                "url": "https://x.com/Raydium/status/2098407687172055439?s=20",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/DarwinXbt/status/2098603415798501520?s=20",
+                "type": "twitter"
+              }
+            ]
+          },
+          "base_token": {
+            "address": "R1LPJwRqxHm6BpAh2UQeskyktkSNZ4b25fEcRerSTNK",
+            "name": "MemeFi",
+            "symbol": "MEMEFI"
+          },
+          "buy_sell_ratio_m5": 0.3872832369942196,
+          "buy_sell_ratio_h1": 0.3872832369942196,
+          "net_buys_m5": -106.0,
+          "net_buys_h1": -106.0,
+          "volume_liquidity_ratio_h1": 0.6222557344559931,
+          "volume_liquidity_ratio_m5": 0.6222557344559931,
+          "capital_inflow_index": 0.2432,
+          "capital_inflow_index_h1": 0.2432
+        }
+      },
+      "discovery_source": "organic"
     }
   }
 }
